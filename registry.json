@@ -2,9 +2,11 @@
   {
     "name": "Rainbow",
     "logo": "rainbow.png",
-    "urls": {
-      "homepage": "https://rainbow.me/",
-      "app": ""
+    "homepage": "https://rainbow.me/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://rnbwapp.com",
@@ -16,9 +18,11 @@
   {
     "name": "Trust",
     "logo": "trust-wallet.png",
-    "urls": {
-      "homepage": "https://trustwallet.com/",
-      "app": ""
+    "homepage": "https://trustwallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://link.trustwallet.com",
@@ -30,9 +34,11 @@
   {
     "name": "Argent",
     "logo": "argent.jpg",
-    "urls": {
-      "homepage": "https://www.argent.xyz/",
-      "app": ""
+    "homepage": "https://www.argent.xyz/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://argent.link/app",
@@ -44,9 +50,11 @@
   {
     "name": "MetaMask",
     "logo": "metamask.png",
-    "urls": {
-      "homepage": "https://metamask.io/",
-      "app": ""
+    "homepage": "https://metamask.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -58,9 +66,11 @@
   {
     "name": "Gnosis Safe Multisig",
     "logo": "gnosis-safe.jpg",
-    "urls": {
-      "homepage": "https://gnosis-safe.io/",
-      "app": ""
+    "homepage": "https://gnosis-safe.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -72,9 +82,11 @@
   {
     "name": "Crypto.com | DeFi Wallet",
     "logo": "crypto.png",
-    "urls": {
-      "homepage": "https://crypto.com/en/defi/wallet/",
-      "app": ""
+    "homepage": "https://crypto.com/en/defi/wallet/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://wallet.crypto.com",
@@ -86,9 +98,11 @@
   {
     "name": "Pillar",
     "logo": "pillar-wallet.png",
-    "urls": {
-      "homepage": "https://pillarproject.io/",
-      "app": ""
+    "homepage": "https://pillarproject.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -100,9 +114,11 @@
   {
     "name": "imToken",
     "logo": "imtoken.png",
-    "urls": {
-      "homepage": "https://token.im/",
-      "app": ""
+    "homepage": "https://token.im/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -114,9 +130,11 @@
   {
     "name": "ONTO",
     "logo": "onto.png",
-    "urls": {
-      "homepage": "https://onto.app/",
-      "app": ""
+    "homepage": "https://onto.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://onto.app",
@@ -128,9 +146,11 @@
   {
     "name": "TokenPocket",
     "logo": "tokenpocket.png",
-    "urls": {
-      "homepage": "https://www.tokenpocket.pro/",
-      "app": ""
+    "homepage": "https://www.tokenpocket.pro/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -142,9 +162,11 @@
   {
     "name": "MathWallet",
     "logo": "math-wallet.png",
-    "urls": {
-      "homepage": "https://mathwallet.org/en/",
-      "app": ""
+    "homepage": "https://mathwallet.org/en/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://www.mathwallet.org",
@@ -156,9 +178,11 @@
   {
     "name": "BitPay",
     "logo": "bitpay.jpg",
-    "urls": {
-      "homepage": "https://bitpay.com/wallet",
-      "app": ""
+    "homepage": "https://bitpay.com/wallet",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://bitpay.com/wallet",
@@ -170,9 +194,11 @@
   {
     "name": "Ledger Live",
     "logo": "ledgerlive.png",
-    "urls": {
-      "homepage": "https://www.ledger.com/ledger-live",
-      "app": ""
+    "homepage": "https://www.ledger.com/ledger-live",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -184,9 +210,11 @@
   {
     "name": "Walleth",
     "logo": "walleth.png",
-    "urls": {
-      "homepage": "https://walleth.org/",
-      "app": ""
+    "homepage": "https://walleth.org/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -198,9 +226,11 @@
   {
     "name": "Authereum",
     "logo": "authereum.png",
-    "urls": {
-      "homepage": "https://authereum.org",
-      "app": ""
+    "homepage": "https://authereum.org",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -212,9 +242,11 @@
   {
     "name": "Huobi Wallet",
     "logo": "huobi.jpg",
-    "urls": {
-      "homepage": "https://www.huobiwallet.com/",
-      "app": ""
+    "homepage": "https://www.huobiwallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -226,9 +258,11 @@
   {
     "name": "Eidoo",
     "logo": "eidoo.png",
-    "urls": {
-      "homepage": "https://eidoo.io/",
-      "app": ""
+    "homepage": "https://eidoo.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -240,9 +274,11 @@
   {
     "name": "MYKEY",
     "logo": "mykey.png",
-    "urls": {
-      "homepage": "https://mykey.org",
-      "app": ""
+    "homepage": "https://mykey.org",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -254,9 +290,11 @@
   {
     "name": "Loopring Wallet",
     "logo": "loopring.jpg",
-    "urls": {
-      "homepage": "https://loopring.io",
-      "app": ""
+    "homepage": "https://loopring.io",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -268,9 +306,11 @@
   {
     "name": "TrustVault",
     "logo": "trustvault.png",
-    "urls": {
-      "homepage": "https://www.trustology.io/",
-      "app": ""
+    "homepage": "https://www.trustology.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -282,9 +322,11 @@
   {
     "name": "Atomic",
     "logo": "atomic.png",
-    "urls": {
-      "homepage": "https://atomicwallet.io/",
-      "app": ""
+    "homepage": "https://atomicwallet.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -296,9 +338,11 @@
   {
     "name": "Coin98",
     "logo": "coin98.png",
-    "urls": {
-      "homepage": "https://coin98.app/",
-      "app": ""
+    "homepage": "https://coin98.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://coin98.app",
@@ -310,9 +354,11 @@
   {
     "name": "CoolWallet S",
     "logo": "coolwallet-s.png",
-    "urls": {
-      "homepage": "https://www.coolwallet.io/",
-      "app": ""
+    "homepage": "https://www.coolwallet.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -324,9 +370,11 @@
   {
     "name": "Alice",
     "logo": "alice.png",
-    "urls": {
-      "homepage": "https://www.alicedapp.com/",
-      "app": ""
+    "homepage": "https://www.alicedapp.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -338,9 +386,11 @@
   {
     "name": "AlphaWallet",
     "logo": "alpha-wallet.jpg",
-    "urls": {
-      "homepage": "https://alphawallet.com/",
-      "app": ""
+    "homepage": "https://alphawallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://aw.app",
@@ -352,9 +402,11 @@
   {
     "name": "D'CENT Wallet",
     "logo": "dcentwallet.png",
-    "urls": {
-      "homepage": "https://dcentwallet.com/",
-      "app": ""
+    "homepage": "https://dcentwallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -366,9 +418,11 @@
   {
     "name": "ZelCore",
     "logo": "zelcore.png",
-    "urls": {
-      "homepage": "https://zel.network/project/zelcore/",
-      "app": ""
+    "homepage": "https://zel.network/project/zelcore/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -380,9 +434,11 @@
   {
     "name": "Nash",
     "logo": "nash.jpg",
-    "urls": {
-      "homepage": "https://nash.io/",
-      "app": ""
+    "homepage": "https://nash.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -394,9 +450,11 @@
   {
     "name": "Coinomi",
     "logo": "coinomi.jpg",
-    "urls": {
-      "homepage": "https://coinomi.com/",
-      "app": ""
+    "homepage": "https://coinomi.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -408,9 +466,11 @@
   {
     "name": "GridPlus",
     "logo": "gridplus.png",
-    "urls": {
-      "homepage": "https://gridplus.io/",
-      "app": ""
+    "homepage": "https://gridplus.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -422,9 +482,11 @@
   {
     "name": "CYBAVO Wallet",
     "logo": "cybavowallet.png",
-    "urls": {
-      "homepage": "https://www.cybavo.com/wallet-app-sdk/",
-      "app": ""
+    "homepage": "https://www.cybavo.com/wallet-app-sdk/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -436,9 +498,11 @@
   {
     "name": "Tokenary",
     "logo": "tokenary.png",
-    "urls": {
-      "homepage": "https://tokenary.io/",
-      "app": ""
+    "homepage": "https://tokenary.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -450,9 +514,11 @@
   {
     "name": "Torus",
     "logo": "torus.jpg",
-    "urls": {
-      "homepage": "https://toruswallet.io/",
-      "app": ""
+    "homepage": "https://toruswallet.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -464,9 +530,11 @@
   {
     "name": "Spatium",
     "logo": "spatium.jpg",
-    "urls": {
-      "homepage": "https://spatium.net/",
-      "app": ""
+    "homepage": "https://spatium.net/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -478,9 +546,11 @@
   {
     "name": "SafePal",
     "logo": "safepal.png",
-    "urls": {
-      "homepage": "https://safepal.io/",
-      "app": ""
+    "homepage": "https://safepal.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -492,9 +562,11 @@
   {
     "name": "Equal",
     "logo": "equal.jpg",
-    "urls": {
-      "homepage": "https://equal.tech/",
-      "app": ""
+    "homepage": "https://equal.tech/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -506,9 +578,11 @@
   {
     "name": "Infinito",
     "logo": "infinito-wallet.png",
-    "urls": {
-      "homepage": "https://www.infinitowallet.io/",
-      "app": ""
+    "homepage": "https://www.infinitowallet.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -520,9 +594,11 @@
   {
     "name": "wallet.io",
     "logo": "wallet.io.png",
-    "urls": {
-      "homepage": "https://wallet.io/",
-      "app": ""
+    "homepage": "https://wallet.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -534,9 +610,11 @@
   {
     "name": "Infinity Wallet",
     "logo": "infinity-wallet.png",
-    "urls": {
-      "homepage": "https://infinitywallet.io/",
-      "app": ""
+    "homepage": "https://infinitywallet.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -548,9 +626,11 @@
   {
     "name": "Ownbit",
     "logo": "ownbit.png",
-    "urls": {
-      "homepage": "https://ownbit.io/",
-      "app": ""
+    "homepage": "https://ownbit.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -562,9 +642,11 @@
   {
     "name": "EasyPocket",
     "logo": "easypocket.jpg",
-    "urls": {
-      "homepage": "https://easypocket.app/",
-      "app": ""
+    "homepage": "https://easypocket.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -576,9 +658,11 @@
   {
     "name": "Bridge Wallet",
     "logo": "bridge.png",
-    "urls": {
-      "homepage": "https://www.mtpelerin.com/bridge-wallet",
-      "app": ""
+    "homepage": "https://www.mtpelerin.com/bridge-wallet",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -590,9 +674,11 @@
   {
     "name": "SparkPoint",
     "logo": "sparkpoint.png",
-    "urls": {
-      "homepage": "https://sparkpoint.io/",
-      "app": ""
+    "homepage": "https://sparkpoint.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -604,9 +690,11 @@
   {
     "name": "ViaWallet",
     "logo": "viawallet.png",
-    "urls": {
-      "homepage": "https://viawallet.com/",
-      "app": ""
+    "homepage": "https://viawallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -618,9 +706,11 @@
   {
     "name": "BitKeep",
     "logo": "bitkeep.png",
-    "urls": {
-      "homepage": "https://bitkeep.com/",
-      "app": ""
+    "homepage": "https://bitkeep.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -632,9 +722,11 @@
   {
     "name": "Vision",
     "logo": "vision.png",
-    "urls": {
-      "homepage": "https://vision-crypto.com/",
-      "app": ""
+    "homepage": "https://vision-crypto.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -646,9 +738,11 @@
   {
     "name": "SWFT Wallet",
     "logo": "swft.png",
-    "urls": {
-      "homepage": "https://www.swft.pro/",
-      "app": ""
+    "homepage": "https://www.swft.pro/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -660,9 +754,11 @@
   {
     "name": "PEAKDEFI Wallet",
     "logo": "peakdefi.png",
-    "urls": {
-      "homepage": "https://peakdefi.com/download",
-      "app": ""
+    "homepage": "https://peakdefi.com/download",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -674,9 +770,11 @@
   {
     "name": "XDC Wallet",
     "logo": "xdc.png",
-    "urls": {
-      "homepage": "https://play.google.com/store/apps/details?id=com.xdcwallet",
-      "app": ""
+    "homepage": "https://play.google.com/store/apps/details?id=com.xdcwallet",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -688,9 +786,11 @@
   {
     "name": "Unstoppable Wallet",
     "logo": "unstoppable.png",
-    "urls": {
-      "homepage": "https://unstoppable.money/",
-      "app": ""
+    "homepage": "https://unstoppable.money/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -702,9 +802,11 @@
   {
     "name": "HaloDeFi Wallet",
     "logo": "halodefi.png",
-    "urls": {
-      "homepage": "https://halodefi.org/",
-      "app": ""
+    "homepage": "https://halodefi.org/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -716,9 +818,11 @@
   {
     "name": "MEET.ONE",
     "logo": "meetone.jpg",
-    "urls": {
-      "homepage": "https://meet.one/",
-      "app": ""
+    "homepage": "https://meet.one/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -730,9 +834,11 @@
   {
     "name": "Dok Wallet",
     "logo": "dok.png",
-    "urls": {
-      "homepage": "https://dokwallet.com/",
-      "app": ""
+    "homepage": "https://dokwallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -744,9 +850,11 @@
   {
     "name": "AT.Wallet",
     "logo": "atwallet.png",
-    "urls": {
-      "homepage": "https://authentrend.com/at-wallet/",
-      "app": ""
+    "homepage": "https://authentrend.com/at-wallet/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -758,9 +866,11 @@
   {
     "name": "MoriX Wallet",
     "logo": "morixwallet.png",
-    "urls": {
-      "homepage": "https://morixjp.com/product/walletcard",
-      "app": ""
+    "homepage": "https://morixjp.com/product/walletcard",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -772,9 +882,11 @@
   {
     "name": "Midas Wallet",
     "logo": "midas-wallet.png",
-    "urls": {
-      "homepage": "https://midasprotocol.io/",
-      "app": ""
+    "homepage": "https://midasprotocol.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -786,9 +898,11 @@
   {
     "name": "Ellipal",
     "logo": "ellipal.png",
-    "urls": {
-      "homepage": "https://www.ellipal.com/",
-      "app": ""
+    "homepage": "https://www.ellipal.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://www.ellipal.com/",
@@ -800,9 +914,11 @@
   {
     "name": "KEYRING PRO",
     "logo": "keyringpro.png",
-    "urls": {
-      "homepage": "https://keyring.app/",
-      "app": ""
+    "homepage": "https://keyring.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://keyring.app",
@@ -814,9 +930,11 @@
   {
     "name": "Aktionariat",
     "logo": "aktionariat.png",
-    "urls": {
-      "homepage": "https://aktionariat.com/",
-      "app": ""
+    "homepage": "https://aktionariat.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://aktionariat.com/app",
@@ -828,9 +946,11 @@
   {
     "name": "Talken Wallet",
     "logo": "talken.png",
-    "urls": {
-      "homepage": "https://talken.io",
-      "app": ""
+    "homepage": "https://talken.io",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "https://talken.io",
@@ -842,9 +962,11 @@
   {
     "name": "Etherscan",
     "logo": "etherscan.jpg",
-    "urls": {
-      "homepage": "https://etherscan.io/",
-      "app": ""
+    "homepage": "https://etherscan.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -856,9 +978,11 @@
   {
     "name": "Uniswap",
     "logo": "uniswap.jpg",
-    "urls": {
-      "homepage": "https://uniswap.exchange/",
-      "app": ""
+    "homepage": "https://uniswap.exchange/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -870,9 +994,11 @@
   {
     "name": "Binance DEX",
     "logo": "binancedex.png",
-    "urls": {
-      "homepage": "https://binance.org/",
-      "app": ""
+    "homepage": "https://binance.org/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -884,9 +1010,11 @@
   {
     "name": "OpenSea",
     "logo": "opensea.jpg",
-    "urls": {
-      "homepage": "https://opensea.io/",
-      "app": ""
+    "homepage": "https://opensea.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -898,9 +1026,11 @@
   {
     "name": "Compound",
     "logo": "compound.png",
-    "urls": {
-      "homepage": "https://compound.finance/",
-      "app": ""
+    "homepage": "https://compound.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -912,9 +1042,11 @@
   {
     "name": "Zapper",
     "logo": "zapper.png",
-    "urls": {
-      "homepage": "https://www.zapper.fi/",
-      "app": ""
+    "homepage": "https://www.zapper.fi/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -926,9 +1058,11 @@
   {
     "name": "Aave",
     "logo": "aave.png",
-    "urls": {
-      "homepage": "https://app.aave.com/",
-      "app": ""
+    "homepage": "https://app.aave.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -940,9 +1074,11 @@
   {
     "name": "Zerion",
     "logo": "zerion.png",
-    "urls": {
-      "homepage": "https://beta.zerion.io/",
-      "app": ""
+    "homepage": "https://beta.zerion.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -954,9 +1090,11 @@
   {
     "name": "LocalCryptos",
     "logo": "localcryptos.jpg",
-    "urls": {
-      "homepage": "https://localcryptos.com/",
-      "app": ""
+    "homepage": "https://localcryptos.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -968,9 +1106,11 @@
   {
     "name": "DeBank",
     "logo": "debank.jpg",
-    "urls": {
-      "homepage": "https://debank.com/",
-      "app": ""
+    "homepage": "https://debank.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -982,9 +1122,11 @@
   {
     "name": "Unstoppable Domains",
     "logo": "unstoppable.png",
-    "urls": {
-      "homepage": "https://unstoppabledomains.com/manager",
-      "app": ""
+    "homepage": "https://unstoppabledomains.com/manager",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -996,9 +1138,11 @@
   {
     "name": "Rarible",
     "logo": "rarible.png",
-    "urls": {
-      "homepage": "https://app.rarible.com/#/connect",
-      "app": ""
+    "homepage": "https://app.rarible.com/#/connect",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1010,9 +1154,11 @@
   {
     "name": "1inch Exchange",
     "logo": "oneinchexchange.png",
-    "urls": {
-      "homepage": "https://1inch.exchange/",
-      "app": ""
+    "homepage": "https://1inch.exchange/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1024,9 +1170,11 @@
   {
     "name": "yearn",
     "logo": "yearn.png",
-    "urls": {
-      "homepage": "https://yearn.finance/",
-      "app": ""
+    "homepage": "https://yearn.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1038,9 +1186,11 @@
   {
     "name": "Nash",
     "logo": "nash.jpg",
-    "urls": {
-      "homepage": "https://nash.io/",
-      "app": ""
+    "homepage": "https://nash.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1052,9 +1202,11 @@
   {
     "name": "Curve",
     "logo": "curvefinance.png",
-    "urls": {
-      "homepage": "https://www.curve.fi",
-      "app": ""
+    "homepage": "https://www.curve.fi",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1066,9 +1218,11 @@
   {
     "name": "Adex Network",
     "logo": "adexnetwork.jpg",
-    "urls": {
-      "homepage": "https://staking.adex.network/",
-      "app": ""
+    "homepage": "https://staking.adex.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1080,9 +1234,11 @@
   {
     "name": "dYdX",
     "logo": "dydx.jpg",
-    "urls": {
-      "homepage": "https://dydx.exchange/",
-      "app": ""
+    "homepage": "https://dydx.exchange/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1094,9 +1250,11 @@
   {
     "name": "MyCrypto",
     "logo": "mycrypto.png",
-    "urls": {
-      "homepage": "https://beta.mycrypto.com/",
-      "app": ""
+    "homepage": "https://beta.mycrypto.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1108,9 +1266,11 @@
   {
     "name": "Oasis App",
     "logo": "oasis.png",
-    "urls": {
-      "homepage": "https://oasis.app/dashboard",
-      "app": ""
+    "homepage": "https://oasis.app/dashboard",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1122,9 +1282,11 @@
   {
     "name": "TokenSets",
     "logo": "tokensets.jpg",
-    "urls": {
-      "homepage": "https://tokensets.com/",
-      "app": ""
+    "homepage": "https://tokensets.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1136,9 +1298,11 @@
   {
     "name": "MANTRA DAO",
     "logo": "mantradao.png",
-    "urls": {
-      "homepage": "https://app.mantradao.com/",
-      "app": ""
+    "homepage": "https://app.mantradao.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1150,9 +1314,11 @@
   {
     "name": "Matcha",
     "logo": "matcha.jpg",
-    "urls": {
-      "homepage": "https://matcha.xyz",
-      "app": ""
+    "homepage": "https://matcha.xyz",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1164,9 +1330,11 @@
   {
     "name": "KyberSwap",
     "logo": "kyberswap.jpg",
-    "urls": {
-      "homepage": "https://kyberswap.com/",
-      "app": ""
+    "homepage": "https://kyberswap.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1178,9 +1346,11 @@
   {
     "name": "DeFi Portfolio Tracker",
     "logo": "defiportfolio.png",
-    "urls": {
-      "homepage": "https://portfolio.defiprime.com/",
-      "app": ""
+    "homepage": "https://portfolio.defiprime.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1192,9 +1362,11 @@
   {
     "name": "Loopring",
     "logo": "loopring.jpg",
-    "urls": {
-      "homepage": "https://exchange.loopring.io",
-      "app": ""
+    "homepage": "https://exchange.loopring.io",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1206,9 +1378,11 @@
   {
     "name": "InstaDapp",
     "logo": "instadapp.jpg",
-    "urls": {
-      "homepage": "https://instadapp.io/dashboard/",
-      "app": ""
+    "homepage": "https://instadapp.io/dashboard/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1220,9 +1394,11 @@
   {
     "name": "Matic Network",
     "logo": "maticnetwork.jpg",
-    "urls": {
-      "homepage": "https://matic.network/",
-      "app": ""
+    "homepage": "https://matic.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1234,9 +1410,11 @@
   {
     "name": "3Box",
     "logo": "box.png",
-    "urls": {
-      "homepage": "https://3box.io/",
-      "app": ""
+    "homepage": "https://3box.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1248,9 +1426,11 @@
   {
     "name": "DDEX",
     "logo": "ddex.png",
-    "urls": {
-      "homepage": "https://ddex.io/",
-      "app": ""
+    "homepage": "https://ddex.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1262,9 +1442,11 @@
   {
     "name": "Totle",
     "logo": "totle.jpg",
-    "urls": {
-      "homepage": "https://swap.totle.com/",
-      "app": ""
+    "homepage": "https://swap.totle.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1276,9 +1458,11 @@
   {
     "name": "Bamboo Relay",
     "logo": "bamboorelay.png",
-    "urls": {
-      "homepage": "https://bamboorelay.com/",
-      "app": ""
+    "homepage": "https://bamboorelay.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1290,9 +1474,11 @@
   {
     "name": "Synthetix",
     "logo": "synthetix.jpg",
-    "urls": {
-      "homepage": "https://synthetix.exchange/",
-      "app": ""
+    "homepage": "https://synthetix.exchange/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1304,9 +1490,11 @@
   {
     "name": "dex.blue",
     "logo": "dexblue.jpg",
-    "urls": {
-      "homepage": "https://dex.blue/trading/",
-      "app": ""
+    "homepage": "https://dex.blue/trading/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1318,9 +1506,11 @@
   {
     "name": "PoolTogether",
     "logo": "pooltogether.png",
-    "urls": {
-      "homepage": "https://app.pooltogether.com/",
-      "app": ""
+    "homepage": "https://app.pooltogether.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1332,9 +1522,11 @@
   {
     "name": "Sablier",
     "logo": "sablier.jpg",
-    "urls": {
-      "homepage": "https://sablier.finance/",
-      "app": ""
+    "homepage": "https://sablier.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1346,9 +1538,11 @@
   {
     "name": "DEX.AG",
     "logo": "dexag.png",
-    "urls": {
-      "homepage": "https://dex.ag/",
-      "app": ""
+    "homepage": "https://dex.ag/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1360,9 +1554,11 @@
   {
     "name": "Gelato",
     "logo": "gelato.jpg",
-    "urls": {
-      "homepage": "https://play.gelato.finance/",
-      "app": ""
+    "homepage": "https://play.gelato.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1374,9 +1570,11 @@
   {
     "name": "ENS Domains",
     "logo": "ensdomains.jpg",
-    "urls": {
-      "homepage": "https://app.ens.domains/",
-      "app": ""
+    "homepage": "https://app.ens.domains/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1388,9 +1586,11 @@
   {
     "name": "Gnosis Safe Multisig",
     "logo": "gnosis-safe.jpg",
-    "urls": {
-      "homepage": "https://gnosis-safe.io/",
-      "app": ""
+    "homepage": "https://gnosis-safe.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1402,9 +1602,11 @@
   {
     "name": "Idle Finance",
     "logo": "idlefinance.png",
-    "urls": {
-      "homepage": "https://idle.finance/",
-      "app": ""
+    "homepage": "https://idle.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1416,9 +1618,11 @@
   {
     "name": "iearn.finance",
     "logo": "iearnfinance.jpg",
-    "urls": {
-      "homepage": "https://iearn.finance/",
-      "app": ""
+    "homepage": "https://iearn.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1430,9 +1634,11 @@
   {
     "name": "RCN Finance",
     "logo": "rcnfinance.jpg",
-    "urls": {
-      "homepage": "https://rcn.market/",
-      "app": ""
+    "homepage": "https://rcn.market/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1444,9 +1650,11 @@
   {
     "name": "Hegic",
     "logo": "hegic.jpg",
-    "urls": {
-      "homepage": "https://www.hegic.co/",
-      "app": ""
+    "homepage": "https://www.hegic.co/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1458,9 +1666,11 @@
   {
     "name": "Kickback",
     "logo": "kickback.jpg",
-    "urls": {
-      "homepage": "https://kickback.events/",
-      "app": ""
+    "homepage": "https://kickback.events/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1472,9 +1682,11 @@
   {
     "name": "88mph",
     "logo": "88mph.jpg",
-    "urls": {
-      "homepage": "https://88mph.app/",
-      "app": ""
+    "homepage": "https://88mph.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1486,9 +1698,11 @@
   {
     "name": "Mooni",
     "logo": "mooni.jpg",
-    "urls": {
-      "homepage": "https://app.mooni.tech/exchange",
-      "app": ""
+    "homepage": "https://app.mooni.tech/exchange",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1500,9 +1714,11 @@
   {
     "name": "Clovers",
     "logo": "clovers.png",
-    "urls": {
-      "homepage": "https://clovers.network/",
-      "app": ""
+    "homepage": "https://clovers.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1514,9 +1730,11 @@
   {
     "name": "Mintbase",
     "logo": "mintbase.jpg",
-    "urls": {
-      "homepage": "https://mintbase.io/",
-      "app": ""
+    "homepage": "https://mintbase.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1528,9 +1746,11 @@
   {
     "name": "DAOstack",
     "logo": "daostack.jpg",
-    "urls": {
-      "homepage": "https://alchemy.daostack.io/",
-      "app": ""
+    "homepage": "https://alchemy.daostack.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1542,9 +1762,11 @@
   {
     "name": "KnownOrigin",
     "logo": "knownorigin.jpg",
-    "urls": {
-      "homepage": "https://knownorigin.io/",
-      "app": ""
+    "homepage": "https://knownorigin.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1556,9 +1778,11 @@
   {
     "name": "MyEtherWallet",
     "logo": "myetherwallet.jpg",
-    "urls": {
-      "homepage": "https://myetherwallet.com/",
-      "app": ""
+    "homepage": "https://myetherwallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1570,9 +1794,11 @@
   {
     "name": "Affogato",
     "logo": "affogato.png",
-    "urls": {
-      "homepage": "https://affogato.co/",
-      "app": ""
+    "homepage": "https://affogato.co/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1584,9 +1810,11 @@
   {
     "name": "StablePay",
     "logo": "stablepay.jpg",
-    "urls": {
-      "homepage": "https://stablepay.io/dashboard",
-      "app": ""
+    "homepage": "https://stablepay.io/dashboard",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1598,9 +1826,11 @@
   {
     "name": "DeFi Saver",
     "logo": "defisaver.jpg",
-    "urls": {
-      "homepage": "https://defisaver.com/",
-      "app": ""
+    "homepage": "https://defisaver.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1612,9 +1842,11 @@
   {
     "name": "Loom Network",
     "logo": "loomnetwork.png",
-    "urls": {
-      "homepage": "https://dashboard.dappchains.com/login",
-      "app": ""
+    "homepage": "https://dashboard.dappchains.com/login",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1626,9 +1858,11 @@
   {
     "name": "ThorChain",
     "logo": "thorchain.jpg",
-    "urls": {
-      "homepage": "https://thorchain.org/",
-      "app": ""
+    "homepage": "https://thorchain.org/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1640,9 +1874,11 @@
   {
     "name": "BulkSender",
     "logo": "bulksender.png",
-    "urls": {
-      "homepage": "https://bulksender.app/",
-      "app": ""
+    "homepage": "https://bulksender.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1654,9 +1890,11 @@
   {
     "name": "Heroes of Ether",
     "logo": "heroesofether.png",
-    "urls": {
-      "homepage": "https://heroesofether.io/",
-      "app": ""
+    "homepage": "https://heroesofether.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1668,9 +1906,11 @@
   {
     "name": "Betoken",
     "logo": "betoken.png",
-    "urls": {
-      "homepage": "https://betoken.fund/",
-      "app": ""
+    "homepage": "https://betoken.fund/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1682,9 +1922,11 @@
   {
     "name": "Linkdrop",
     "logo": "linkdrop.png",
-    "urls": {
-      "homepage": "https://linkdrop.io/",
-      "app": ""
+    "homepage": "https://linkdrop.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1696,9 +1938,11 @@
   {
     "name": "HelioWallet",
     "logo": "heliowallet.png",
-    "urls": {
-      "homepage": "https://heliowallet.com/",
-      "app": ""
+    "homepage": "https://heliowallet.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1710,9 +1954,11 @@
   {
     "name": "Escaroo",
     "logo": "escaroo.png",
-    "urls": {
-      "homepage": "https://escaroo.com/",
-      "app": ""
+    "homepage": "https://escaroo.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1724,9 +1970,11 @@
   {
     "name": "TokenMarket",
     "logo": "tokenmarket.png",
-    "urls": {
-      "homepage": "https://tokenmarket.net/",
-      "app": ""
+    "homepage": "https://tokenmarket.net/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1738,9 +1986,11 @@
   {
     "name": "Mesa",
     "logo": "mesa.png",
-    "urls": {
-      "homepage": "https://mesa.eth.link/",
-      "app": ""
+    "homepage": "https://mesa.eth.link/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1752,9 +2002,11 @@
   {
     "name": "MCDEX",
     "logo": "mcdex.png",
-    "urls": {
-      "homepage": "https://mcdex.io",
-      "app": ""
+    "homepage": "https://mcdex.io",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1766,9 +2018,11 @@
   {
     "name": "Furucombo",
     "logo": "furucombo.png",
-    "urls": {
-      "homepage": "https://furucombo.app/",
-      "app": ""
+    "homepage": "https://furucombo.app/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1780,9 +2034,11 @@
   {
     "name": "Melon",
     "logo": "melon.png",
-    "urls": {
-      "homepage": "https://melon.avantgarde.finance/",
-      "app": ""
+    "homepage": "https://melon.avantgarde.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1794,9 +2050,11 @@
   {
     "name": "Chainsfr",
     "logo": "chainsfr.png",
-    "urls": {
-      "homepage": "https://chainsfr.com",
-      "app": ""
+    "homepage": "https://chainsfr.com",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1808,9 +2066,11 @@
   {
     "name": "AKA3 Email Alias",
     "logo": "aka3.png",
-    "urls": {
-      "homepage": "http://aka3.net",
-      "app": ""
+    "homepage": "http://aka3.net",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1822,9 +2082,11 @@
   {
     "name": "2Key",
     "logo": "2key.jpg",
-    "urls": {
-      "homepage": "https://www.2key.network/",
-      "app": ""
+    "homepage": "https://www.2key.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1836,9 +2098,11 @@
   {
     "name": "Pitch",
     "logo": "pitch.jpg",
-    "urls": {
-      "homepage": "https://pitchinvestorslive.com/",
-      "app": ""
+    "homepage": "https://pitchinvestorslive.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1850,9 +2114,11 @@
   {
     "name": "SushiSwap",
     "logo": "sushiswap.png",
-    "urls": {
-      "homepage": "https://sushiswap.fi/",
-      "app": ""
+    "homepage": "https://sushiswap.fi/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1864,9 +2130,11 @@
   {
     "name": "Unagii",
     "logo": "unagii.png",
-    "urls": {
-      "homepage": "https://www.unagii.com/",
-      "app": ""
+    "homepage": "https://www.unagii.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1878,9 +2146,11 @@
   {
     "name": "Cream Finance",
     "logo": "creamfinance.jpg",
-    "urls": {
-      "homepage": "https://cream.finance/",
-      "app": ""
+    "homepage": "https://cream.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1892,9 +2162,11 @@
   {
     "name": "zkSync",
     "logo": "zksync.jpg",
-    "urls": {
-      "homepage": "https://zksync.io/",
-      "app": ""
+    "homepage": "https://zksync.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1906,9 +2178,11 @@
   {
     "name": "Shell Exchange",
     "logo": "shell.jpg",
-    "urls": {
-      "homepage": "https://shells.exchange/",
-      "app": ""
+    "homepage": "https://shells.exchange/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1920,9 +2194,11 @@
   {
     "name": "Index Coop",
     "logo": "indexcoop.jpg",
-    "urls": {
-      "homepage": "https://www.indexcoop.com/",
-      "app": ""
+    "homepage": "https://www.indexcoop.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1934,9 +2210,11 @@
   {
     "name": "SwapX",
     "logo": "swapx.jpg",
-    "urls": {
-      "homepage": "https://app.swapx.org/",
-      "app": ""
+    "homepage": "https://app.swapx.org/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1948,9 +2226,11 @@
   {
     "name": "Starname",
     "logo": "starname.png",
-    "urls": {
-      "homepage": "https://app.starname.me/",
-      "app": ""
+    "homepage": "https://app.starname.me/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1962,9 +2242,11 @@
   {
     "name": "Space",
     "logo": "space.png",
-    "urls": {
-      "homepage": "https://space.storage/",
-      "app": ""
+    "homepage": "https://space.storage/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1976,9 +2258,11 @@
   {
     "name": "Maskbook",
     "logo": "maskbook.png",
-    "urls": {
-      "homepage": "https://mask.io/",
-      "app": ""
+    "homepage": "https://mask.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -1990,9 +2274,11 @@
   {
     "name": "Snapshot",
     "logo": "snapshot.jpg",
-    "urls": {
-      "homepage": "https://snapshot.page/",
-      "app": ""
+    "homepage": "https://snapshot.page/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2004,9 +2290,11 @@
   {
     "name": "Invoice.build",
     "logo": "invoice-build.png",
-    "urls": {
-      "homepage": "https://invoice.build/",
-      "app": ""
+    "homepage": "https://invoice.build/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2018,9 +2306,11 @@
   {
     "name": "Ankr",
     "logo": "ankr.jpg",
-    "urls": {
-      "homepage": "https://ankr.com/",
-      "app": ""
+    "homepage": "https://ankr.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2032,9 +2322,11 @@
   {
     "name": "DODO",
     "logo": "dodo.png",
-    "urls": {
-      "homepage": "https://app.dodoex.io/",
-      "app": ""
+    "homepage": "https://app.dodoex.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2046,9 +2338,11 @@
   {
     "name": "zLOT",
     "logo": "zlot.jpg",
-    "urls": {
-      "homepage": "https://zlot.finance/",
-      "app": ""
+    "homepage": "https://zlot.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2060,9 +2354,11 @@
   {
     "name": "Tokamak Network",
     "logo": "tokamak.png",
-    "urls": {
-      "homepage": "https://tokamak.network/",
-      "app": ""
+    "homepage": "https://tokamak.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2074,9 +2370,11 @@
   {
     "name": "Actus Protocol",
     "logo": "actusprotocol.jpg",
-    "urls": {
-      "homepage": "https://portal.actus-protocol.io/",
-      "app": ""
+    "homepage": "https://portal.actus-protocol.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2088,9 +2386,11 @@
   {
     "name": "AstroTools.io",
     "logo": "astrotools.jpg",
-    "urls": {
-      "homepage": "https://astrotools.io/",
-      "app": ""
+    "homepage": "https://astrotools.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2102,9 +2402,11 @@
   {
     "name": "Rubic Exchange",
     "logo": "rubic.jpg",
-    "urls": {
-      "homepage": "https://rubic.exchange/",
-      "app": ""
+    "homepage": "https://rubic.exchange/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2116,9 +2418,11 @@
   {
     "name": "Harvest Finance",
     "logo": "harvestfinance.jpg",
-    "urls": {
-      "homepage": "https://harvest.finance/",
-      "app": ""
+    "homepage": "https://harvest.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2130,9 +2434,11 @@
   {
     "name": "OctoFi",
     "logo": "octofinance.jpg",
-    "urls": {
-      "homepage": "https://octo.fi/",
-      "app": ""
+    "homepage": "https://octo.fi/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2144,9 +2450,11 @@
   {
     "name": "Mushroom Finance",
     "logo": "mushroomfinance.jpg",
-    "urls": {
-      "homepage": "https://mushrooms.finance/",
-      "app": ""
+    "homepage": "https://mushrooms.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2158,9 +2466,11 @@
   {
     "name": "Bitfrost Finance",
     "logo": "bitfrostfinance.png",
-    "urls": {
-      "homepage": "https://bitfrost.finance/",
-      "app": ""
+    "homepage": "https://bitfrost.finance/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2172,9 +2482,11 @@
   {
     "name": "XinFin XDC Network",
     "logo": "xdcnetwork.png",
-    "urls": {
-      "homepage": "https://xinfin.network/",
-      "app": ""
+    "homepage": "https://xinfin.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2186,9 +2498,11 @@
   {
     "name": "Orchid Protocol",
     "logo": "orchid.png",
-    "urls": {
-      "homepage": "https://account.orchid.com/",
-      "app": ""
+    "homepage": "https://account.orchid.com/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2200,9 +2514,11 @@
   {
     "name": "Lido",
     "logo": "lido.png",
-    "urls": {
-      "homepage": "https://stake.lido.fi/",
-      "app": ""
+    "homepage": "https://stake.lido.fi/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2214,9 +2530,11 @@
   {
     "name": "Datamine Network",
     "logo": "datamine.jpg",
-    "urls": {
-      "homepage": "https://datamine.network/",
-      "app": ""
+    "homepage": "https://datamine.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2228,9 +2546,11 @@
   {
     "name": "Streamr",
     "logo": "streamr.jpg",
-    "urls": {
-      "homepage": "https://streamr.network/",
-      "app": ""
+    "homepage": "https://streamr.network/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2242,9 +2562,11 @@
   {
     "name": "DappRadar",
     "logo": "dappradar.png",
-    "urls": {
-      "homepage": "https://dappradar.com/hub/wallet",
-      "app": ""
+    "homepage": "https://dappradar.com/hub/wallet",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2256,9 +2578,11 @@
   {
     "name": "SuperRare",
     "logo": "superrare.jpg",
-    "urls": {
-      "homepage": "https://superrare.co/",
-      "app": ""
+    "homepage": "https://superrare.co/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2270,9 +2594,11 @@
   {
     "name": "Arbitrum",
     "logo": "arbitrum.jpg",
-    "urls": {
-      "homepage": "https://portal.arbitrum.io/",
-      "app": ""
+    "homepage": "https://portal.arbitrum.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2284,9 +2610,11 @@
   {
     "name": "ParaSwap",
     "logo": "paraswap.jpg",
-    "urls": {
-      "homepage": "https://paraswap.io/",
-      "app": ""
+    "homepage": "https://paraswap.io/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
@@ -2298,9 +2626,11 @@
   {
     "name": "HoneySwap",
     "logo": "honeyswap.jpg",
-    "urls": {
-      "homepage": "https://howneyswap.org/",
-      "app": ""
+    "homepage": "https://howneyswap.org/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
     },
     "links": {
       "universalLink": "",
