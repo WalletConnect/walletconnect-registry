@@ -7,8 +7,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://rnbwapp.com",
+      "deepLink": "rainbow:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -21,8 +21,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://link.trustwallet.com",
+      "deepLink": "trust:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -35,21 +35,21 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://argent.link/app",
+      "deepLink": "argent://app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
   },
   {
-    "name": "Metamask",
+    "name": "MetaMask",
     "logo": "metamask.png",
     "urls": {
       "homepage": "https://metamask.io/",
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -63,7 +63,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -77,8 +77,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://wallet.crypto.com",
+      "deepLink": "cryptowallet:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -91,8 +91,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "",
+      "deepLink": "pillarwallet:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -105,8 +105,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "",
+      "deepLink": "imtokenv2:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -119,8 +119,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://onto.app",
+      "deepLink": "ontoprovider:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -133,8 +133,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "",
+      "deepLink": "tpoutside:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -147,8 +147,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://www.mathwallet.org",
+      "deepLink": "mathwallet:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -161,8 +161,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://bitpay.com/wallet",
+      "deepLink": "bitpay:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -175,8 +175,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "",
+      "deepLink": "ledgerlive:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -189,7 +189,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -203,7 +203,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -217,8 +217,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "",
+      "deepLink": "huobiwallet:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -231,7 +231,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -245,7 +245,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -259,7 +259,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -273,7 +273,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -287,7 +287,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -301,8 +301,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://coin98.app",
+      "deepLink": "coin98:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -315,7 +315,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -329,7 +329,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -343,7 +343,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "https://aw.app",
       "deepLink": ""
     },
     "type": "wallet",
@@ -357,7 +357,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -371,7 +371,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -385,7 +385,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -399,7 +399,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -413,7 +413,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -427,7 +427,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -441,7 +441,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -455,7 +455,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -469,7 +469,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -483,7 +483,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -497,7 +497,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -511,7 +511,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -525,7 +525,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -539,7 +539,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -553,7 +553,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -567,7 +567,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -581,7 +581,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -595,7 +595,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -609,7 +609,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -623,8 +623,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "",
+      "deepLink": "bitkeep:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -637,7 +637,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -651,7 +651,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -665,7 +665,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -679,7 +679,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -693,8 +693,22 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "HaloDeFi Wallet",
+    "logo": "halodefi.png",
+    "urls": {
+      "homepage": "https://halodefi.org/",
+      "app": ""
+    },
+    "links": {
+      "universalLink": "",
+      "deepLink": "halodefiwallet:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -707,7 +721,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -721,7 +735,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -735,7 +749,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -749,7 +763,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -763,7 +777,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "wallet",
@@ -777,8 +791,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://www.ellipal.com/",
+      "deepLink": "ellipal:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -791,8 +805,8 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://keyring.app",
+      "deepLink": "keyring:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -805,8 +819,22 @@
       "app": ""
     },
     "links": {
-      "universal": "",
-      "deepLink": ""
+      "universalLink": "https://aktionariat.com/app",
+      "deepLink": "aktionariat:"
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Talken Wallet",
+    "logo": "talken.png",
+    "urls": {
+      "homepage": "https://talken.io",
+      "app": ""
+    },
+    "links": {
+      "universalLink": "https://talken.io",
+      "deepLink": "talken-wallet:"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -819,7 +847,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -833,7 +861,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -847,7 +875,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -861,7 +889,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -875,7 +903,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -889,7 +917,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -903,7 +931,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -917,7 +945,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -931,7 +959,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -945,7 +973,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -959,7 +987,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -973,7 +1001,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -987,7 +1015,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1001,7 +1029,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1015,7 +1043,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1029,7 +1057,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1043,7 +1071,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1057,7 +1085,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1071,7 +1099,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1085,7 +1113,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1099,7 +1127,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1113,7 +1141,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1127,7 +1155,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1141,7 +1169,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1155,7 +1183,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1169,7 +1197,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1183,7 +1211,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1197,7 +1225,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1211,7 +1239,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1225,7 +1253,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1239,7 +1267,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1253,7 +1281,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1267,7 +1295,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1281,7 +1309,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1295,7 +1323,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1309,7 +1337,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1323,7 +1351,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1337,7 +1365,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1351,7 +1379,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1365,7 +1393,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1379,7 +1407,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1393,7 +1421,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1407,7 +1435,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1421,7 +1449,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1435,7 +1463,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1449,7 +1477,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1463,7 +1491,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1477,7 +1505,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1491,7 +1519,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1505,7 +1533,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1519,7 +1547,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1533,7 +1561,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1547,7 +1575,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1561,7 +1589,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1575,7 +1603,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1589,7 +1617,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1603,7 +1631,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1617,7 +1645,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1631,7 +1659,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1645,7 +1673,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1659,7 +1687,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1673,7 +1701,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1687,7 +1715,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1701,7 +1729,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1715,7 +1743,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1729,7 +1757,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1743,7 +1771,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1757,7 +1785,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1771,7 +1799,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1785,7 +1813,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1799,7 +1827,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1813,7 +1841,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1827,7 +1855,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1841,7 +1869,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1855,7 +1883,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1869,7 +1897,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1883,7 +1911,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1897,7 +1925,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1911,7 +1939,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1925,7 +1953,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1939,7 +1967,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1953,7 +1981,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1967,7 +1995,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1981,7 +2009,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -1995,7 +2023,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2009,7 +2037,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2023,7 +2051,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2037,7 +2065,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2051,7 +2079,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2065,7 +2093,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2079,7 +2107,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2093,7 +2121,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2107,7 +2135,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2121,7 +2149,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2135,7 +2163,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2149,7 +2177,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2163,7 +2191,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2177,7 +2205,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2191,7 +2219,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2205,7 +2233,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2219,7 +2247,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2233,7 +2261,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2247,7 +2275,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2261,7 +2289,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
@@ -2275,7 +2303,7 @@
       "app": ""
     },
     "links": {
-      "universal": "",
+      "universalLink": "",
       "deepLink": ""
     },
     "type": "dapp",
