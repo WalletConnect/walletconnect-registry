@@ -1,0 +1,2284 @@
+[
+  {
+    "name": "Rainbow",
+    "logo": "rainbow.png",
+    "urls": {
+      "homepage": "https://rainbow.me/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Trust",
+    "logo": "trust-wallet.png",
+    "urls": {
+      "homepage": "https://trustwallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Argent",
+    "logo": "argent.jpg",
+    "urls": {
+      "homepage": "https://www.argent.xyz/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Metamask",
+    "logo": "metamask.png",
+    "urls": {
+      "homepage": "https://metamask.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Gnosis Safe Multisig",
+    "logo": "gnosis-safe.jpg",
+    "urls": {
+      "homepage": "https://gnosis-safe.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Crypto.com | DeFi Wallet",
+    "logo": "crypto.png",
+    "urls": {
+      "homepage": "https://crypto.com/en/defi/wallet/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Pillar",
+    "logo": "pillar-wallet.png",
+    "urls": {
+      "homepage": "https://pillarproject.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "imToken",
+    "logo": "imtoken.png",
+    "urls": {
+      "homepage": "https://token.im/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "ONTO",
+    "logo": "onto.png",
+    "urls": {
+      "homepage": "https://onto.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "TokenPocket",
+    "logo": "tokenpocket.png",
+    "urls": {
+      "homepage": "https://www.tokenpocket.pro/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MathWallet",
+    "logo": "math-wallet.png",
+    "urls": {
+      "homepage": "https://mathwallet.org/en/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "BitPay",
+    "logo": "bitpay.jpg",
+    "urls": {
+      "homepage": "https://bitpay.com/wallet",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Ledger Live",
+    "logo": "ledgerlive.png",
+    "urls": {
+      "homepage": "https://www.ledger.com/ledger-live",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Walleth",
+    "logo": "walleth.png",
+    "urls": {
+      "homepage": "https://walleth.org/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Authereum",
+    "logo": "authereum.png",
+    "urls": {
+      "homepage": "https://authereum.org",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Huobi Wallet",
+    "logo": "huobi.jpg",
+    "urls": {
+      "homepage": "https://www.huobiwallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Eidoo",
+    "logo": "eidoo.png",
+    "urls": {
+      "homepage": "https://eidoo.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MYKEY",
+    "logo": "mykey.png",
+    "urls": {
+      "homepage": "https://mykey.org",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Loopring Wallet",
+    "logo": "loopring.jpg",
+    "urls": {
+      "homepage": "https://loopring.io",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "TrustVault",
+    "logo": "trustvault.png",
+    "urls": {
+      "homepage": "https://www.trustology.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Atomic",
+    "logo": "atomic.png",
+    "urls": {
+      "homepage": "https://atomicwallet.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Coin98",
+    "logo": "coin98.png",
+    "urls": {
+      "homepage": "https://coin98.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "CoolWallet S",
+    "logo": "coolwallet-s.png",
+    "urls": {
+      "homepage": "https://www.coolwallet.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Alice",
+    "logo": "alice.png",
+    "urls": {
+      "homepage": "https://www.alicedapp.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "AlphaWallet",
+    "logo": "alpha-wallet.jpg",
+    "urls": {
+      "homepage": "https://alphawallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "D'CENT Wallet",
+    "logo": "dcentwallet.png",
+    "urls": {
+      "homepage": "https://dcentwallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "ZelCore",
+    "logo": "zelcore.png",
+    "urls": {
+      "homepage": "https://zel.network/project/zelcore/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Nash",
+    "logo": "nash.jpg",
+    "urls": {
+      "homepage": "https://nash.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Coinomi",
+    "logo": "coinomi.jpg",
+    "urls": {
+      "homepage": "https://coinomi.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "GridPlus",
+    "logo": "gridplus.png",
+    "urls": {
+      "homepage": "https://gridplus.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "CYBAVO Wallet",
+    "logo": "cybavowallet.png",
+    "urls": {
+      "homepage": "https://www.cybavo.com/wallet-app-sdk/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Tokenary",
+    "logo": "tokenary.png",
+    "urls": {
+      "homepage": "https://tokenary.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Torus",
+    "logo": "torus.jpg",
+    "urls": {
+      "homepage": "https://toruswallet.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Spatium",
+    "logo": "spatium.jpg",
+    "urls": {
+      "homepage": "https://spatium.net/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "SafePal",
+    "logo": "safepal.png",
+    "urls": {
+      "homepage": "https://safepal.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Equal",
+    "logo": "equal.jpg",
+    "urls": {
+      "homepage": "https://equal.tech/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Infinito",
+    "logo": "infinito-wallet.png",
+    "urls": {
+      "homepage": "https://www.infinitowallet.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "wallet.io",
+    "logo": "wallet.io.png",
+    "urls": {
+      "homepage": "https://wallet.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Infinity Wallet",
+    "logo": "infinity-wallet.png",
+    "urls": {
+      "homepage": "https://infinitywallet.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Ownbit",
+    "logo": "ownbit.png",
+    "urls": {
+      "homepage": "https://ownbit.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "EasyPocket",
+    "logo": "easypocket.jpg",
+    "urls": {
+      "homepage": "https://easypocket.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Bridge Wallet",
+    "logo": "bridge.png",
+    "urls": {
+      "homepage": "https://www.mtpelerin.com/bridge-wallet",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "SparkPoint",
+    "logo": "sparkpoint.png",
+    "urls": {
+      "homepage": "https://sparkpoint.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "ViaWallet",
+    "logo": "viawallet.png",
+    "urls": {
+      "homepage": "https://viawallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "BitKeep",
+    "logo": "bitkeep.png",
+    "urls": {
+      "homepage": "https://bitkeep.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Vision",
+    "logo": "vision.png",
+    "urls": {
+      "homepage": "https://vision-crypto.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "SWFT Wallet",
+    "logo": "swft.png",
+    "urls": {
+      "homepage": "https://www.swft.pro/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "PEAKDEFI Wallet",
+    "logo": "peakdefi.png",
+    "urls": {
+      "homepage": "https://peakdefi.com/download",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "XDC Wallet",
+    "logo": "xdc.png",
+    "urls": {
+      "homepage": "https://play.google.com/store/apps/details?id=com.xdcwallet",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Unstoppable Wallet",
+    "logo": "unstoppable.png",
+    "urls": {
+      "homepage": "https://unstoppable.money/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MEET.ONE",
+    "logo": "meetone.jpg",
+    "urls": {
+      "homepage": "https://meet.one/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Dok Wallet",
+    "logo": "dok.png",
+    "urls": {
+      "homepage": "https://dokwallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "AT.Wallet",
+    "logo": "atwallet.png",
+    "urls": {
+      "homepage": "https://authentrend.com/at-wallet/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MoriX Wallet",
+    "logo": "morixwallet.png",
+    "urls": {
+      "homepage": "https://morixjp.com/product/walletcard",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Midas Wallet",
+    "logo": "midas-wallet.png",
+    "urls": {
+      "homepage": "https://midasprotocol.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Ellipal",
+    "logo": "ellipal.png",
+    "urls": {
+      "homepage": "https://www.ellipal.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "KEYRING PRO",
+    "logo": "keyringpro.png",
+    "urls": {
+      "homepage": "https://keyring.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Aktionariat",
+    "logo": "aktionariat.png",
+    "urls": {
+      "homepage": "https://aktionariat.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "wallet",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Etherscan",
+    "logo": "etherscan.jpg",
+    "urls": {
+      "homepage": "https://etherscan.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Uniswap",
+    "logo": "uniswap.jpg",
+    "urls": {
+      "homepage": "https://uniswap.exchange/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Binance DEX",
+    "logo": "binancedex.png",
+    "urls": {
+      "homepage": "https://binance.org/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "OpenSea",
+    "logo": "opensea.jpg",
+    "urls": {
+      "homepage": "https://opensea.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Compound",
+    "logo": "compound.png",
+    "urls": {
+      "homepage": "https://compound.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Zapper",
+    "logo": "zapper.png",
+    "urls": {
+      "homepage": "https://www.zapper.fi/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Aave",
+    "logo": "aave.png",
+    "urls": {
+      "homepage": "https://app.aave.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Zerion",
+    "logo": "zerion.png",
+    "urls": {
+      "homepage": "https://beta.zerion.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "LocalCryptos",
+    "logo": "localcryptos.jpg",
+    "urls": {
+      "homepage": "https://localcryptos.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DeBank",
+    "logo": "debank.jpg",
+    "urls": {
+      "homepage": "https://debank.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Unstoppable Domains",
+    "logo": "unstoppable.png",
+    "urls": {
+      "homepage": "https://unstoppabledomains.com/manager",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Rarible",
+    "logo": "rarible.png",
+    "urls": {
+      "homepage": "https://app.rarible.com/#/connect",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "1inch Exchange",
+    "logo": "oneinchexchange.png",
+    "urls": {
+      "homepage": "https://1inch.exchange/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "yearn",
+    "logo": "yearn.png",
+    "urls": {
+      "homepage": "https://yearn.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Nash",
+    "logo": "nash.jpg",
+    "urls": {
+      "homepage": "https://nash.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Curve",
+    "logo": "curvefinance.png",
+    "urls": {
+      "homepage": "https://www.curve.fi",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Adex Network",
+    "logo": "adexnetwork.jpg",
+    "urls": {
+      "homepage": "https://staking.adex.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "dYdX",
+    "logo": "dydx.jpg",
+    "urls": {
+      "homepage": "https://dydx.exchange/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MyCrypto",
+    "logo": "mycrypto.png",
+    "urls": {
+      "homepage": "https://beta.mycrypto.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Oasis App",
+    "logo": "oasis.png",
+    "urls": {
+      "homepage": "https://oasis.app/dashboard",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "TokenSets",
+    "logo": "tokensets.jpg",
+    "urls": {
+      "homepage": "https://tokensets.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MANTRA DAO",
+    "logo": "mantradao.png",
+    "urls": {
+      "homepage": "https://app.mantradao.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Matcha",
+    "logo": "matcha.jpg",
+    "urls": {
+      "homepage": "https://matcha.xyz",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "KyberSwap",
+    "logo": "kyberswap.jpg",
+    "urls": {
+      "homepage": "https://kyberswap.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DeFi Portfolio Tracker",
+    "logo": "defiportfolio.png",
+    "urls": {
+      "homepage": "https://portfolio.defiprime.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Loopring",
+    "logo": "loopring.jpg",
+    "urls": {
+      "homepage": "https://exchange.loopring.io",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "InstaDapp",
+    "logo": "instadapp.jpg",
+    "urls": {
+      "homepage": "https://instadapp.io/dashboard/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Matic Network",
+    "logo": "maticnetwork.jpg",
+    "urls": {
+      "homepage": "https://matic.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "3Box",
+    "logo": "box.png",
+    "urls": {
+      "homepage": "https://3box.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DDEX",
+    "logo": "ddex.png",
+    "urls": {
+      "homepage": "https://ddex.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Totle",
+    "logo": "totle.jpg",
+    "urls": {
+      "homepage": "https://swap.totle.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Bamboo Relay",
+    "logo": "bamboorelay.png",
+    "urls": {
+      "homepage": "https://bamboorelay.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Synthetix",
+    "logo": "synthetix.jpg",
+    "urls": {
+      "homepage": "https://synthetix.exchange/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "dex.blue",
+    "logo": "dexblue.jpg",
+    "urls": {
+      "homepage": "https://dex.blue/trading/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "PoolTogether",
+    "logo": "pooltogether.png",
+    "urls": {
+      "homepage": "https://app.pooltogether.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Sablier",
+    "logo": "sablier.jpg",
+    "urls": {
+      "homepage": "https://sablier.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DEX.AG",
+    "logo": "dexag.png",
+    "urls": {
+      "homepage": "https://dex.ag/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Gelato",
+    "logo": "gelato.jpg",
+    "urls": {
+      "homepage": "https://play.gelato.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "ENS Domains",
+    "logo": "ensdomains.jpg",
+    "urls": {
+      "homepage": "https://app.ens.domains/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Gnosis Safe Multisig",
+    "logo": "gnosis-safe.jpg",
+    "urls": {
+      "homepage": "https://gnosis-safe.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Idle Finance",
+    "logo": "idlefinance.png",
+    "urls": {
+      "homepage": "https://idle.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "iearn.finance",
+    "logo": "iearnfinance.jpg",
+    "urls": {
+      "homepage": "https://iearn.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "RCN Finance",
+    "logo": "rcnfinance.jpg",
+    "urls": {
+      "homepage": "https://rcn.market/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Hegic",
+    "logo": "hegic.jpg",
+    "urls": {
+      "homepage": "https://www.hegic.co/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Kickback",
+    "logo": "kickback.jpg",
+    "urls": {
+      "homepage": "https://kickback.events/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "88mph",
+    "logo": "88mph.jpg",
+    "urls": {
+      "homepage": "https://88mph.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Mooni",
+    "logo": "mooni.jpg",
+    "urls": {
+      "homepage": "https://app.mooni.tech/exchange",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Clovers",
+    "logo": "clovers.png",
+    "urls": {
+      "homepage": "https://clovers.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Mintbase",
+    "logo": "mintbase.jpg",
+    "urls": {
+      "homepage": "https://mintbase.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DAOstack",
+    "logo": "daostack.jpg",
+    "urls": {
+      "homepage": "https://alchemy.daostack.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "KnownOrigin",
+    "logo": "knownorigin.jpg",
+    "urls": {
+      "homepage": "https://knownorigin.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MyEtherWallet",
+    "logo": "myetherwallet.jpg",
+    "urls": {
+      "homepage": "https://myetherwallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Affogato",
+    "logo": "affogato.png",
+    "urls": {
+      "homepage": "https://affogato.co/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "StablePay",
+    "logo": "stablepay.jpg",
+    "urls": {
+      "homepage": "https://stablepay.io/dashboard",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DeFi Saver",
+    "logo": "defisaver.jpg",
+    "urls": {
+      "homepage": "https://defisaver.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Loom Network",
+    "logo": "loomnetwork.png",
+    "urls": {
+      "homepage": "https://dashboard.dappchains.com/login",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "ThorChain",
+    "logo": "thorchain.jpg",
+    "urls": {
+      "homepage": "https://thorchain.org/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "BulkSender",
+    "logo": "bulksender.png",
+    "urls": {
+      "homepage": "https://bulksender.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Heroes of Ether",
+    "logo": "heroesofether.png",
+    "urls": {
+      "homepage": "https://heroesofether.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Betoken",
+    "logo": "betoken.png",
+    "urls": {
+      "homepage": "https://betoken.fund/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Linkdrop",
+    "logo": "linkdrop.png",
+    "urls": {
+      "homepage": "https://linkdrop.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "HelioWallet",
+    "logo": "heliowallet.png",
+    "urls": {
+      "homepage": "https://heliowallet.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Escaroo",
+    "logo": "escaroo.png",
+    "urls": {
+      "homepage": "https://escaroo.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "TokenMarket",
+    "logo": "tokenmarket.png",
+    "urls": {
+      "homepage": "https://tokenmarket.net/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Mesa",
+    "logo": "mesa.png",
+    "urls": {
+      "homepage": "https://mesa.eth.link/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "MCDEX",
+    "logo": "mcdex.png",
+    "urls": {
+      "homepage": "https://mcdex.io",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Furucombo",
+    "logo": "furucombo.png",
+    "urls": {
+      "homepage": "https://furucombo.app/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Melon",
+    "logo": "melon.png",
+    "urls": {
+      "homepage": "https://melon.avantgarde.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Chainsfr",
+    "logo": "chainsfr.png",
+    "urls": {
+      "homepage": "https://chainsfr.com",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "AKA3 Email Alias",
+    "logo": "aka3.png",
+    "urls": {
+      "homepage": "http://aka3.net",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "2Key",
+    "logo": "2key.jpg",
+    "urls": {
+      "homepage": "https://www.2key.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Pitch",
+    "logo": "pitch.jpg",
+    "urls": {
+      "homepage": "https://pitchinvestorslive.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "SushiSwap",
+    "logo": "sushiswap.png",
+    "urls": {
+      "homepage": "https://sushiswap.fi/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Unagii",
+    "logo": "unagii.png",
+    "urls": {
+      "homepage": "https://www.unagii.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Cream Finance",
+    "logo": "creamfinance.jpg",
+    "urls": {
+      "homepage": "https://cream.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "zkSync",
+    "logo": "zksync.jpg",
+    "urls": {
+      "homepage": "https://zksync.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Shell Exchange",
+    "logo": "shell.jpg",
+    "urls": {
+      "homepage": "https://shells.exchange/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Index Coop",
+    "logo": "indexcoop.jpg",
+    "urls": {
+      "homepage": "https://www.indexcoop.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "SwapX",
+    "logo": "swapx.jpg",
+    "urls": {
+      "homepage": "https://app.swapx.org/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Starname",
+    "logo": "starname.png",
+    "urls": {
+      "homepage": "https://app.starname.me/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Space",
+    "logo": "space.png",
+    "urls": {
+      "homepage": "https://space.storage/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Maskbook",
+    "logo": "maskbook.png",
+    "urls": {
+      "homepage": "https://mask.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Snapshot",
+    "logo": "snapshot.jpg",
+    "urls": {
+      "homepage": "https://snapshot.page/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Invoice.build",
+    "logo": "invoice-build.png",
+    "urls": {
+      "homepage": "https://invoice.build/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Ankr",
+    "logo": "ankr.jpg",
+    "urls": {
+      "homepage": "https://ankr.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DODO",
+    "logo": "dodo.png",
+    "urls": {
+      "homepage": "https://app.dodoex.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "zLOT",
+    "logo": "zlot.jpg",
+    "urls": {
+      "homepage": "https://zlot.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Tokamak Network",
+    "logo": "tokamak.png",
+    "urls": {
+      "homepage": "https://tokamak.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Actus Protocol",
+    "logo": "actusprotocol.jpg",
+    "urls": {
+      "homepage": "https://portal.actus-protocol.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "AstroTools.io",
+    "logo": "astrotools.jpg",
+    "urls": {
+      "homepage": "https://astrotools.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Rubic Exchange",
+    "logo": "rubic.jpg",
+    "urls": {
+      "homepage": "https://rubic.exchange/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Harvest Finance",
+    "logo": "harvestfinance.jpg",
+    "urls": {
+      "homepage": "https://harvest.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "OctoFi",
+    "logo": "octofinance.jpg",
+    "urls": {
+      "homepage": "https://octo.fi/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Mushroom Finance",
+    "logo": "mushroomfinance.jpg",
+    "urls": {
+      "homepage": "https://mushrooms.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Bitfrost Finance",
+    "logo": "bitfrostfinance.png",
+    "urls": {
+      "homepage": "https://bitfrost.finance/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "XinFin XDC Network",
+    "logo": "xdcnetwork.png",
+    "urls": {
+      "homepage": "https://xinfin.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Orchid Protocol",
+    "logo": "orchid.png",
+    "urls": {
+      "homepage": "https://account.orchid.com/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Lido",
+    "logo": "lido.png",
+    "urls": {
+      "homepage": "https://stake.lido.fi/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Datamine Network",
+    "logo": "datamine.jpg",
+    "urls": {
+      "homepage": "https://datamine.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Streamr",
+    "logo": "streamr.jpg",
+    "urls": {
+      "homepage": "https://streamr.network/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "DappRadar",
+    "logo": "dappradar.png",
+    "urls": {
+      "homepage": "https://dappradar.com/hub/wallet",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "SuperRare",
+    "logo": "superrare.jpg",
+    "urls": {
+      "homepage": "https://superrare.co/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "Arbitrum",
+    "logo": "arbitrum.jpg",
+    "urls": {
+      "homepage": "https://portal.arbitrum.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "ParaSwap",
+    "logo": "paraswap.jpg",
+    "urls": {
+      "homepage": "https://paraswap.io/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  },
+  {
+    "name": "HoneySwap",
+    "logo": "honeyswap.jpg",
+    "urls": {
+      "homepage": "https://howneyswap.org/",
+      "app": ""
+    },
+    "links": {
+      "universal": "",
+      "deepLink": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
+  }
+]
