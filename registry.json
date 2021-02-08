@@ -8,9 +8,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://rnbwapp.com",
-      "deepLink": "rainbow:"
+    "mobile": {
+      "native": "rainbow:",
+      "universal": "https://rnbwapp.com"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -24,9 +24,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://link.trustwallet.com",
-      "deepLink": "trust:"
+    "mobile": {
+      "native": "trust:",
+      "universal": "https://link.trustwallet.com"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -40,9 +40,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://argent.link/app",
-      "deepLink": "argent://app"
+    "mobile": {
+      "native": "argent://app",
+      "universal": "https://argent.link/app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -56,9 +56,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -72,9 +72,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -88,9 +88,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://wallet.crypto.com",
-      "deepLink": "cryptowallet:"
+    "mobile": {
+      "native": "cryptowallet:",
+      "universal": "https://wallet.crypto.com"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -104,9 +104,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "pillarwallet:"
+    "mobile": {
+      "native": "pillarwallet:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -120,9 +120,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "imtokenv2:"
+    "mobile": {
+      "native": "imtokenv2:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -136,9 +136,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://onto.app",
-      "deepLink": "ontoprovider:"
+    "mobile": {
+      "native": "ontoprovider:",
+      "universal": "https://onto.app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -152,9 +152,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "tpoutside:"
+    "mobile": {
+      "native": "tpoutside:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -168,9 +168,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://www.mathwallet.org",
-      "deepLink": "mathwallet:"
+    "mobile": {
+      "native": "mathwallet:",
+      "universal": "https://www.mathwallet.org"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -184,9 +184,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://bitpay.com/wallet",
-      "deepLink": "bitpay:"
+    "mobile": {
+      "native": "bitpay:",
+      "universal": "https://bitpay.com/wallet"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -200,9 +200,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "ledgerlive:"
+    "mobile": {
+      "native": "ledgerlive:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -216,9 +216,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -232,9 +232,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -248,9 +248,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "huobiwallet:"
+    "mobile": {
+      "native": "huobiwallet:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -264,9 +264,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -280,9 +280,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -296,9 +296,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -312,9 +312,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -328,9 +328,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -344,9 +344,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://coin98.app",
-      "deepLink": "coin98:"
+    "mobile": {
+      "native": "coin98:",
+      "universal": "https://coin98.app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -360,9 +360,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -376,9 +376,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -392,9 +392,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://aw.app",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": "https://aw.app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -408,9 +408,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -424,9 +424,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -440,9 +440,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -456,9 +456,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -472,9 +472,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -488,9 +488,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -504,9 +504,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -520,9 +520,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -536,9 +536,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -552,9 +552,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -568,9 +568,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -584,9 +584,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -600,9 +600,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -616,9 +616,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -632,9 +632,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -648,9 +648,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -664,9 +664,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -680,9 +680,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -696,9 +696,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -712,9 +712,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "bitkeep:"
+    "mobile": {
+      "native": "bitkeep:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -728,9 +728,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -744,9 +744,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -760,9 +760,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -776,9 +776,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -792,9 +792,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -808,9 +808,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": "halodefiwallet:"
+    "mobile": {
+      "native": "halodefiwallet:",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -824,9 +824,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -840,9 +840,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -856,9 +856,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -872,9 +872,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -888,9 +888,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -904,9 +904,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://www.ellipal.com/",
-      "deepLink": "ellipal:"
+    "mobile": {
+      "native": "ellipal:",
+      "universal": "https://www.ellipal.com/"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -920,9 +920,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://keyring.app",
-      "deepLink": "keyring:"
+    "mobile": {
+      "native": "keyring:",
+      "universal": "https://keyring.app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -936,9 +936,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://aktionariat.com/app",
-      "deepLink": "aktionariat:"
+    "mobile": {
+      "native": "aktionariat:",
+      "universal": "https://aktionariat.com/app"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -952,9 +952,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "https://talken.io",
-      "deepLink": "talken-wallet:"
+    "mobile": {
+      "native": "talken-wallet:",
+      "universal": "https://talken.io"
     },
     "type": "wallet",
     "chains": ["ethereum"]
@@ -968,9 +968,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -984,9 +984,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1000,9 +1000,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1016,9 +1016,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1032,9 +1032,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1048,9 +1048,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1064,9 +1064,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1080,9 +1080,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1096,9 +1096,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1112,9 +1112,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1128,9 +1128,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1144,9 +1144,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1160,9 +1160,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1176,9 +1176,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1192,9 +1192,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1208,9 +1208,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1224,9 +1224,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1240,9 +1240,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1256,9 +1256,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1272,9 +1272,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1288,9 +1288,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1304,9 +1304,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1320,9 +1320,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1336,9 +1336,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1352,9 +1352,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1368,9 +1368,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1384,9 +1384,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1400,9 +1400,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1416,9 +1416,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1432,9 +1432,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1448,9 +1448,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1464,9 +1464,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1480,9 +1480,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1496,9 +1496,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1512,9 +1512,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1528,9 +1528,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1544,9 +1544,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1560,9 +1560,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1576,9 +1576,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1592,9 +1592,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1608,9 +1608,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1624,9 +1624,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1640,9 +1640,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1656,9 +1656,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1672,9 +1672,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1688,9 +1688,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1704,9 +1704,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1720,9 +1720,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1736,9 +1736,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1752,9 +1752,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1768,9 +1768,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1784,9 +1784,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1800,9 +1800,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1816,9 +1816,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1832,9 +1832,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1848,9 +1848,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1864,9 +1864,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1880,9 +1880,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1896,9 +1896,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1912,9 +1912,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1928,9 +1928,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1944,9 +1944,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1960,9 +1960,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1976,9 +1976,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -1992,9 +1992,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2008,9 +2008,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2024,9 +2024,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2040,9 +2040,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2056,9 +2056,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2072,9 +2072,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2088,9 +2088,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2104,9 +2104,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2120,9 +2120,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2136,9 +2136,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2152,9 +2152,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2168,9 +2168,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2184,9 +2184,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2200,9 +2200,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2216,9 +2216,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2232,9 +2232,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2248,9 +2248,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2264,9 +2264,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2280,9 +2280,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2296,9 +2296,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2312,9 +2312,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2328,9 +2328,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2344,9 +2344,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2360,9 +2360,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2376,9 +2376,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2392,9 +2392,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2408,9 +2408,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2424,9 +2424,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2440,9 +2440,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2456,9 +2456,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2472,9 +2472,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2488,9 +2488,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2504,9 +2504,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2520,9 +2520,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2536,9 +2536,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2552,9 +2552,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2568,9 +2568,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2584,9 +2584,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2600,9 +2600,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2616,9 +2616,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
@@ -2632,9 +2632,9 @@
       "ios": "",
       "android": ""
     },
-    "links": {
-      "universalLink": "",
-      "deepLink": ""
+    "mobile": {
+      "native": "",
+      "universal": ""
     },
     "type": "dapp",
     "chains": ["ethereum"]
