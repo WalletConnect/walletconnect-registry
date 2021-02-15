@@ -2638,5 +2638,21 @@
     },
     "type": "dapp",
     "chains": ["ethereum"]
+  },
+  {
+    "name": "Fleek",
+    "logo": "fleek.png",
+    "homepage": "https://fleek.co/",
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "type": "dapp",
+    "chains": ["ethereum"]
   }
 ]
