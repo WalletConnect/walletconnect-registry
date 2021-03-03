@@ -3,2656 +3,3818 @@
     "name": "Rainbow",
     "logo": "rainbow.png",
     "homepage": "https://rainbow.me/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "rainbow:",
       "universal": "https://rnbwapp.com"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Trust",
     "logo": "trust-wallet.png",
     "homepage": "https://trustwallet.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "trust:",
       "universal": "https://link.trustwallet.com"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Argent",
     "logo": "argent.jpg",
     "homepage": "https://www.argent.xyz/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "argent://app",
       "universal": "https://argent.link/app"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MetaMask",
     "logo": "metamask.png",
     "homepage": "https://metamask.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Gnosis Safe Multisig",
     "logo": "gnosis-safe.jpg",
     "homepage": "https://gnosis-safe.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Crypto.com | DeFi Wallet",
     "logo": "crypto.png",
     "homepage": "https://crypto.com/en/defi/wallet/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "cryptowallet:",
       "universal": "https://wallet.crypto.com"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Pillar",
     "logo": "pillar-wallet.png",
     "homepage": "https://pillarproject.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "pillarwallet:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "imToken",
     "logo": "imtoken.png",
     "homepage": "https://token.im/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "imtokenv2:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "ONTO",
     "logo": "onto.png",
     "homepage": "https://onto.app/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "ontoprovider:",
       "universal": "https://onto.app"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "TokenPocket",
     "logo": "tokenpocket.png",
     "homepage": "https://www.tokenpocket.pro/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "tpoutside:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MathWallet",
     "logo": "math-wallet.png",
     "homepage": "https://mathwallet.org/en/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "mathwallet:",
       "universal": "https://www.mathwallet.org"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "BitPay",
     "logo": "bitpay.jpg",
     "homepage": "https://bitpay.com/wallet",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "bitpay:",
       "universal": "https://bitpay.com/wallet"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Ledger Live",
     "logo": "ledgerlive.png",
     "homepage": "https://www.ledger.com/ledger-live",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "ledgerlive:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Walleth",
     "logo": "walleth.png",
     "homepage": "https://walleth.org/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Authereum",
     "logo": "authereum.png",
     "homepage": "https://authereum.org",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Huobi Wallet",
     "logo": "huobi.jpg",
     "homepage": "https://www.huobiwallet.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "huobiwallet:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Eidoo",
     "logo": "eidoo.png",
     "homepage": "https://eidoo.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MYKEY",
     "logo": "mykey.png",
     "homepage": "https://mykey.org",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Loopring Wallet",
     "logo": "loopring.jpg",
     "homepage": "https://loopring.io",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "TrustVault",
     "logo": "trustvault.png",
     "homepage": "https://www.trustology.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Atomic",
     "logo": "atomic.png",
     "homepage": "https://atomicwallet.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Coin98",
     "logo": "coin98.png",
     "homepage": "https://coin98.app/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "coin98:",
       "universal": "https://coin98.app"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "CoolWallet S",
     "logo": "coolwallet-s.png",
     "homepage": "https://www.coolwallet.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Alice",
     "logo": "alice.png",
     "homepage": "https://www.alicedapp.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "AlphaWallet",
     "logo": "alpha-wallet.jpg",
     "homepage": "https://alphawallet.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": "https://aw.app"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "D'CENT Wallet",
     "logo": "dcentwallet.png",
     "homepage": "https://dcentwallet.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "ZelCore",
     "logo": "zelcore.png",
     "homepage": "https://zel.network/project/zelcore/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Nash",
     "logo": "nash.jpg",
     "homepage": "https://nash.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Coinomi",
     "logo": "coinomi.jpg",
     "homepage": "https://coinomi.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "GridPlus",
     "logo": "gridplus.png",
     "homepage": "https://gridplus.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "CYBAVO Wallet",
     "logo": "cybavowallet.png",
     "homepage": "https://www.cybavo.com/wallet-app-sdk/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Tokenary",
     "logo": "tokenary.png",
     "homepage": "https://tokenary.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Torus",
     "logo": "torus.jpg",
     "homepage": "https://toruswallet.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Spatium",
     "logo": "spatium.jpg",
     "homepage": "https://spatium.net/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "SafePal",
     "logo": "safepal.png",
     "homepage": "https://safepal.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Equal",
     "logo": "equal.jpg",
     "homepage": "https://equal.tech/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Infinito",
     "logo": "infinito-wallet.png",
     "homepage": "https://www.infinitowallet.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "wallet.io",
     "logo": "wallet.io.png",
     "homepage": "https://wallet.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Infinity Wallet",
     "logo": "infinity-wallet.png",
     "homepage": "https://infinitywallet.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Ownbit",
     "logo": "ownbit.png",
     "homepage": "https://ownbit.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "EasyPocket",
     "logo": "easypocket.jpg",
     "homepage": "https://easypocket.app/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Bridge Wallet",
     "logo": "bridge.png",
     "homepage": "https://www.mtpelerin.com/bridge-wallet",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "SparkPoint",
     "logo": "sparkpoint.png",
     "homepage": "https://sparkpoint.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "ViaWallet",
     "logo": "viawallet.png",
     "homepage": "https://viawallet.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "BitKeep",
     "logo": "bitkeep.png",
     "homepage": "https://bitkeep.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "bitkeep:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Vision",
     "logo": "vision.png",
     "homepage": "https://vision-crypto.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "SWFT Wallet",
     "logo": "swft.png",
     "homepage": "https://www.swft.pro/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "PEAKDEFI Wallet",
     "logo": "peakdefi.png",
     "homepage": "https://peakdefi.com/download",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "XDC Wallet",
     "logo": "xdc.png",
     "homepage": "https://play.google.com/store/apps/details?id=com.xdcwallet",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Unstoppable Wallet",
     "logo": "unstoppable.png",
     "homepage": "https://unstoppable.money/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "HaloDeFi Wallet",
     "logo": "halodefi.png",
     "homepage": "https://halodefi.org/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "halodefiwallet:",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MEET.ONE",
     "logo": "meetone.jpg",
     "homepage": "https://meet.one/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Dok Wallet",
     "logo": "dok.png",
     "homepage": "https://dokwallet.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "AT.Wallet",
     "logo": "atwallet.png",
     "homepage": "https://authentrend.com/at-wallet/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MoriX Wallet",
     "logo": "morixwallet.png",
     "homepage": "https://morixjp.com/product/walletcard",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Midas Wallet",
     "logo": "midas-wallet.png",
     "homepage": "https://midasprotocol.io/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Ellipal",
     "logo": "ellipal.png",
     "homepage": "https://www.ellipal.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "ellipal:",
       "universal": "https://www.ellipal.com/"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "KEYRING PRO",
     "logo": "keyringpro.png",
     "homepage": "https://keyring.app/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "keyring:",
       "universal": "https://keyring.app"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Aktionariat",
     "logo": "aktionariat.png",
     "homepage": "https://aktionariat.com/",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "aktionariat:",
       "universal": "https://aktionariat.com/app"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Talken Wallet",
     "logo": "talken.png",
     "homepage": "https://talken.io",
+    "type": "wallet",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "talken-wallet:",
       "universal": "https://talken.io"
     },
-    "type": "wallet",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Etherscan",
     "logo": "etherscan.jpg",
     "homepage": "https://etherscan.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Uniswap",
     "logo": "uniswap.jpg",
     "homepage": "https://uniswap.exchange/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Binance DEX",
     "logo": "binancedex.png",
     "homepage": "https://binance.org/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "OpenSea",
     "logo": "opensea.jpg",
     "homepage": "https://opensea.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Compound",
     "logo": "compound.png",
     "homepage": "https://compound.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Zapper",
     "logo": "zapper.png",
     "homepage": "https://www.zapper.fi/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Aave",
     "logo": "aave.png",
     "homepage": "https://app.aave.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Zerion",
     "logo": "zerion.png",
     "homepage": "https://beta.zerion.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "LocalCryptos",
     "logo": "localcryptos.jpg",
     "homepage": "https://localcryptos.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DeBank",
     "logo": "debank.jpg",
     "homepage": "https://debank.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Unstoppable Domains",
     "logo": "unstoppable.png",
     "homepage": "https://unstoppabledomains.com/manager",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Rarible",
     "logo": "rarible.png",
     "homepage": "https://app.rarible.com/#/connect",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "1inch Exchange",
     "logo": "oneinchexchange.png",
     "homepage": "https://1inch.exchange/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "yearn",
     "logo": "yearn.png",
     "homepage": "https://yearn.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Nash",
     "logo": "nash.jpg",
     "homepage": "https://nash.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Curve",
     "logo": "curvefinance.png",
     "homepage": "https://www.curve.fi",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Adex Network",
     "logo": "adexnetwork.jpg",
     "homepage": "https://staking.adex.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "dYdX",
     "logo": "dydx.jpg",
     "homepage": "https://dydx.exchange/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MyCrypto",
     "logo": "mycrypto.png",
     "homepage": "https://beta.mycrypto.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Oasis App",
     "logo": "oasis.png",
     "homepage": "https://oasis.app/dashboard",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "TokenSets",
     "logo": "tokensets.jpg",
     "homepage": "https://tokensets.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MANTRA DAO",
     "logo": "mantradao.png",
     "homepage": "https://app.mantradao.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Matcha",
     "logo": "matcha.jpg",
     "homepage": "https://matcha.xyz",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "KyberSwap",
     "logo": "kyberswap.jpg",
     "homepage": "https://kyberswap.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DeFi Portfolio Tracker",
     "logo": "defiportfolio.png",
     "homepage": "https://portfolio.defiprime.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Loopring",
     "logo": "loopring.jpg",
     "homepage": "https://exchange.loopring.io",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "InstaDapp",
     "logo": "instadapp.jpg",
     "homepage": "https://instadapp.io/dashboard/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Matic Network",
     "logo": "maticnetwork.jpg",
     "homepage": "https://matic.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "3Box",
     "logo": "box.png",
     "homepage": "https://3box.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DDEX",
     "logo": "ddex.png",
     "homepage": "https://ddex.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Totle",
     "logo": "totle.jpg",
     "homepage": "https://swap.totle.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Bamboo Relay",
     "logo": "bamboorelay.png",
     "homepage": "https://bamboorelay.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Synthetix",
     "logo": "synthetix.jpg",
     "homepage": "https://synthetix.exchange/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "dex.blue",
     "logo": "dexblue.jpg",
     "homepage": "https://dex.blue/trading/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "PoolTogether",
     "logo": "pooltogether.png",
     "homepage": "https://app.pooltogether.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Sablier",
     "logo": "sablier.jpg",
     "homepage": "https://sablier.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DEX.AG",
     "logo": "dexag.png",
     "homepage": "https://dex.ag/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Gelato",
     "logo": "gelato.jpg",
     "homepage": "https://play.gelato.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "ENS Domains",
     "logo": "ensdomains.jpg",
     "homepage": "https://app.ens.domains/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Gnosis Safe Multisig",
     "logo": "gnosis-safe.jpg",
     "homepage": "https://gnosis-safe.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Idle Finance",
     "logo": "idlefinance.png",
     "homepage": "https://idle.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "iearn.finance",
     "logo": "iearnfinance.jpg",
     "homepage": "https://iearn.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "RCN Finance",
     "logo": "rcnfinance.jpg",
     "homepage": "https://rcn.market/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Hegic",
     "logo": "hegic.jpg",
     "homepage": "https://www.hegic.co/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Kickback",
     "logo": "kickback.jpg",
     "homepage": "https://kickback.events/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "88mph",
     "logo": "88mph.jpg",
     "homepage": "https://88mph.app/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Mooni",
     "logo": "mooni.jpg",
     "homepage": "https://app.mooni.tech/exchange",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Clovers",
     "logo": "clovers.png",
     "homepage": "https://clovers.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Mintbase",
     "logo": "mintbase.jpg",
     "homepage": "https://mintbase.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DAOstack",
     "logo": "daostack.jpg",
     "homepage": "https://alchemy.daostack.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "KnownOrigin",
     "logo": "knownorigin.jpg",
     "homepage": "https://knownorigin.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MyEtherWallet",
     "logo": "myetherwallet.jpg",
     "homepage": "https://myetherwallet.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Affogato",
     "logo": "affogato.png",
     "homepage": "https://affogato.co/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "StablePay",
     "logo": "stablepay.jpg",
     "homepage": "https://stablepay.io/dashboard",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DeFi Saver",
     "logo": "defisaver.jpg",
     "homepage": "https://defisaver.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Loom Network",
     "logo": "loomnetwork.png",
     "homepage": "https://dashboard.dappchains.com/login",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "ThorChain",
     "logo": "thorchain.jpg",
     "homepage": "https://thorchain.org/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "BulkSender",
     "logo": "bulksender.png",
     "homepage": "https://bulksender.app/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Heroes of Ether",
     "logo": "heroesofether.png",
     "homepage": "https://heroesofether.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Betoken",
     "logo": "betoken.png",
     "homepage": "https://betoken.fund/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Linkdrop",
     "logo": "linkdrop.png",
     "homepage": "https://linkdrop.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "HelioWallet",
     "logo": "heliowallet.png",
     "homepage": "https://heliowallet.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Escaroo",
     "logo": "escaroo.png",
     "homepage": "https://escaroo.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "TokenMarket",
     "logo": "tokenmarket.png",
     "homepage": "https://tokenmarket.net/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Mesa",
     "logo": "mesa.png",
     "homepage": "https://mesa.eth.link/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "MCDEX",
     "logo": "mcdex.png",
     "homepage": "https://mcdex.io",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Furucombo",
     "logo": "furucombo.png",
     "homepage": "https://furucombo.app/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Melon",
     "logo": "melon.png",
     "homepage": "https://melon.avantgarde.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Chainsfr",
     "logo": "chainsfr.png",
     "homepage": "https://chainsfr.com",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "AKA3 Email Alias",
     "logo": "aka3.png",
     "homepage": "http://aka3.net",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "2Key",
     "logo": "2key.jpg",
     "homepage": "https://www.2key.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Pitch",
     "logo": "pitch.jpg",
     "homepage": "https://pitchinvestorslive.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "SushiSwap",
     "logo": "sushiswap.png",
     "homepage": "https://sushiswap.fi/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Unagii",
     "logo": "unagii.png",
     "homepage": "https://www.unagii.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Cream Finance",
     "logo": "creamfinance.jpg",
     "homepage": "https://cream.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "zkSync",
     "logo": "zksync.jpg",
     "homepage": "https://zksync.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Shell Exchange",
     "logo": "shell.jpg",
     "homepage": "https://shells.exchange/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Index Coop",
     "logo": "indexcoop.jpg",
     "homepage": "https://www.indexcoop.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "SwapX",
     "logo": "swapx.jpg",
     "homepage": "https://app.swapx.org/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Starname",
     "logo": "starname.png",
     "homepage": "https://app.starname.me/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Space",
     "logo": "space.png",
     "homepage": "https://space.storage/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Maskbook",
     "logo": "maskbook.png",
     "homepage": "https://mask.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Snapshot",
     "logo": "snapshot.jpg",
     "homepage": "https://snapshot.page/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Invoice.build",
     "logo": "invoice-build.png",
     "homepage": "https://invoice.build/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Ankr",
     "logo": "ankr.jpg",
     "homepage": "https://ankr.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DODO",
     "logo": "dodo.png",
     "homepage": "https://app.dodoex.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "zLOT",
     "logo": "zlot.jpg",
     "homepage": "https://zlot.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Tokamak Network",
     "logo": "tokamak.png",
     "homepage": "https://tokamak.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Actus Protocol",
     "logo": "actusprotocol.jpg",
     "homepage": "https://portal.actus-protocol.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "AstroTools.io",
     "logo": "astrotools.jpg",
     "homepage": "https://astrotools.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Rubic Exchange",
     "logo": "rubic.jpg",
     "homepage": "https://rubic.exchange/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Harvest Finance",
     "logo": "harvestfinance.jpg",
     "homepage": "https://harvest.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "OctoFi",
     "logo": "octofinance.jpg",
     "homepage": "https://octo.fi/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Mushroom Finance",
     "logo": "mushroomfinance.jpg",
     "homepage": "https://mushrooms.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Bitfrost Finance",
     "logo": "bitfrostfinance.png",
     "homepage": "https://bitfrost.finance/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "XinFin XDC Network",
     "logo": "xdcnetwork.png",
     "homepage": "https://xinfin.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Orchid Protocol",
     "logo": "orchid.png",
     "homepage": "https://account.orchid.com/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Lido",
     "logo": "lido.png",
     "homepage": "https://stake.lido.fi/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Datamine Network",
     "logo": "datamine.jpg",
     "homepage": "https://datamine.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Streamr",
     "logo": "streamr.jpg",
     "homepage": "https://streamr.network/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "DappRadar",
     "logo": "dappradar.png",
     "homepage": "https://dappradar.com/hub/wallet",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "SuperRare",
     "logo": "superrare.jpg",
     "homepage": "https://superrare.co/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Arbitrum",
     "logo": "arbitrum.jpg",
     "homepage": "https://portal.arbitrum.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "ParaSwap",
     "logo": "paraswap.jpg",
     "homepage": "https://paraswap.io/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "HoneySwap",
     "logo": "honeyswap.jpg",
     "homepage": "https://howneyswap.org/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   },
   {
     "name": "Fleek",
     "logo": "fleek.png",
     "homepage": "https://fleek.co/",
+    "type": "dapp",
+    "chains": ["ethereum"],
     "app": {
       "browser": "",
       "ios": "",
-      "android": ""
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
     },
     "mobile": {
       "native": "",
       "universal": ""
     },
-    "type": "dapp",
-    "chains": ["ethereum"]
+    "desktop": {
+      "native": "",
+      "universal": ""
+    }
   }
 ]
