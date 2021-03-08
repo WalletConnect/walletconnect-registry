@@ -1,7 +1,6 @@
 declare module "@walletconnect/registry" {
   export interface AppEntry {
     name: string;
-    logo: string;
     homepage: string;
     type: string;
     chains: string[];
@@ -20,6 +19,14 @@ declare module "@walletconnect/registry" {
     desktop: {
       native: string;
       universal: string;
+    };
+    metadata: {
+      logo: string;
+      shortName: string;
+      colors: {
+        primary: string;
+        secondary: string;
+      };
     };
   }
 

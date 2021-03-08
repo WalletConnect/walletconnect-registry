@@ -1,7 +1,6 @@
 [
   {
     "name": "Rainbow",
-    "logo": "rainbow.png",
     "homepage": "https://rainbow.me/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -20,11 +19,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "rainbow.png",
+      "shortName": "Rainbow",
+      "colors": {
+        "primary": "rgb(0, 30, 89)",
+        "secondary": ""
+      }
     }
   },
   {
-    "name": "Trust",
-    "logo": "trust-wallet.png",
+    "name": "Trust Wallet",
     "homepage": "https://trustwallet.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -43,11 +49,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "trust-wallet.png",
+      "shortName": "Trust",
+      "colors": {
+        "primary": "rgb(51, 117, 187)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Argent",
-    "logo": "argent.jpg",
     "homepage": "https://www.argent.xyz/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -66,11 +79,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "argent.jpg",
+      "shortName": "Argent",
+      "colors": {
+        "primary": "rgb(255, 135, 91)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MetaMask",
-    "logo": "metamask.png",
     "homepage": "https://metamask.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -83,17 +103,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "metamask:",
+      "universal": "https://metamask.app.link"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "metamask.png",
+      "shortName": "MetaMask",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Gnosis Safe Multisig",
-    "logo": "gnosis-safe.jpg",
     "homepage": "https://gnosis-safe.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -112,11 +139,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "gnosis-safe.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Crypto.com | DeFi Wallet",
-    "logo": "crypto.png",
     "homepage": "https://crypto.com/en/defi/wallet/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -135,11 +169,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "crypto.png",
+      "shortName": "Crypto.com",
+      "colors": {
+        "primary": "rgb(17, 153, 250)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Pillar",
-    "logo": "pillar-wallet.png",
     "homepage": "https://pillarproject.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -158,11 +199,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "pillar-wallet.png",
+      "shortName": "Pillar",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "imToken",
-    "logo": "imtoken.png",
     "homepage": "https://token.im/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -181,11 +229,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "imtoken.png",
+      "shortName": "imToken",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "ONTO",
-    "logo": "onto.png",
     "homepage": "https://onto.app/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -204,11 +259,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "onto.png",
+      "shortName": "ONTO",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "TokenPocket",
-    "logo": "tokenpocket.png",
     "homepage": "https://www.tokenpocket.pro/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -227,11 +289,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "tokenpocket.png",
+      "shortName": "TokenPocket",
+      "colors": {
+        "primary": "rgb(41, 128, 254)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MathWallet",
-    "logo": "math-wallet.png",
     "homepage": "https://mathwallet.org/en/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -250,11 +319,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "math-wallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "BitPay",
-    "logo": "bitpay.jpg",
     "homepage": "https://bitpay.com/wallet",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -273,11 +349,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "bitpay.jpg",
+      "shortName": "BitPay",
+      "colors": {
+        "primary": "rgb(26, 59, 139)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Ledger Live",
-    "logo": "ledgerlive.png",
     "homepage": "https://www.ledger.com/ledger-live",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -296,11 +379,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "ledgerlive.png",
+      "shortName": "Ledger",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Walleth",
-    "logo": "walleth.png",
     "homepage": "https://walleth.org/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -319,11 +409,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "walleth.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Authereum",
-    "logo": "authereum.png",
     "homepage": "https://authereum.org",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -342,11 +439,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "authereum.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Huobi Wallet",
-    "logo": "huobi.jpg",
     "homepage": "https://www.huobiwallet.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -365,11 +469,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "huobi.jpg",
+      "shortName": "Huobi",
+      "colors": {
+        "primary": "rgb(45,101,248)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Eidoo",
-    "logo": "eidoo.png",
     "homepage": "https://eidoo.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -382,17 +493,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "eidoo:",
+      "universal": "https://eidoo.io/crypto-wallet"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "eidoo.png",
+      "shortName": "Eidoo",
+      "colors": {
+        "primary": "rgb(55, 179, 159)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MYKEY",
-    "logo": "mykey.png",
     "homepage": "https://mykey.org",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -405,17 +523,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "mykeywalletconnect:",
+      "universal": "https://mykey.org"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mykey.png",
+      "shortName": "MYKEY",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Loopring Wallet",
-    "logo": "loopring.jpg",
     "homepage": "https://loopring.io",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -434,11 +559,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "loopring.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "TrustVault",
-    "logo": "trustvault.png",
     "homepage": "https://www.trustology.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -457,11 +589,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "trustvault.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Atomic",
-    "logo": "atomic.png",
     "homepage": "https://atomicwallet.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -480,11 +619,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "atomic.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Coin98",
-    "logo": "coin98.png",
     "homepage": "https://coin98.app/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -503,11 +649,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "coin98.png",
+      "shortName": "Coin98",
+      "colors": {
+        "primary": "rgb(39,39,39)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "CoolWallet S",
-    "logo": "coolwallet-s.png",
     "homepage": "https://www.coolwallet.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -526,11 +679,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "coolwallet-s.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Alice",
-    "logo": "alice.png",
     "homepage": "https://www.alicedapp.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -549,11 +709,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "alice.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "AlphaWallet",
-    "logo": "alpha-wallet.jpg",
     "homepage": "https://alphawallet.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -572,11 +739,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "alpha-wallet.jpg",
+      "shortName": "AlphaWallet",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "D'CENT Wallet",
-    "logo": "dcentwallet.png",
     "homepage": "https://dcentwallet.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -595,11 +769,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dcentwallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "ZelCore",
-    "logo": "zelcore.png",
     "homepage": "https://zel.network/project/zelcore/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -612,17 +793,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "zel:",
+      "universal": "https://link.zel.network"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "zelcore.png",
+      "shortName": "ZelCore",
+      "colors": {
+        "primary": "rgb(35, 34, 32)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Nash",
-    "logo": "nash.jpg",
     "homepage": "https://nash.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -635,17 +823,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "nash:",
+      "universal": "https://nash.io/walletconnect"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "nash.jpg",
+      "shortName": "Nash",
+      "colors": {
+        "primary": "rgb(0,82,243)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Coinomi",
-    "logo": "coinomi.jpg",
     "homepage": "https://coinomi.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -664,11 +859,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "coinomi.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "GridPlus",
-    "logo": "gridplus.png",
     "homepage": "https://gridplus.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -687,11 +889,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "gridplus.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "CYBAVO Wallet",
-    "logo": "cybavowallet.png",
     "homepage": "https://www.cybavo.com/wallet-app-sdk/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -704,17 +913,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "cybavowallet:",
+      "universal": "https://cdn.cybavo.com"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "cybavowallet.png",
+      "shortName": "CYBAVO",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Tokenary",
-    "logo": "tokenary.png",
     "homepage": "https://tokenary.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -733,11 +949,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "tokenary.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Torus",
-    "logo": "torus.jpg",
     "homepage": "https://toruswallet.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -756,11 +979,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "torus.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Spatium",
-    "logo": "spatium.jpg",
     "homepage": "https://spatium.net/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -779,11 +1009,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "spatium.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "SafePal",
-    "logo": "safepal.png",
     "homepage": "https://safepal.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -796,17 +1033,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "safepalwallet:",
+      "universal": "https://link.safepal.io"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "safepal.png",
+      "shortName": "SafePal",
+      "colors": {
+        "primary": "rgb(0, 128, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Equal",
-    "logo": "equal.jpg",
     "homepage": "https://equal.tech/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -825,11 +1069,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "equal.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Infinito",
-    "logo": "infinito-wallet.png",
     "homepage": "https://www.infinitowallet.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -848,11 +1099,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "infinito-wallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "wallet.io",
-    "logo": "wallet.io.png",
     "homepage": "https://wallet.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -871,11 +1129,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "wallet.io.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Infinity Wallet",
-    "logo": "infinity-wallet.png",
     "homepage": "https://infinitywallet.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -894,11 +1159,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "infinity-wallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Ownbit",
-    "logo": "ownbit.png",
     "homepage": "https://ownbit.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -917,11 +1189,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "ownbit.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "EasyPocket",
-    "logo": "easypocket.jpg",
     "homepage": "https://easypocket.app/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -934,17 +1213,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "easypocket:",
+      "universal": "https://wallet.easypocket.app"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "easypocket.jpg",
+      "shortName": "EasyPocket",
+      "colors": {
+        "primary": "rgb(17, 93, 251)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Bridge Wallet",
-    "logo": "bridge.png",
     "homepage": "https://www.mtpelerin.com/bridge-wallet",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -963,11 +1249,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "bridge.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "SparkPoint",
-    "logo": "sparkpoint.png",
     "homepage": "https://sparkpoint.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -980,17 +1273,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "sparkpoint:",
+      "universal": "https://sparkpoint.io"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "sparkpoint.png",
+      "shortName": "SparkPoint",
+      "colors": {
+        "primary": "rgb(20,67,95)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "ViaWallet",
-    "logo": "viawallet.png",
     "homepage": "https://viawallet.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1009,11 +1309,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "viawallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "BitKeep",
-    "logo": "bitkeep.png",
     "homepage": "https://bitkeep.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1032,11 +1339,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "bitkeep.png",
+      "shortName": "BitKeep",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Vision",
-    "logo": "vision.png",
     "homepage": "https://vision-crypto.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1055,11 +1369,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "vision.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "SWFT Wallet",
-    "logo": "swft.png",
     "homepage": "https://www.swft.pro/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1078,11 +1399,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "swft.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "PEAKDEFI Wallet",
-    "logo": "peakdefi.png",
     "homepage": "https://peakdefi.com/download",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1095,17 +1423,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "peakdefiwallet:",
+      "universal": "https://peakdefi.com/download"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "peakdefi.png",
+      "shortName": "PEAKDEFI",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "XDC Wallet",
-    "logo": "xdc.png",
     "homepage": "https://play.google.com/store/apps/details?id=com.xdcwallet",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1124,11 +1459,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "xdc.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Unstoppable Wallet",
-    "logo": "unstoppable.png",
     "homepage": "https://unstoppable.money/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1147,11 +1489,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "unstoppable.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "HaloDeFi Wallet",
-    "logo": "halodefi.png",
     "homepage": "https://halodefi.org/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1170,11 +1519,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "halodefi.png",
+      "shortName": "HaloDeFi",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MEET.ONE",
-    "logo": "meetone.jpg",
     "homepage": "https://meet.one/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1193,11 +1549,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "meetone.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Dok Wallet",
-    "logo": "dok.png",
     "homepage": "https://dokwallet.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1216,11 +1579,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dok.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "AT.Wallet",
-    "logo": "atwallet.png",
     "homepage": "https://authentrend.com/at-wallet/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1239,11 +1609,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "atwallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MoriX Wallet",
-    "logo": "morixwallet.png",
     "homepage": "https://morixjp.com/product/walletcard",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1262,11 +1639,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "morixwallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Midas Wallet",
-    "logo": "midas-wallet.png",
     "homepage": "https://midasprotocol.io/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1285,11 +1669,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "midas-wallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Ellipal",
-    "logo": "ellipal.png",
     "homepage": "https://www.ellipal.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1308,11 +1699,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "ellipal.png",
+      "shortName": "Ellipal",
+      "colors": {
+        "primary": "rgb(48, 124, 249)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "KEYRING PRO",
-    "logo": "keyringpro.png",
     "homepage": "https://keyring.app/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1331,11 +1729,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "keyringpro.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Aktionariat",
-    "logo": "aktionariat.png",
     "homepage": "https://aktionariat.com/",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1354,11 +1759,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "aktionariat.png",
+      "shortName": "Aktionariat",
+      "colors": {
+        "primary": "rgb(10, 20, 20)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Talken Wallet",
-    "logo": "talken.png",
     "homepage": "https://talken.io",
     "type": "wallet",
     "chains": ["ethereum"],
@@ -1377,11 +1789,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "talken.png",
+      "shortName": "Talken",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Etherscan",
-    "logo": "etherscan.jpg",
     "homepage": "https://etherscan.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1400,11 +1819,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "etherscan.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Uniswap",
-    "logo": "uniswap.jpg",
     "homepage": "https://uniswap.exchange/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1423,11 +1849,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "uniswap.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Binance DEX",
-    "logo": "binancedex.png",
     "homepage": "https://binance.org/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1446,11 +1879,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "binancedex.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "OpenSea",
-    "logo": "opensea.jpg",
     "homepage": "https://opensea.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1469,11 +1909,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "opensea.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Compound",
-    "logo": "compound.png",
     "homepage": "https://compound.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1492,11 +1939,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "compound.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Zapper",
-    "logo": "zapper.png",
     "homepage": "https://www.zapper.fi/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1515,11 +1969,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "zapper.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Aave",
-    "logo": "aave.png",
     "homepage": "https://app.aave.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1538,11 +1999,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "aave.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Zerion",
-    "logo": "zerion.png",
     "homepage": "https://beta.zerion.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1561,11 +2029,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "zerion.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "LocalCryptos",
-    "logo": "localcryptos.jpg",
     "homepage": "https://localcryptos.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1584,11 +2059,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "localcryptos.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DeBank",
-    "logo": "debank.jpg",
     "homepage": "https://debank.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1607,11 +2089,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "debank.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Unstoppable Domains",
-    "logo": "unstoppable.png",
     "homepage": "https://unstoppabledomains.com/manager",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1630,11 +2119,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "unstoppable.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Rarible",
-    "logo": "rarible.png",
     "homepage": "https://app.rarible.com/#/connect",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1653,11 +2149,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "rarible.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "1inch Exchange",
-    "logo": "oneinchexchange.png",
     "homepage": "https://1inch.exchange/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1676,11 +2179,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "oneinchexchange.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "yearn",
-    "logo": "yearn.png",
     "homepage": "https://yearn.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1699,11 +2209,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "yearn.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Nash",
-    "logo": "nash.jpg",
     "homepage": "https://nash.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1716,17 +2233,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "nash:",
+      "universal": "https://nash.io/walletconnect"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "nash.jpg",
+      "shortName": "Nash",
+      "colors": {
+        "primary": "rgb(0,82,243)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Curve",
-    "logo": "curvefinance.png",
     "homepage": "https://www.curve.fi",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1745,11 +2269,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "curvefinance.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Adex Network",
-    "logo": "adexnetwork.jpg",
     "homepage": "https://staking.adex.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1768,11 +2299,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "adexnetwork.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "dYdX",
-    "logo": "dydx.jpg",
     "homepage": "https://dydx.exchange/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1791,11 +2329,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dydx.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MyCrypto",
-    "logo": "mycrypto.png",
     "homepage": "https://beta.mycrypto.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1814,11 +2359,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mycrypto.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Oasis App",
-    "logo": "oasis.png",
     "homepage": "https://oasis.app/dashboard",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1837,11 +2389,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "oasis.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "TokenSets",
-    "logo": "tokensets.jpg",
     "homepage": "https://tokensets.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1860,11 +2419,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "tokensets.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MANTRA DAO",
-    "logo": "mantradao.png",
     "homepage": "https://app.mantradao.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1883,11 +2449,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mantradao.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Matcha",
-    "logo": "matcha.jpg",
     "homepage": "https://matcha.xyz",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1906,11 +2479,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "matcha.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "KyberSwap",
-    "logo": "kyberswap.jpg",
     "homepage": "https://kyberswap.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1923,17 +2503,24 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "kyberswap:",
+      "universal": "https://kyberswapnew.app.link"
     },
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "kyberswap.jpg",
+      "shortName": "KyberSwap",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DeFi Portfolio Tracker",
-    "logo": "defiportfolio.png",
     "homepage": "https://portfolio.defiprime.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1952,11 +2539,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "defiportfolio.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Loopring",
-    "logo": "loopring.jpg",
     "homepage": "https://exchange.loopring.io",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1975,11 +2569,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "loopring.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "InstaDapp",
-    "logo": "instadapp.jpg",
     "homepage": "https://instadapp.io/dashboard/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -1998,11 +2599,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "instadapp.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Matic Network",
-    "logo": "maticnetwork.jpg",
     "homepage": "https://matic.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2021,11 +2629,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "maticnetwork.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "3Box",
-    "logo": "box.png",
     "homepage": "https://3box.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2044,11 +2659,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "box.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DDEX",
-    "logo": "ddex.png",
     "homepage": "https://ddex.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2067,11 +2689,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "ddex.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Totle",
-    "logo": "totle.jpg",
     "homepage": "https://swap.totle.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2090,11 +2719,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "totle.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Bamboo Relay",
-    "logo": "bamboorelay.png",
     "homepage": "https://bamboorelay.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2113,11 +2749,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "bamboorelay.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Synthetix",
-    "logo": "synthetix.jpg",
     "homepage": "https://synthetix.exchange/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2136,11 +2779,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "synthetix.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "dex.blue",
-    "logo": "dexblue.jpg",
     "homepage": "https://dex.blue/trading/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2159,11 +2809,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dexblue.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "PoolTogether",
-    "logo": "pooltogether.png",
     "homepage": "https://app.pooltogether.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2182,11 +2839,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "pooltogether.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Sablier",
-    "logo": "sablier.jpg",
     "homepage": "https://sablier.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2205,11 +2869,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "sablier.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DEX.AG",
-    "logo": "dexag.png",
     "homepage": "https://dex.ag/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2228,11 +2899,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dexag.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Gelato",
-    "logo": "gelato.jpg",
     "homepage": "https://play.gelato.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2251,11 +2929,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "gelato.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "ENS Domains",
-    "logo": "ensdomains.jpg",
     "homepage": "https://app.ens.domains/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2274,11 +2959,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "ensdomains.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Gnosis Safe Multisig",
-    "logo": "gnosis-safe.jpg",
     "homepage": "https://gnosis-safe.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2297,11 +2989,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "gnosis-safe.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Idle Finance",
-    "logo": "idlefinance.png",
     "homepage": "https://idle.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2320,11 +3019,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "idlefinance.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "iearn.finance",
-    "logo": "iearnfinance.jpg",
     "homepage": "https://iearn.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2343,11 +3049,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "iearnfinance.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "RCN Finance",
-    "logo": "rcnfinance.jpg",
     "homepage": "https://rcn.market/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2366,11 +3079,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "rcnfinance.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Hegic",
-    "logo": "hegic.jpg",
     "homepage": "https://www.hegic.co/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2389,11 +3109,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "hegic.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Kickback",
-    "logo": "kickback.jpg",
     "homepage": "https://kickback.events/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2412,11 +3139,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "kickback.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "88mph",
-    "logo": "88mph.jpg",
     "homepage": "https://88mph.app/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2435,11 +3169,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "88mph.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Mooni",
-    "logo": "mooni.jpg",
     "homepage": "https://app.mooni.tech/exchange",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2458,11 +3199,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mooni.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Clovers",
-    "logo": "clovers.png",
     "homepage": "https://clovers.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2481,11 +3229,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "clovers.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Mintbase",
-    "logo": "mintbase.jpg",
     "homepage": "https://mintbase.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2504,11 +3259,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mintbase.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DAOstack",
-    "logo": "daostack.jpg",
     "homepage": "https://alchemy.daostack.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2527,11 +3289,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "daostack.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "KnownOrigin",
-    "logo": "knownorigin.jpg",
     "homepage": "https://knownorigin.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2550,11 +3319,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "knownorigin.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MyEtherWallet",
-    "logo": "myetherwallet.jpg",
     "homepage": "https://myetherwallet.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2573,11 +3349,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "myetherwallet.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Affogato",
-    "logo": "affogato.png",
     "homepage": "https://affogato.co/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2596,11 +3379,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "affogato.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "StablePay",
-    "logo": "stablepay.jpg",
     "homepage": "https://stablepay.io/dashboard",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2619,11 +3409,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "stablepay.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DeFi Saver",
-    "logo": "defisaver.jpg",
     "homepage": "https://defisaver.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2642,11 +3439,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "defisaver.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Loom Network",
-    "logo": "loomnetwork.png",
     "homepage": "https://dashboard.dappchains.com/login",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2665,11 +3469,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "loomnetwork.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "ThorChain",
-    "logo": "thorchain.jpg",
     "homepage": "https://thorchain.org/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2688,11 +3499,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "thorchain.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "BulkSender",
-    "logo": "bulksender.png",
     "homepage": "https://bulksender.app/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2711,11 +3529,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "bulksender.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Heroes of Ether",
-    "logo": "heroesofether.png",
     "homepage": "https://heroesofether.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2734,11 +3559,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "heroesofether.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Betoken",
-    "logo": "betoken.png",
     "homepage": "https://betoken.fund/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2757,11 +3589,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "betoken.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Linkdrop",
-    "logo": "linkdrop.png",
     "homepage": "https://linkdrop.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2780,11 +3619,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "linkdrop.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "HelioWallet",
-    "logo": "heliowallet.png",
     "homepage": "https://heliowallet.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2803,11 +3649,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "heliowallet.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Escaroo",
-    "logo": "escaroo.png",
     "homepage": "https://escaroo.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2826,11 +3679,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "escaroo.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "TokenMarket",
-    "logo": "tokenmarket.png",
     "homepage": "https://tokenmarket.net/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2849,11 +3709,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "tokenmarket.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Mesa",
-    "logo": "mesa.png",
     "homepage": "https://mesa.eth.link/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2872,11 +3739,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mesa.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "MCDEX",
-    "logo": "mcdex.png",
     "homepage": "https://mcdex.io",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2895,11 +3769,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mcdex.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Furucombo",
-    "logo": "furucombo.png",
     "homepage": "https://furucombo.app/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2918,11 +3799,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "furucombo.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Melon",
-    "logo": "melon.png",
     "homepage": "https://melon.avantgarde.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2941,11 +3829,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "melon.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Chainsfr",
-    "logo": "chainsfr.png",
     "homepage": "https://chainsfr.com",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2964,11 +3859,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "chainsfr.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "AKA3 Email Alias",
-    "logo": "aka3.png",
     "homepage": "http://aka3.net",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2987,11 +3889,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "aka3.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "2Key",
-    "logo": "2key.jpg",
     "homepage": "https://www.2key.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3010,11 +3919,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "2key.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Pitch",
-    "logo": "pitch.jpg",
     "homepage": "https://pitchinvestorslive.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3033,11 +3949,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "pitch.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "SushiSwap",
-    "logo": "sushiswap.png",
     "homepage": "https://sushiswap.fi/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3056,11 +3979,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "sushiswap.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Unagii",
-    "logo": "unagii.png",
     "homepage": "https://www.unagii.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3079,11 +4009,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "unagii.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Cream Finance",
-    "logo": "creamfinance.jpg",
     "homepage": "https://cream.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3102,11 +4039,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "creamfinance.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "zkSync",
-    "logo": "zksync.jpg",
     "homepage": "https://zksync.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3125,11 +4069,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "zksync.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Shell Exchange",
-    "logo": "shell.jpg",
     "homepage": "https://shells.exchange/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3148,11 +4099,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "shell.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Index Coop",
-    "logo": "indexcoop.jpg",
     "homepage": "https://www.indexcoop.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3171,11 +4129,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "indexcoop.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "SwapX",
-    "logo": "swapx.jpg",
     "homepage": "https://app.swapx.org/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3194,11 +4159,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "swapx.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Starname",
-    "logo": "starname.png",
     "homepage": "https://app.starname.me/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3217,11 +4189,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "starname.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Space",
-    "logo": "space.png",
     "homepage": "https://space.storage/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3240,11 +4219,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "space.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Maskbook",
-    "logo": "maskbook.png",
     "homepage": "https://mask.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3263,11 +4249,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "maskbook.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Snapshot",
-    "logo": "snapshot.jpg",
     "homepage": "https://snapshot.page/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3286,11 +4279,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "snapshot.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Invoice.build",
-    "logo": "invoice-build.png",
     "homepage": "https://invoice.build/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3309,11 +4309,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "invoice-build.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Ankr",
-    "logo": "ankr.jpg",
     "homepage": "https://ankr.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3332,11 +4339,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "ankr.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DODO",
-    "logo": "dodo.png",
     "homepage": "https://app.dodoex.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3355,11 +4369,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dodo.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "zLOT",
-    "logo": "zlot.jpg",
     "homepage": "https://zlot.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3378,11 +4399,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "zlot.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Tokamak Network",
-    "logo": "tokamak.png",
     "homepage": "https://tokamak.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3401,11 +4429,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "tokamak.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Actus Protocol",
-    "logo": "actusprotocol.jpg",
     "homepage": "https://portal.actus-protocol.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3424,11 +4459,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "actusprotocol.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "AstroTools.io",
-    "logo": "astrotools.jpg",
     "homepage": "https://astrotools.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3447,11 +4489,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "astrotools.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Rubic Exchange",
-    "logo": "rubic.jpg",
     "homepage": "https://rubic.exchange/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3470,11 +4519,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "rubic.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Harvest Finance",
-    "logo": "harvestfinance.jpg",
     "homepage": "https://harvest.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3493,11 +4549,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "harvestfinance.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "OctoFi",
-    "logo": "octofinance.jpg",
     "homepage": "https://octo.fi/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3516,11 +4579,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "octofinance.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Mushroom Finance",
-    "logo": "mushroomfinance.jpg",
     "homepage": "https://mushrooms.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3539,11 +4609,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "mushroomfinance.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Bitfrost Finance",
-    "logo": "bitfrostfinance.png",
     "homepage": "https://bitfrost.finance/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3562,11 +4639,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "bitfrostfinance.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "XinFin XDC Network",
-    "logo": "xdcnetwork.png",
     "homepage": "https://xinfin.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3585,11 +4669,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "xdcnetwork.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Orchid Protocol",
-    "logo": "orchid.png",
     "homepage": "https://account.orchid.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3608,11 +4699,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "orchid.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Lido",
-    "logo": "lido.png",
     "homepage": "https://stake.lido.fi/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3631,11 +4729,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "lido.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Datamine Network",
-    "logo": "datamine.jpg",
     "homepage": "https://datamine.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3654,11 +4759,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "datamine.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Streamr",
-    "logo": "streamr.jpg",
     "homepage": "https://streamr.network/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3677,11 +4789,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "streamr.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "DappRadar",
-    "logo": "dappradar.png",
     "homepage": "https://dappradar.com/hub/wallet",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3700,11 +4819,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "dappradar.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "SuperRare",
-    "logo": "superrare.jpg",
     "homepage": "https://superrare.co/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3723,11 +4849,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "superrare.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Arbitrum",
-    "logo": "arbitrum.jpg",
     "homepage": "https://portal.arbitrum.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3746,11 +4879,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "arbitrum.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "ParaSwap",
-    "logo": "paraswap.jpg",
     "homepage": "https://paraswap.io/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3769,11 +4909,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "paraswap.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "HoneySwap",
-    "logo": "honeyswap.jpg",
     "homepage": "https://howneyswap.org/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3792,11 +4939,18 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "honeyswap.jpg",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   },
   {
     "name": "Fleek",
-    "logo": "fleek.png",
     "homepage": "https://fleek.co/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -3815,6 +4969,14 @@
     "desktop": {
       "native": "",
       "universal": ""
+    },
+    "metadata": {
+      "logo": "fleek.png",
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
     }
   }
 ]
