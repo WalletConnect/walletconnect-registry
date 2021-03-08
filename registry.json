@@ -142,7 +142,7 @@
     },
     "metadata": {
       "logo": "gnosis-safe.jpg",
-      "shortName": "",
+      "shortName": "Gnosis Safe",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -322,7 +322,7 @@
     },
     "metadata": {
       "logo": "math-wallet.png",
-      "shortName": "",
+      "shortName": "MathWallet",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -412,7 +412,7 @@
     },
     "metadata": {
       "logo": "walleth.png",
-      "shortName": "",
+      "shortName": "Walleth",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -442,7 +442,7 @@
     },
     "metadata": {
       "logo": "authereum.png",
-      "shortName": "",
+      "shortName": "Authereum",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -562,7 +562,7 @@
     },
     "metadata": {
       "logo": "loopring.jpg",
-      "shortName": "",
+      "shortName": "Loopring",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -592,7 +592,7 @@
     },
     "metadata": {
       "logo": "trustvault.png",
-      "shortName": "",
+      "shortName": "TrustVault",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -622,7 +622,7 @@
     },
     "metadata": {
       "logo": "atomic.png",
-      "shortName": "",
+      "shortName": "Atomic",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -682,7 +682,7 @@
     },
     "metadata": {
       "logo": "coolwallet-s.png",
-      "shortName": "",
+      "shortName": "CoolWallet S",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -712,7 +712,7 @@
     },
     "metadata": {
       "logo": "alice.png",
-      "shortName": "",
+      "shortName": "Alice",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -772,7 +772,7 @@
     },
     "metadata": {
       "logo": "dcentwallet.png",
-      "shortName": "",
+      "shortName": "D'CENT",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -862,7 +862,7 @@
     },
     "metadata": {
       "logo": "coinomi.jpg",
-      "shortName": "",
+      "shortName": "Coinomi",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -892,7 +892,7 @@
     },
     "metadata": {
       "logo": "gridplus.png",
-      "shortName": "",
+      "shortName": "GridPlus",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -952,7 +952,7 @@
     },
     "metadata": {
       "logo": "tokenary.png",
-      "shortName": "",
+      "shortName": "Tokenary",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -982,7 +982,7 @@
     },
     "metadata": {
       "logo": "torus.jpg",
-      "shortName": "",
+      "shortName": "Torus",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1012,7 +1012,7 @@
     },
     "metadata": {
       "logo": "spatium.jpg",
-      "shortName": "",
+      "shortName": "Spatium",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1072,7 +1072,7 @@
     },
     "metadata": {
       "logo": "equal.jpg",
-      "shortName": "",
+      "shortName": "Equal",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1102,7 +1102,7 @@
     },
     "metadata": {
       "logo": "infinito-wallet.png",
-      "shortName": "",
+      "shortName": "Infinito",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1132,7 +1132,7 @@
     },
     "metadata": {
       "logo": "wallet.io.png",
-      "shortName": "",
+      "shortName": "wallet.io",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1162,7 +1162,7 @@
     },
     "metadata": {
       "logo": "infinity-wallet.png",
-      "shortName": "",
+      "shortName": "Infinity",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1192,7 +1192,7 @@
     },
     "metadata": {
       "logo": "ownbit.png",
-      "shortName": "",
+      "shortName": "Ownbit",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1252,7 +1252,7 @@
     },
     "metadata": {
       "logo": "bridge.png",
-      "shortName": "",
+      "shortName": "Bridge",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1312,7 +1312,7 @@
     },
     "metadata": {
       "logo": "viawallet.png",
-      "shortName": "",
+      "shortName": "ViaWallet",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1372,7 +1372,7 @@
     },
     "metadata": {
       "logo": "vision.png",
-      "shortName": "",
+      "shortName": "Vision",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1402,7 +1402,7 @@
     },
     "metadata": {
       "logo": "swft.png",
-      "shortName": "",
+      "shortName": "SWFT",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1462,7 +1462,7 @@
     },
     "metadata": {
       "logo": "xdc.png",
-      "shortName": "",
+      "shortName": "XDC",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1492,7 +1492,7 @@
     },
     "metadata": {
       "logo": "unstoppable.png",
-      "shortName": "",
+      "shortName": "Unstoppable",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1552,7 +1552,7 @@
     },
     "metadata": {
       "logo": "meetone.jpg",
-      "shortName": "",
+      "shortName": "MEET.ONE",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1582,7 +1582,7 @@
     },
     "metadata": {
       "logo": "dok.png",
-      "shortName": "",
+      "shortName": "Dok",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1612,7 +1612,7 @@
     },
     "metadata": {
       "logo": "atwallet.png",
-      "shortName": "",
+      "shortName": "AT.Wallet",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1642,7 +1642,7 @@
     },
     "metadata": {
       "logo": "morixwallet.png",
-      "shortName": "",
+      "shortName": "MoriX",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1672,7 +1672,7 @@
     },
     "metadata": {
       "logo": "midas-wallet.png",
-      "shortName": "",
+      "shortName": "Midas",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1732,7 +1732,7 @@
     },
     "metadata": {
       "logo": "keyringpro.png",
-      "shortName": "",
+      "shortName": "KEYRING PRO",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1822,7 +1822,7 @@
     },
     "metadata": {
       "logo": "etherscan.jpg",
-      "shortName": "",
+      "shortName": "Etherscan",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1852,7 +1852,7 @@
     },
     "metadata": {
       "logo": "uniswap.jpg",
-      "shortName": "",
+      "shortName": "Uniswap",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1882,7 +1882,7 @@
     },
     "metadata": {
       "logo": "binancedex.png",
-      "shortName": "",
+      "shortName": "Binance DEX",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1912,7 +1912,7 @@
     },
     "metadata": {
       "logo": "opensea.jpg",
-      "shortName": "",
+      "shortName": "OpenSea",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1942,7 +1942,7 @@
     },
     "metadata": {
       "logo": "compound.png",
-      "shortName": "",
+      "shortName": "Compound",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -1972,7 +1972,7 @@
     },
     "metadata": {
       "logo": "zapper.png",
-      "shortName": "",
+      "shortName": "Zapper",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2002,7 +2002,7 @@
     },
     "metadata": {
       "logo": "aave.png",
-      "shortName": "",
+      "shortName": "Aave",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2032,7 +2032,7 @@
     },
     "metadata": {
       "logo": "zerion.png",
-      "shortName": "",
+      "shortName": "Zerion",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2062,7 +2062,7 @@
     },
     "metadata": {
       "logo": "localcryptos.jpg",
-      "shortName": "",
+      "shortName": "LocalCryptos",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2092,7 +2092,7 @@
     },
     "metadata": {
       "logo": "debank.jpg",
-      "shortName": "",
+      "shortName": "DeBank",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2122,7 +2122,7 @@
     },
     "metadata": {
       "logo": "unstoppable.png",
-      "shortName": "",
+      "shortName": "Unstoppable",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2152,7 +2152,7 @@
     },
     "metadata": {
       "logo": "rarible.png",
-      "shortName": "",
+      "shortName": "Rarible",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2182,7 +2182,7 @@
     },
     "metadata": {
       "logo": "oneinchexchange.png",
-      "shortName": "",
+      "shortName": "1inch",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2212,7 +2212,7 @@
     },
     "metadata": {
       "logo": "yearn.png",
-      "shortName": "",
+      "shortName": "yearn",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2272,7 +2272,7 @@
     },
     "metadata": {
       "logo": "curvefinance.png",
-      "shortName": "",
+      "shortName": "Curve",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2302,7 +2302,7 @@
     },
     "metadata": {
       "logo": "adexnetwork.jpg",
-      "shortName": "",
+      "shortName": "Adex",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2332,7 +2332,7 @@
     },
     "metadata": {
       "logo": "dydx.jpg",
-      "shortName": "",
+      "shortName": "dYdX",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2362,7 +2362,7 @@
     },
     "metadata": {
       "logo": "mycrypto.png",
-      "shortName": "",
+      "shortName": "MyCrypto",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2392,7 +2392,7 @@
     },
     "metadata": {
       "logo": "oasis.png",
-      "shortName": "",
+      "shortName": "Oasis",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2422,7 +2422,7 @@
     },
     "metadata": {
       "logo": "tokensets.jpg",
-      "shortName": "",
+      "shortName": "TokenSets",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2452,7 +2452,7 @@
     },
     "metadata": {
       "logo": "mantradao.png",
-      "shortName": "",
+      "shortName": "MANTRA",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2482,7 +2482,7 @@
     },
     "metadata": {
       "logo": "matcha.jpg",
-      "shortName": "",
+      "shortName": "Matcha",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2520,7 +2520,7 @@
     }
   },
   {
-    "name": "DeFi Portfolio Tracker",
+    "name": "DeFi Prime",
     "homepage": "https://portfolio.defiprime.com/",
     "type": "dapp",
     "chains": ["ethereum"],
@@ -2542,7 +2542,7 @@
     },
     "metadata": {
       "logo": "defiportfolio.png",
-      "shortName": "",
+      "shortName": "DeFi Prime",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2572,7 +2572,7 @@
     },
     "metadata": {
       "logo": "loopring.jpg",
-      "shortName": "",
+      "shortName": "Loopring",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2602,7 +2602,7 @@
     },
     "metadata": {
       "logo": "instadapp.jpg",
-      "shortName": "",
+      "shortName": "InstaDapp",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2632,7 +2632,7 @@
     },
     "metadata": {
       "logo": "maticnetwork.jpg",
-      "shortName": "",
+      "shortName": "Matic",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2662,7 +2662,7 @@
     },
     "metadata": {
       "logo": "box.png",
-      "shortName": "",
+      "shortName": "3Box",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2692,7 +2692,7 @@
     },
     "metadata": {
       "logo": "ddex.png",
-      "shortName": "",
+      "shortName": "DDEX",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2722,7 +2722,7 @@
     },
     "metadata": {
       "logo": "totle.jpg",
-      "shortName": "",
+      "shortName": "Totle",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2752,7 +2752,7 @@
     },
     "metadata": {
       "logo": "bamboorelay.png",
-      "shortName": "",
+      "shortName": "Bamboo",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2782,7 +2782,7 @@
     },
     "metadata": {
       "logo": "synthetix.jpg",
-      "shortName": "",
+      "shortName": "Synthetix",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2812,7 +2812,7 @@
     },
     "metadata": {
       "logo": "dexblue.jpg",
-      "shortName": "",
+      "shortName": "dex.blue",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2842,7 +2842,7 @@
     },
     "metadata": {
       "logo": "pooltogether.png",
-      "shortName": "",
+      "shortName": "PoolTogether",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2872,7 +2872,7 @@
     },
     "metadata": {
       "logo": "sablier.jpg",
-      "shortName": "",
+      "shortName": "Sablier",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2902,7 +2902,7 @@
     },
     "metadata": {
       "logo": "dexag.png",
-      "shortName": "",
+      "shortName": "DEX.AG",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2932,7 +2932,7 @@
     },
     "metadata": {
       "logo": "gelato.jpg",
-      "shortName": "",
+      "shortName": "Gelato",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2962,7 +2962,7 @@
     },
     "metadata": {
       "logo": "ensdomains.jpg",
-      "shortName": "",
+      "shortName": "ENS",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -2992,7 +2992,7 @@
     },
     "metadata": {
       "logo": "gnosis-safe.jpg",
-      "shortName": "",
+      "shortName": "Gnosis Safe",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3022,7 +3022,7 @@
     },
     "metadata": {
       "logo": "idlefinance.png",
-      "shortName": "",
+      "shortName": "Idle",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3052,7 +3052,7 @@
     },
     "metadata": {
       "logo": "iearnfinance.jpg",
-      "shortName": "",
+      "shortName": "iearn",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3082,7 +3082,7 @@
     },
     "metadata": {
       "logo": "rcnfinance.jpg",
-      "shortName": "",
+      "shortName": "RCN",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3112,7 +3112,7 @@
     },
     "metadata": {
       "logo": "hegic.jpg",
-      "shortName": "",
+      "shortName": "Hegic",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3142,7 +3142,7 @@
     },
     "metadata": {
       "logo": "kickback.jpg",
-      "shortName": "",
+      "shortName": "Kickback",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3172,7 +3172,7 @@
     },
     "metadata": {
       "logo": "88mph.jpg",
-      "shortName": "",
+      "shortName": "88mph",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3202,7 +3202,7 @@
     },
     "metadata": {
       "logo": "mooni.jpg",
-      "shortName": "",
+      "shortName": "Mooni",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3232,7 +3232,7 @@
     },
     "metadata": {
       "logo": "clovers.png",
-      "shortName": "",
+      "shortName": "Clovers",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3262,7 +3262,7 @@
     },
     "metadata": {
       "logo": "mintbase.jpg",
-      "shortName": "",
+      "shortName": "Mintbase",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3292,7 +3292,7 @@
     },
     "metadata": {
       "logo": "daostack.jpg",
-      "shortName": "",
+      "shortName": "DAOstack",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3322,7 +3322,7 @@
     },
     "metadata": {
       "logo": "knownorigin.jpg",
-      "shortName": "",
+      "shortName": "KnownOrigin",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3352,7 +3352,7 @@
     },
     "metadata": {
       "logo": "myetherwallet.jpg",
-      "shortName": "",
+      "shortName": "MEW",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3382,7 +3382,7 @@
     },
     "metadata": {
       "logo": "affogato.png",
-      "shortName": "",
+      "shortName": "Affogato",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3412,7 +3412,7 @@
     },
     "metadata": {
       "logo": "stablepay.jpg",
-      "shortName": "",
+      "shortName": "StablePay",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3442,7 +3442,7 @@
     },
     "metadata": {
       "logo": "defisaver.jpg",
-      "shortName": "",
+      "shortName": "DeFi Saver",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3472,7 +3472,7 @@
     },
     "metadata": {
       "logo": "loomnetwork.png",
-      "shortName": "",
+      "shortName": "Loom",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3502,7 +3502,7 @@
     },
     "metadata": {
       "logo": "thorchain.jpg",
-      "shortName": "",
+      "shortName": "ThorChain",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3532,7 +3532,7 @@
     },
     "metadata": {
       "logo": "bulksender.png",
-      "shortName": "",
+      "shortName": "BulkSender",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3562,7 +3562,7 @@
     },
     "metadata": {
       "logo": "heroesofether.png",
-      "shortName": "",
+      "shortName": "Heroes of Ether",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3592,7 +3592,7 @@
     },
     "metadata": {
       "logo": "betoken.png",
-      "shortName": "",
+      "shortName": "Betoken",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3622,7 +3622,7 @@
     },
     "metadata": {
       "logo": "linkdrop.png",
-      "shortName": "",
+      "shortName": "Linkdrop",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3652,7 +3652,7 @@
     },
     "metadata": {
       "logo": "heliowallet.png",
-      "shortName": "",
+      "shortName": "HelioWallet",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3682,7 +3682,7 @@
     },
     "metadata": {
       "logo": "escaroo.png",
-      "shortName": "",
+      "shortName": "Escaroo",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3712,7 +3712,7 @@
     },
     "metadata": {
       "logo": "tokenmarket.png",
-      "shortName": "",
+      "shortName": "TokenMarket",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3742,7 +3742,7 @@
     },
     "metadata": {
       "logo": "mesa.png",
-      "shortName": "",
+      "shortName": "Mesa",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3772,7 +3772,7 @@
     },
     "metadata": {
       "logo": "mcdex.png",
-      "shortName": "",
+      "shortName": "MCDEX",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3802,7 +3802,7 @@
     },
     "metadata": {
       "logo": "furucombo.png",
-      "shortName": "",
+      "shortName": "Furucombo",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3832,7 +3832,7 @@
     },
     "metadata": {
       "logo": "melon.png",
-      "shortName": "",
+      "shortName": "Melon",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3862,7 +3862,7 @@
     },
     "metadata": {
       "logo": "chainsfr.png",
-      "shortName": "",
+      "shortName": "Chainsfr",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3892,7 +3892,7 @@
     },
     "metadata": {
       "logo": "aka3.png",
-      "shortName": "",
+      "shortName": "AKA3",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3922,7 +3922,7 @@
     },
     "metadata": {
       "logo": "2key.jpg",
-      "shortName": "",
+      "shortName": "2Key",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3952,7 +3952,7 @@
     },
     "metadata": {
       "logo": "pitch.jpg",
-      "shortName": "",
+      "shortName": "Pitch",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -3982,7 +3982,7 @@
     },
     "metadata": {
       "logo": "sushiswap.png",
-      "shortName": "",
+      "shortName": "SushiSwap",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4012,7 +4012,7 @@
     },
     "metadata": {
       "logo": "unagii.png",
-      "shortName": "",
+      "shortName": "Unagii",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4042,7 +4042,7 @@
     },
     "metadata": {
       "logo": "creamfinance.jpg",
-      "shortName": "",
+      "shortName": "Cream",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4072,7 +4072,7 @@
     },
     "metadata": {
       "logo": "zksync.jpg",
-      "shortName": "",
+      "shortName": "zkSync",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4102,7 +4102,7 @@
     },
     "metadata": {
       "logo": "shell.jpg",
-      "shortName": "",
+      "shortName": "Shell",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4132,7 +4132,7 @@
     },
     "metadata": {
       "logo": "indexcoop.jpg",
-      "shortName": "",
+      "shortName": "Index Coop",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4162,7 +4162,7 @@
     },
     "metadata": {
       "logo": "swapx.jpg",
-      "shortName": "",
+      "shortName": "SwapX",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4192,7 +4192,7 @@
     },
     "metadata": {
       "logo": "starname.png",
-      "shortName": "",
+      "shortName": "Starname",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4222,7 +4222,7 @@
     },
     "metadata": {
       "logo": "space.png",
-      "shortName": "",
+      "shortName": "Space",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4252,7 +4252,7 @@
     },
     "metadata": {
       "logo": "maskbook.png",
-      "shortName": "",
+      "shortName": "Maskbook",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4282,7 +4282,7 @@
     },
     "metadata": {
       "logo": "snapshot.jpg",
-      "shortName": "",
+      "shortName": "Snapshot",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4312,7 +4312,7 @@
     },
     "metadata": {
       "logo": "invoice-build.png",
-      "shortName": "",
+      "shortName": "Invoice.build",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4342,7 +4342,7 @@
     },
     "metadata": {
       "logo": "ankr.jpg",
-      "shortName": "",
+      "shortName": "Ankr",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4372,7 +4372,7 @@
     },
     "metadata": {
       "logo": "dodo.png",
-      "shortName": "",
+      "shortName": "DODO",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4402,7 +4402,7 @@
     },
     "metadata": {
       "logo": "zlot.jpg",
-      "shortName": "",
+      "shortName": "zLOT",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4432,7 +4432,7 @@
     },
     "metadata": {
       "logo": "tokamak.png",
-      "shortName": "",
+      "shortName": "Tokamak",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4462,7 +4462,7 @@
     },
     "metadata": {
       "logo": "actusprotocol.jpg",
-      "shortName": "",
+      "shortName": "Actus",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4492,7 +4492,7 @@
     },
     "metadata": {
       "logo": "astrotools.jpg",
-      "shortName": "",
+      "shortName": "AstroTools",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4522,7 +4522,7 @@
     },
     "metadata": {
       "logo": "rubic.jpg",
-      "shortName": "",
+      "shortName": "Rubic",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4552,7 +4552,7 @@
     },
     "metadata": {
       "logo": "harvestfinance.jpg",
-      "shortName": "",
+      "shortName": "Harvest",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4582,7 +4582,7 @@
     },
     "metadata": {
       "logo": "octofinance.jpg",
-      "shortName": "",
+      "shortName": "OctoFi",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4612,7 +4612,7 @@
     },
     "metadata": {
       "logo": "mushroomfinance.jpg",
-      "shortName": "",
+      "shortName": "Mushroom",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4642,7 +4642,7 @@
     },
     "metadata": {
       "logo": "bitfrostfinance.png",
-      "shortName": "",
+      "shortName": "Bitfrost",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4672,7 +4672,7 @@
     },
     "metadata": {
       "logo": "xdcnetwork.png",
-      "shortName": "",
+      "shortName": "XinFin",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4702,7 +4702,7 @@
     },
     "metadata": {
       "logo": "orchid.png",
-      "shortName": "",
+      "shortName": "Orchid",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4732,7 +4732,7 @@
     },
     "metadata": {
       "logo": "lido.png",
-      "shortName": "",
+      "shortName": "Lido",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4762,7 +4762,7 @@
     },
     "metadata": {
       "logo": "datamine.jpg",
-      "shortName": "",
+      "shortName": "Datamine",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4792,7 +4792,7 @@
     },
     "metadata": {
       "logo": "streamr.jpg",
-      "shortName": "",
+      "shortName": "Streamr",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4822,7 +4822,7 @@
     },
     "metadata": {
       "logo": "dappradar.png",
-      "shortName": "",
+      "shortName": "DappRadar",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4852,7 +4852,7 @@
     },
     "metadata": {
       "logo": "superrare.jpg",
-      "shortName": "",
+      "shortName": "SuperRare",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4882,7 +4882,7 @@
     },
     "metadata": {
       "logo": "arbitrum.jpg",
-      "shortName": "",
+      "shortName": "Arbitrum",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4912,7 +4912,7 @@
     },
     "metadata": {
       "logo": "paraswap.jpg",
-      "shortName": "",
+      "shortName": "ParaSwap",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4942,7 +4942,7 @@
     },
     "metadata": {
       "logo": "honeyswap.jpg",
-      "shortName": "",
+      "shortName": "HoneySwap",
       "colors": {
         "primary": "",
         "secondary": ""
@@ -4972,7 +4972,7 @@
     },
     "metadata": {
       "logo": "fleek.png",
-      "shortName": "",
+      "shortName": "Fleek",
       "colors": {
         "primary": "",
         "secondary": ""
