@@ -3,7 +3,7 @@
     "name": "Rainbow",
     "homepage": "https://rainbow.me/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -33,7 +33,7 @@
     "name": "Trust Wallet",
     "homepage": "https://trustwallet.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -63,7 +63,7 @@
     "name": "Argent",
     "homepage": "https://www.argent.xyz/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -93,7 +93,7 @@
     "name": "MetaMask",
     "homepage": "https://metamask.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -123,7 +123,7 @@
     "name": "Gnosis Safe Multisig",
     "homepage": "https://gnosis-safe.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -153,7 +153,7 @@
     "name": "Crypto.com | DeFi Wallet",
     "homepage": "https://crypto.com/en/defi/wallet/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -183,7 +183,7 @@
     "name": "Pillar",
     "homepage": "https://pillarproject.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -213,7 +213,7 @@
     "name": "imToken",
     "homepage": "https://token.im/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -243,7 +243,7 @@
     "name": "ONTO",
     "homepage": "https://onto.app/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -273,7 +273,7 @@
     "name": "TokenPocket",
     "homepage": "https://www.tokenpocket.pro/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -303,7 +303,7 @@
     "name": "MathWallet",
     "homepage": "https://mathwallet.org/en/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -333,7 +333,7 @@
     "name": "BitPay",
     "homepage": "https://bitpay.com/wallet",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -363,7 +363,7 @@
     "name": "Ledger Live",
     "homepage": "https://www.ledger.com/ledger-live",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -393,7 +393,7 @@
     "name": "Walleth",
     "homepage": "https://walleth.org/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -423,7 +423,7 @@
     "name": "Authereum",
     "homepage": "https://authereum.org",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -453,7 +453,7 @@
     "name": "Huobi Wallet",
     "homepage": "https://www.huobiwallet.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -483,7 +483,7 @@
     "name": "Eidoo",
     "homepage": "https://eidoo.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -513,7 +513,7 @@
     "name": "MYKEY",
     "homepage": "https://mykey.org",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -543,7 +543,7 @@
     "name": "Loopring Wallet",
     "homepage": "https://loopring.io",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -573,7 +573,7 @@
     "name": "TrustVault",
     "homepage": "https://www.trustology.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -603,7 +603,7 @@
     "name": "Atomic",
     "homepage": "https://atomicwallet.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -633,7 +633,7 @@
     "name": "Coin98",
     "homepage": "https://coin98.app/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -663,7 +663,7 @@
     "name": "CoolWallet S",
     "homepage": "https://www.coolwallet.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -693,7 +693,7 @@
     "name": "Alice",
     "homepage": "https://www.alicedapp.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -723,7 +723,7 @@
     "name": "AlphaWallet",
     "homepage": "https://alphawallet.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -753,7 +753,7 @@
     "name": "D'CENT Wallet",
     "homepage": "https://dcentwallet.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -783,7 +783,7 @@
     "name": "ZelCore",
     "homepage": "https://zel.network/project/zelcore/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -813,7 +813,7 @@
     "name": "Nash",
     "homepage": "https://nash.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -843,7 +843,7 @@
     "name": "Coinomi",
     "homepage": "https://coinomi.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -873,7 +873,7 @@
     "name": "GridPlus",
     "homepage": "https://gridplus.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -903,7 +903,7 @@
     "name": "CYBAVO Wallet",
     "homepage": "https://www.cybavo.com/wallet-app-sdk/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -933,7 +933,7 @@
     "name": "Tokenary",
     "homepage": "https://tokenary.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -963,7 +963,7 @@
     "name": "Torus",
     "homepage": "https://toruswallet.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -993,7 +993,7 @@
     "name": "Spatium",
     "homepage": "https://spatium.net/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1023,7 +1023,7 @@
     "name": "SafePal",
     "homepage": "https://safepal.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1053,7 +1053,7 @@
     "name": "Equal",
     "homepage": "https://equal.tech/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1083,7 +1083,7 @@
     "name": "Infinito",
     "homepage": "https://www.infinitowallet.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1113,7 +1113,7 @@
     "name": "wallet.io",
     "homepage": "https://wallet.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1143,7 +1143,7 @@
     "name": "Infinity Wallet",
     "homepage": "https://infinitywallet.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1173,7 +1173,7 @@
     "name": "Ownbit",
     "homepage": "https://ownbit.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1203,7 +1203,7 @@
     "name": "EasyPocket",
     "homepage": "https://easypocket.app/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1233,7 +1233,7 @@
     "name": "Bridge Wallet",
     "homepage": "https://www.mtpelerin.com/bridge-wallet",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1263,7 +1263,7 @@
     "name": "SparkPoint",
     "homepage": "https://sparkpoint.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1293,7 +1293,7 @@
     "name": "ViaWallet",
     "homepage": "https://viawallet.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1323,7 +1323,7 @@
     "name": "BitKeep",
     "homepage": "https://bitkeep.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1353,7 +1353,7 @@
     "name": "Vision",
     "homepage": "https://vision-crypto.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1383,7 +1383,7 @@
     "name": "SWFT Wallet",
     "homepage": "https://www.swft.pro/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1413,7 +1413,7 @@
     "name": "PEAKDEFI Wallet",
     "homepage": "https://peakdefi.com/download",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1443,7 +1443,7 @@
     "name": "XDC Wallet",
     "homepage": "https://play.google.com/store/apps/details?id=com.xdcwallet",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1473,7 +1473,7 @@
     "name": "Unstoppable Wallet",
     "homepage": "https://unstoppable.money/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1503,7 +1503,7 @@
     "name": "HaloDeFi Wallet",
     "homepage": "https://halodefi.org/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1533,7 +1533,7 @@
     "name": "MEET.ONE",
     "homepage": "https://meet.one/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1563,7 +1563,7 @@
     "name": "Dok Wallet",
     "homepage": "https://dokwallet.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1593,7 +1593,7 @@
     "name": "AT.Wallet",
     "homepage": "https://authentrend.com/at-wallet/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1623,7 +1623,7 @@
     "name": "MoriX Wallet",
     "homepage": "https://morixjp.com/product/walletcard",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1653,7 +1653,7 @@
     "name": "Midas Wallet",
     "homepage": "https://midasprotocol.io/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1683,7 +1683,7 @@
     "name": "Ellipal",
     "homepage": "https://www.ellipal.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1713,7 +1713,7 @@
     "name": "KEYRING PRO",
     "homepage": "https://keyring.app/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1743,7 +1743,7 @@
     "name": "Aktionariat",
     "homepage": "https://aktionariat.com/",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1773,7 +1773,7 @@
     "name": "Talken Wallet",
     "homepage": "https://talken.io",
     "type": "wallet",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1803,7 +1803,7 @@
     "name": "Etherscan",
     "homepage": "https://etherscan.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1833,7 +1833,7 @@
     "name": "Uniswap",
     "homepage": "https://uniswap.exchange/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1863,7 +1863,7 @@
     "name": "Binance DEX",
     "homepage": "https://binance.org/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1893,7 +1893,7 @@
     "name": "OpenSea",
     "homepage": "https://opensea.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1923,7 +1923,7 @@
     "name": "Compound",
     "homepage": "https://compound.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1953,7 +1953,7 @@
     "name": "Zapper",
     "homepage": "https://www.zapper.fi/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -1983,7 +1983,7 @@
     "name": "Aave",
     "homepage": "https://app.aave.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2013,7 +2013,7 @@
     "name": "Zerion",
     "homepage": "https://beta.zerion.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2043,7 +2043,7 @@
     "name": "LocalCryptos",
     "homepage": "https://localcryptos.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2073,7 +2073,7 @@
     "name": "DeBank",
     "homepage": "https://debank.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2103,7 +2103,7 @@
     "name": "Unstoppable Domains",
     "homepage": "https://unstoppabledomains.com/manager",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2133,7 +2133,7 @@
     "name": "Rarible",
     "homepage": "https://app.rarible.com/#/connect",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2163,7 +2163,7 @@
     "name": "1inch Exchange",
     "homepage": "https://1inch.exchange/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2193,7 +2193,7 @@
     "name": "yearn",
     "homepage": "https://yearn.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2223,7 +2223,7 @@
     "name": "Nash",
     "homepage": "https://nash.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2253,7 +2253,7 @@
     "name": "Curve",
     "homepage": "https://www.curve.fi",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2283,7 +2283,7 @@
     "name": "Adex Network",
     "homepage": "https://staking.adex.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2313,7 +2313,7 @@
     "name": "dYdX",
     "homepage": "https://dydx.exchange/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2343,7 +2343,7 @@
     "name": "MyCrypto",
     "homepage": "https://beta.mycrypto.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2373,7 +2373,7 @@
     "name": "Oasis App",
     "homepage": "https://oasis.app/dashboard",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2403,7 +2403,7 @@
     "name": "TokenSets",
     "homepage": "https://tokensets.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2433,7 +2433,7 @@
     "name": "MANTRA DAO",
     "homepage": "https://app.mantradao.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2463,7 +2463,7 @@
     "name": "Matcha",
     "homepage": "https://matcha.xyz",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2493,7 +2493,7 @@
     "name": "KyberSwap",
     "homepage": "https://kyberswap.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2523,7 +2523,7 @@
     "name": "DeFi Prime",
     "homepage": "https://portfolio.defiprime.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2553,7 +2553,7 @@
     "name": "Loopring",
     "homepage": "https://exchange.loopring.io",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2583,7 +2583,7 @@
     "name": "InstaDapp",
     "homepage": "https://instadapp.io/dashboard/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2613,7 +2613,7 @@
     "name": "Matic Network",
     "homepage": "https://matic.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2643,7 +2643,7 @@
     "name": "3Box",
     "homepage": "https://3box.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2673,7 +2673,7 @@
     "name": "DDEX",
     "homepage": "https://ddex.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2703,7 +2703,7 @@
     "name": "Totle",
     "homepage": "https://swap.totle.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2733,7 +2733,7 @@
     "name": "Bamboo Relay",
     "homepage": "https://bamboorelay.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2763,7 +2763,7 @@
     "name": "Synthetix",
     "homepage": "https://synthetix.exchange/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2793,7 +2793,7 @@
     "name": "dex.blue",
     "homepage": "https://dex.blue/trading/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2823,7 +2823,7 @@
     "name": "PoolTogether",
     "homepage": "https://app.pooltogether.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2853,7 +2853,7 @@
     "name": "Sablier",
     "homepage": "https://sablier.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2883,7 +2883,7 @@
     "name": "DEX.AG",
     "homepage": "https://dex.ag/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2913,7 +2913,7 @@
     "name": "Gelato",
     "homepage": "https://play.gelato.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2943,7 +2943,7 @@
     "name": "ENS Domains",
     "homepage": "https://app.ens.domains/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -2973,7 +2973,7 @@
     "name": "Gnosis Safe Multisig",
     "homepage": "https://gnosis-safe.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3003,7 +3003,7 @@
     "name": "Idle Finance",
     "homepage": "https://idle.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3033,7 +3033,7 @@
     "name": "iearn.finance",
     "homepage": "https://iearn.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3063,7 +3063,7 @@
     "name": "RCN Finance",
     "homepage": "https://rcn.market/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3093,7 +3093,7 @@
     "name": "Hegic",
     "homepage": "https://www.hegic.co/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3123,7 +3123,7 @@
     "name": "Kickback",
     "homepage": "https://kickback.events/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3153,7 +3153,7 @@
     "name": "88mph",
     "homepage": "https://88mph.app/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3183,7 +3183,7 @@
     "name": "Mooni",
     "homepage": "https://app.mooni.tech/exchange",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3213,7 +3213,7 @@
     "name": "Clovers",
     "homepage": "https://clovers.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3243,7 +3243,7 @@
     "name": "Mintbase",
     "homepage": "https://mintbase.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3273,7 +3273,7 @@
     "name": "DAOstack",
     "homepage": "https://alchemy.daostack.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3303,7 +3303,7 @@
     "name": "KnownOrigin",
     "homepage": "https://knownorigin.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3333,7 +3333,7 @@
     "name": "MyEtherWallet",
     "homepage": "https://myetherwallet.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3363,7 +3363,7 @@
     "name": "Affogato",
     "homepage": "https://affogato.co/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3393,7 +3393,7 @@
     "name": "StablePay",
     "homepage": "https://stablepay.io/dashboard",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3423,7 +3423,7 @@
     "name": "DeFi Saver",
     "homepage": "https://defisaver.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3453,7 +3453,7 @@
     "name": "Loom Network",
     "homepage": "https://dashboard.dappchains.com/login",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3483,7 +3483,7 @@
     "name": "ThorChain",
     "homepage": "https://thorchain.org/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3513,7 +3513,7 @@
     "name": "BulkSender",
     "homepage": "https://bulksender.app/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3543,7 +3543,7 @@
     "name": "Heroes of Ether",
     "homepage": "https://heroesofether.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3573,7 +3573,7 @@
     "name": "Betoken",
     "homepage": "https://betoken.fund/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3603,7 +3603,7 @@
     "name": "Linkdrop",
     "homepage": "https://linkdrop.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3633,7 +3633,7 @@
     "name": "HelioWallet",
     "homepage": "https://heliowallet.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3663,7 +3663,7 @@
     "name": "Escaroo",
     "homepage": "https://escaroo.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3693,7 +3693,7 @@
     "name": "TokenMarket",
     "homepage": "https://tokenmarket.net/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3723,7 +3723,7 @@
     "name": "Mesa",
     "homepage": "https://mesa.eth.link/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3753,7 +3753,7 @@
     "name": "MCDEX",
     "homepage": "https://mcdex.io",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3783,7 +3783,7 @@
     "name": "Furucombo",
     "homepage": "https://furucombo.app/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3813,7 +3813,7 @@
     "name": "Melon",
     "homepage": "https://melon.avantgarde.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3843,7 +3843,7 @@
     "name": "Chainsfr",
     "homepage": "https://chainsfr.com",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3873,7 +3873,7 @@
     "name": "AKA3 Email Alias",
     "homepage": "http://aka3.net",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3903,7 +3903,7 @@
     "name": "2Key",
     "homepage": "https://www.2key.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3933,7 +3933,7 @@
     "name": "Pitch",
     "homepage": "https://pitchinvestorslive.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3963,7 +3963,7 @@
     "name": "SushiSwap",
     "homepage": "https://sushiswap.fi/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -3993,7 +3993,7 @@
     "name": "Unagii",
     "homepage": "https://www.unagii.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4023,7 +4023,7 @@
     "name": "Cream Finance",
     "homepage": "https://cream.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4053,7 +4053,7 @@
     "name": "zkSync",
     "homepage": "https://zksync.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4083,7 +4083,7 @@
     "name": "Shell Exchange",
     "homepage": "https://shells.exchange/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4113,7 +4113,7 @@
     "name": "Index Coop",
     "homepage": "https://www.indexcoop.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4143,7 +4143,7 @@
     "name": "SwapX",
     "homepage": "https://app.swapx.org/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4173,7 +4173,7 @@
     "name": "Starname",
     "homepage": "https://app.starname.me/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4203,7 +4203,7 @@
     "name": "Space",
     "homepage": "https://space.storage/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4233,7 +4233,7 @@
     "name": "Maskbook",
     "homepage": "https://mask.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4263,7 +4263,7 @@
     "name": "Snapshot",
     "homepage": "https://snapshot.page/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4293,7 +4293,7 @@
     "name": "Invoice.build",
     "homepage": "https://invoice.build/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4323,7 +4323,7 @@
     "name": "Ankr",
     "homepage": "https://ankr.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4353,7 +4353,7 @@
     "name": "DODO",
     "homepage": "https://app.dodoex.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4383,7 +4383,7 @@
     "name": "zLOT",
     "homepage": "https://zlot.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4413,7 +4413,7 @@
     "name": "Tokamak Network",
     "homepage": "https://tokamak.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4443,7 +4443,7 @@
     "name": "Actus Protocol",
     "homepage": "https://portal.actus-protocol.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4473,7 +4473,7 @@
     "name": "AstroTools.io",
     "homepage": "https://astrotools.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4503,7 +4503,7 @@
     "name": "Rubic Exchange",
     "homepage": "https://rubic.exchange/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4533,7 +4533,7 @@
     "name": "Harvest Finance",
     "homepage": "https://harvest.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4563,7 +4563,7 @@
     "name": "OctoFi",
     "homepage": "https://octo.fi/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4593,7 +4593,7 @@
     "name": "Mushroom Finance",
     "homepage": "https://mushrooms.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4623,7 +4623,7 @@
     "name": "Bitfrost Finance",
     "homepage": "https://bitfrost.finance/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4653,7 +4653,7 @@
     "name": "XinFin XDC Network",
     "homepage": "https://xinfin.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4683,7 +4683,7 @@
     "name": "Orchid Protocol",
     "homepage": "https://account.orchid.com/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4713,7 +4713,7 @@
     "name": "Lido",
     "homepage": "https://stake.lido.fi/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4743,7 +4743,7 @@
     "name": "Datamine Network",
     "homepage": "https://datamine.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4773,7 +4773,7 @@
     "name": "Streamr",
     "homepage": "https://streamr.network/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4803,7 +4803,7 @@
     "name": "DappRadar",
     "homepage": "https://dappradar.com/hub/wallet",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4833,7 +4833,7 @@
     "name": "SuperRare",
     "homepage": "https://superrare.co/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4863,7 +4863,7 @@
     "name": "Arbitrum",
     "homepage": "https://portal.arbitrum.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4893,7 +4893,7 @@
     "name": "ParaSwap",
     "homepage": "https://paraswap.io/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4923,7 +4923,7 @@
     "name": "HoneySwap",
     "homepage": "https://howneyswap.org/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
@@ -4953,7 +4953,7 @@
     "name": "Fleek",
     "homepage": "https://fleek.co/",
     "type": "dapp",
-    "chains": ["ethereum"],
+    "chains": ["eip155:1"],
     "app": {
       "browser": "",
       "ios": "",
