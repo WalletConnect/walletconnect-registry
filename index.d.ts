@@ -1,8 +1,8 @@
 declare module "@walletconnect/registry" {
   export interface AppEntry {
+    id: string;
     name: string;
     homepage: string;
-    signer: boolean;
     chains: string[];
     app: {
       browser: string;
@@ -21,7 +21,6 @@ declare module "@walletconnect/registry" {
       universal: string;
     };
     metadata: {
-      logo: string;
       shortName: string;
       colors: {
         primary: string;
@@ -30,7 +29,9 @@ declare module "@walletconnect/registry" {
     };
   }
 
-  export type AppRegistry = AppEntry[];
+  export type AppRegistry = {
+    [id: string]: AppEntry;
+  };
 
   export default AppRegistry;
 }
