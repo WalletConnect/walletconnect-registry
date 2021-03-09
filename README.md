@@ -48,18 +48,6 @@ export interface AppEntry {
 }
 ```
 
-## Id
+## License
 
-Id is derived from the recursive hash of the list of names of the homepage url host
-
-```js
-const hash = require("./scripts/hash");
-
-const url = new URL(entry.homepage);
-
-const id = hash(url.host);
-```
-
-## Logos
-
-Logos can be queried from the `logos` directory using the app id
+MIT

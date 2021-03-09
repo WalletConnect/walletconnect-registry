@@ -1,7 +1,7 @@
 const path = require("path");
 const { readFile, writeFile } = require("fs/promises");
 
-const hash = require("./hash");
+const getId = require("./id");
 const { ROOT_DIR, EMPTY_ENTRY } = require("./constants");
 const { validateArgs, validateEntry } = require("./validate");
 
@@ -21,10 +21,10 @@ async function submit() {
   console.log(registryPath);
   const entry = require(path.join(ROOT_DIR, args[1]));
   validateEntry(entry);
-  const id = hash(entry.homepage);
-  console.log(id);
   const logoSrc = entry.logo;
   delete entry.logo;
+  const id = getId(entry);
+  console.log(id);
   const app = { ...EMPTY_ENTRY, ...entry, id };
   console.log(app);
   const logo = await readFile(logoSrc);

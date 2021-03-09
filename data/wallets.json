@@ -1623,8 +1623,8 @@
       }
     }
   },
-  "2dba5dbc339e7316aea2683faf839c1b7b1ee2313db792112588118df066aa35": {
-    "id": "2dba5dbc339e7316aea2683faf839c1b7b1ee2313db792112588118df066aa35",
+  "d612ddb7326d7d64428d035971b82247322a4ffcf126027560502eff4c02bd1c": {
+    "id": "d612ddb7326d7d64428d035971b82247322a4ffcf126027560502eff4c02bd1c",
     "name": "Flare Wallet",
     "homepage": "https://flarewallet.io",
     "chains": ["eip155:1"],
@@ -1637,17 +1637,162 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
-    },
-    "desktop": {
       "native": "flare:",
       "universal": "https://flarewallet.io"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
     },
     "metadata": {
       "shortName": "Flare",
       "colors": {
         "primary": "rgb(31, 36, 59)",
+        "secondary": ""
+      }
+    }
+  },
+  "55e5b479c9f49ddac5445c24725857f19888da1ef432ae5e4e01f8054d107670": {
+    "id": "55e5b479c9f49ddac5445c24725857f19888da1ef432ae5e4e01f8054d107670",
+    "name": "KyberSwap",
+    "homepage": "https://kyberswap.com/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "https://kyberswap.com/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "kyberswap:",
+      "universal": "https://kyberswapnew.app.link"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "KyberSwap",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
+    }
+  },
+  "6193353e17504afc4bb982ee743ab970cd5cf842a35ecc9b7de61c150cf291e0": {
+    "id": "6193353e17504afc4bb982ee743ab970cd5cf842a35ecc9b7de61c150cf291e0",
+    "name": "AToken Wallet",
+    "homepage": "https://atoken.com",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/atoken-app/id1395835245",
+      "android": "https://play.google.com/store/apps/details?id=wallet.gem.com.atoken",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "atoken:",
+      "universal": "https://www.atoken.com"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "AToken",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
+    }
+  },
+  "4e6af4201658b52daad51a279bb363a08b3927e74c0f27abeca3b0110bddf0a9": {
+    "id": "4e6af4201658b52daad51a279bb363a08b3927e74c0f27abeca3b0110bddf0a9",
+    "name": "Tongue Wallet",
+    "homepage": "https://www.tongue.fi",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/fr/app/tongue-wallet-for-defi-degens/id1534705854",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "tongue:",
+      "universal": "https://www.tongue.fi"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Tongue",
+      "colors": {
+        "primary": "rgb(255, 49, 120)",
+        "secondary": ""
+      }
+    }
+  },
+  "b13fcc7e3500a4580c9a5341ed64c49c17d7f864497881048eb160c089be5346": {
+    "id": "b13fcc7e3500a4580c9a5341ed64c49c17d7f864497881048eb160c089be5346",
+    "name": "RWallet",
+    "homepage": "https://rsk.co/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/rwallet/id1489241342",
+      "android": "https://play.google.com/store/apps/details?id=com.rsk.rwallet.reactnative",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "rwallet:",
+      "universal": "https://www.rwallet.app"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "RWallet",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
+        "secondary": ""
+      }
+    }
+  },
+  "13c6a06b733edf51784f669f508826b2ab0dc80122a8b5d25d84b17d94bbdf70": {
+    "id": "13c6a06b733edf51784f669f508826b2ab0dc80122a8b5d25d84b17d94bbdf70",
+    "name": "PlasmaPay",
+    "homepage": "https://plasmapay.com/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/id1461735396",
+      "android": "https://play.google.com/store/apps/details?id=com.plasmapay.androidapp",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "plasmapay:",
+      "universal": "https://plasmapay.com/"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "PlasmaPay",
+      "colors": {
+        "primary": "rgb(255, 255, 255)",
         "secondary": ""
       }
     }
