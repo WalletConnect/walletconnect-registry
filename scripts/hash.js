@@ -1,7 +1,10 @@
 const crypto = require("crypto");
 
-function sha256(data) {
-  return crypto.createHash("sha256").update(data).digest();
+function sha256(hex) {
+  return crypto
+    .createHash("sha256")
+    .update(Buffer.from(hex, "hex"))
+    .digest("hex");
 }
 
 const HASH_ZERO = Buffer.from("0".repeat(64), "hex");

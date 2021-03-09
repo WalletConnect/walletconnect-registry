@@ -1622,5 +1622,34 @@
         "secondary": ""
       }
     }
+  },
+  "2dba5dbc339e7316aea2683faf839c1b7b1ee2313db792112588118df066aa35": {
+    "id": "2dba5dbc339e7316aea2683faf839c1b7b1ee2313db792112588118df066aa35",
+    "name": "Flare Wallet",
+    "homepage": "https://flarewallet.io",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/flare-wallet/id1496651406",
+      "android": "https://play.google.com/store/apps/details?id=com.flare",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "flare:",
+      "universal": "https://flarewallet.io"
+    },
+    "metadata": {
+      "shortName": "Flare",
+      "colors": {
+        "primary": "rgb(31, 36, 59)",
+        "secondary": ""
+      }
+    }
   }
 }
