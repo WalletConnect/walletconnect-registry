@@ -12,6 +12,13 @@ function hash(name = "") {
   return sha256(hash(remainder) + sha256(label));
 }
 
-// "walletconnect.org" -> 36d0a3e030a7e1f3452014945e9b137a2de8a7227f611cbef0bcd06b2e9e2744
+function getId(entry) {
+  if (typeof entry.homepage === "undefined" || !entry.homepage.trim()) {
+    return new Error("Missing required field: homepage");
+  }
+  const url = new URL(entry.homepage);
+  const id = hash(url.host).toString("hex");
+  return id;
+}
 
-module.exports = hash;
+module.exports = { hash, getId };

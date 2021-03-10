@@ -1,0 +1,29 @@
+{
+  "name": "walletconnect-registry",
+  "description": "App Registry for WalletConnect Protocol",
+  "private": true,
+  "keywords": [
+    "wallet",
+    "walletconnect",
+    "app",
+    "dapp",
+    "wallet",
+    "registry"
+  ],
+  "author": "WalletConnect Labs <walletconnectlabs.com>",
+  "homepage": "https://github.com/WalletConnect/walletconnect-registry",
+  "license": "MIT",
+  "scripts": {
+    "submit": "node ./scripts/submit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalletConnect/walletconnect-registry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WalletConnect/walletconnect-registry/issues"
+  },
+  "dependencies": {
+    "sharp": "0.27.2"
+  }
+}

@@ -1,38 +1,18 @@
 const path = require("path");
-const { readFile, writeFile } = require("fs/promises");
 
-const getId = require("./id");
-const { ROOT_DIR, EMPTY_ENTRY } = require("./constants");
-const { validateArgs, validateEntry } = require("./validate");
-
-async function readJson(filePath) {
-  const file = await readFile(filePath);
-  return JSON.parse(file.toString());
-}
-
-async function writeJson(filePath, data) {
-  await writeFile(filePath, JSON.stringify(data, null, 2));
-}
+const { validateArgs } = require("./validate");
+const { saveLogo } = require("./logo");
+const { saveEntry } = require("./registry");
+const { ROOT_DIR } = require("./constants");
 
 async function submit() {
   const args = process.argv.slice(2);
   validateArgs(args);
-  const registryPath = path.join(ROOT_DIR, "data", `${args[0]}.json`);
-  console.log(registryPath);
-  const entry = require(path.join(ROOT_DIR, args[1]));
-  validateEntry(entry);
-  const logoSrc = entry.logo;
-  delete entry.logo;
-  const id = getId(entry);
-  console.log(id);
-  const app = { ...EMPTY_ENTRY, ...entry, id };
-  console.log(app);
-  const logo = await readFile(logoSrc);
-  const registry = await readJson(registryPath);
-  registry[id] = app;
-  await writeJson(registryPath, registry);
-  const logoPath = path.join(ROOT_DIR, "logos", id + path.extname(logoSrc));
-  await writeFile(logoPath, logo);
+  const [type, entryPath] = args;
+  const entry = require(path.join(ROOT_DIR, entryPath));
+  const id = await saveEntry(type, entry);
+  await saveLogo(entry.logo, id);
+  console.log(`Successfully submitted ${wallet} named: ${entry.name} `);
 }
 
 submit();

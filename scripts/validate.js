@@ -1,8 +1,6 @@
 const fs = require("fs");
 
-const VALID_ARGS = ["type", "filePath"];
-
-const VALID_TYPES = ["wallets", "dapps"];
+const { VALID_ARGS, VALID_TYPES } = require("./constants");
 
 function fileExists(filePath) {
   try {
