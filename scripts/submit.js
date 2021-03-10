@@ -12,7 +12,7 @@ async function submit() {
   const entry = require(path.join(ROOT_DIR, entryPath));
   const id = await saveEntry(type, entry);
   await saveLogo(entry.logo, id);
-  console.log(`Successfully submitted ${wallet} named: ${entry.name} `);
+  console.log(`\nSuccessfully submitted ${type} named: ${entry.name}!!!`);
 }
 
 submit();

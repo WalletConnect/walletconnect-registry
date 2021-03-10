@@ -1,10 +1,16 @@
+const path = require("path");
+
 module.exports = {
-  logo: "./logo.jpg", // REQUIRED (location of the logo - png or jpg)
-  name: "WalletConnect", // REQUIRED
-  homepage: "https://walletconnect.org", // REQUIRED
-  chains: ["eip155:1"], // REQUIRED
+  // REQUIRED (location of the logo - png or jpg)
+  logo: path.join(__dirname, "logo.jpg"),
+  // REQUIRED
+  name: "WalletConnect",
+  // REQUIRED
+  homepage: "https://walletconnect.org",
+  // REQUIRED
+  chains: ["eip155:1"],
+  // REQUIRED (at least one)
   app: {
-    // REQUIRED (at least one)
     browser: "https://example.walletconnect.org",
     ios: "",
     android: "",

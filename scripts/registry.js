@@ -1,5 +1,6 @@
 const { validateEntry } = require("./validate");
 const { updateJson } = require("./json");
+const { getId } = require("./hash");
 const { WALLETS_PATH, DAPPS_PATH, EMPTY_ENTRY } = require("./constants");
 
 function getRegistryPath(type) {
