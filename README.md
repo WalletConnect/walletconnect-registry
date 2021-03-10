@@ -4,9 +4,16 @@ App Registry for WalletConnect Protocol
 
 ## How to submit
 
-Clone this repository to your computer and make sure you have Node.Js installed.
+Clone this repository to your computer and install the project dependencies with NPM.
 
-You will find a directory called `template` which you should duplicate with a different name (eg. `my-app`) before filling the details. Then you can run the following script to submit it.
+```sh
+npm install
+```
+
+Then you will find a directory called `template` which you should duplicate with a different name (eg. `my-app`) before filling the details.
+You will find the template has a reference to the logo location. For simplicity, you should copy the logo to the same directory as the JS file.
+
+After you can run the following script to submit it to the registry.
 
 ```sh
 ## For Wallets
@@ -16,7 +23,9 @@ npm run submit -- wallet my-app
 npm run submit -- dapp my-app
 ```
 
-If you received successful message after running the script, then you can make a pull request on Github.
+If you received successful message after running the script, then you can make a pull request on Github with the update registry.
+
+**NOTE:** Don't forget to delete the directory you duplicated to allow us to merge the submission quicker.
 
 ## Schema
 
