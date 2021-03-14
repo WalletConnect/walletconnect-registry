@@ -1,10 +1,11 @@
+import type { NextApiRequest, NextApiResponse } from 'next';
 import getConfig from 'next/config';
 import { responseOnNoData } from '../../../util/responseUtils';
 
 
-export default async (req, res) => {
+export default async (req: NextApiRequest, res: NextApiResponse) => {
   const { serverRuntimeConfig } = getConfig();
-  const regData = await fetch(serverRuntimeConfig.DAPP_REGISTRY_URI);
+  const regData: Response = await fetch(serverRuntimeConfig.DAPP_REGISTRY_URI);
 
   const error = responseOnNoData(regData, res);
 

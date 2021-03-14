@@ -1,6 +1,7 @@
+import { NextApiResponse } from "next";
 
 
-export const responseOnNoData = (data, resp) => {
+export const responseOnNoData = (data: Response, resp: NextApiResponse) => {
   const noData = data.status === 404;
 
   if (noData) {
