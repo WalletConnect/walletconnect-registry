@@ -1551,7 +1551,7 @@
     },
     "mobile": {
       "native": "aktionariat:",
-      "universal": "https://aktionariat.com/app"
+      "universal": "https://app.aktionariat.com"
     },
     "desktop": {
       "native": "",
