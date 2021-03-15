@@ -2,11 +2,13 @@ const path = require("path");
 
 const ROOT_DIR = path.join(__dirname, "..");
 
-const REGISTRY_DIR = path.join(ROOT_DIR, "data");
-const DAPPS_PATH = path.join(REGISTRY_DIR, "dapps.json");
-const WALLETS_PATH = path.join(REGISTRY_DIR, "wallets.json");
+const PUBLIC_DIR = path.join(ROOT_DIR, "public");
 
-const LOGO_DIR = path.join(ROOT_DIR, "logo");
+const DATA_DIR = path.join(PUBLIC_DIR, "data");
+const DAPPS_PATH = path.join(DATA_DIR, "dapps.json");
+const WALLETS_PATH = path.join(DATA_DIR, "wallets.json");
+
+const LOGO_DIR = path.join(PUBLIC_DIR, "logo");
 const LOGO_LG_DIR = path.join(LOGO_DIR, "lg");
 const LOGO_MD_DIR = path.join(LOGO_DIR, "md");
 const LOGO_SM_DIR = path.join(LOGO_DIR, "sm");
@@ -47,7 +49,8 @@ const EMPTY_ENTRY = {
 
 module.exports = {
   ROOT_DIR,
-  REGISTRY_DIR,
+  PUBLIC_DIR,
+  DATA_DIR,
   DAPPS_PATH,
   WALLETS_PATH,
   LOGO_DIR,
