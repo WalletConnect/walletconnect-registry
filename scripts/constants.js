@@ -7,8 +7,9 @@ const DAPPS_PATH = path.join(REGISTRY_DIR, "dapps.json");
 const WALLETS_PATH = path.join(REGISTRY_DIR, "wallets.json");
 
 const LOGOS_DIR = path.join(ROOT_DIR, "logos");
-const LARGE_DIR = path.join(LOGOS_DIR, "large");
-const SMALL_DIR = path.join(LOGOS_DIR, "small");
+const LOGOS_LG_DIR = path.join(LOGOS_DIR, "lg");
+const LOGOS_MD_DIR = path.join(LOGOS_DIR, "md");
+const LOGOS_SM_DIR = path.join(LOGOS_DIR, "sm");
 
 const VALID_ARGS = ["type", "filePath"];
 const VALID_TYPES = ["wallet", "dapp"];
@@ -50,8 +51,9 @@ module.exports = {
   DAPPS_PATH,
   WALLETS_PATH,
   LOGOS_DIR,
-  LARGE_DIR,
-  SMALL_DIR,
+  LOGOS_LG_DIR,
+  LOGOS_MD_DIR,
+  LOGOS_SM_DIR,
   VALID_ARGS,
   VALID_TYPES,
   VALID_FORMATS,

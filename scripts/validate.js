@@ -4,7 +4,7 @@ const { VALID_ARGS, VALID_TYPES } = require("./constants");
 
 function fileExists(filePath) {
   try {
-    if (fs.existsSync(path)) {
+    if (fs.existsSync(filePath)) {
       return true;
     }
     return false;
