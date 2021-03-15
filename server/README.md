@@ -1,7 +1,6 @@
-# WalletConnect.org Registry Api server
+# WalletConnect Registry Server
 
-
-# Local development
+## Local development
 
 The api is built with [next.js](https://nextjs.org/)
 
@@ -35,6 +34,6 @@ yarn dev
 
 Then you have the site running locally at http://localhost:3000/
 
-# Publishing
-Merging to the production will automatically publish a new site.
+## Publishing
 
+Merging to the production will automatically publish a new site.
