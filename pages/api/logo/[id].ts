@@ -22,7 +22,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
       break;
   }
   try {
-    const data = await readFile(path.resolve("logos", dir, `${id}.jpeg`));
+    const data = await readFile(path.resolve("logo", dir, `${id}.jpeg`));
     res.status(200).send(data);
   } catch (e) {
     res.status(500).json({ error: e.message });

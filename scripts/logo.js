@@ -2,15 +2,13 @@ const path = require("path");
 const sharp = require("sharp");
 
 const {
-  LOGOS_LG_DIR,
-  LOGOS_MD_DIR,
-  LOGOS_SM_DIR,
+  LOGO_LG_DIR,
+  LOGO_MD_DIR,
+  LOGO_SM_DIR,
   VALID_FORMATS,
 } = require("./constants");
 
-const LG_SIZE = 400;
-const MD_SIZE = 120;
-const SM_SIZE = 60;
+const LOGO_SIZES = { lg: 400, md: 120, sm: 60 };
 const RESIZE_OPTIONS = { fit: "inside" };
 
 function getLogoFormat(logoPath) {
@@ -36,19 +34,19 @@ async function saveLogo(logoPath, id) {
   }
   const logo = await readLogo(logoPath);
   try {
-    await writeLogo(logo, LG_SIZE, LOGOS_LG_DIR, id);
+    await writeLogo(logo, LOGO_SIZES.lg, LOGO_LG_DIR, id);
   } catch (e) {
     console.error(e);
     throw new Error(`Failed to write logo for Large size: ${id}`);
   }
   try {
-    await writeLogo(logo, MD_SIZE, LOGOS_MD_DIR, id);
+    await writeLogo(logo, LOGO_SIZES.md, LOGO_MD_DIR, id);
   } catch (e) {
     console.error(e);
     throw new Error(`Failed to write logo for Medium size: ${id}`);
   }
   try {
-    await writeLogo(logo, SM_SIZE, LOGOS_SM_DIR, id);
+    await writeLogo(logo, LOGO_SIZES.sm, LOGO_SM_DIR, id);
   } catch (e) {
     console.error(e);
     throw new Error(`Failed to write logo for Small size: ${id}`);
