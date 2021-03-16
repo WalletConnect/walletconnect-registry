@@ -1796,5 +1796,34 @@
         "secondary": ""
       }
     }
+  },
+  "0aafbedfb8eb56dae59ecc37c9a5388509cf9c082635e3f752581cc7128a17c0": {
+    "id": "0aafbedfb8eb56dae59ecc37c9a5388509cf9c082635e3f752581cc7128a17c0",
+    "name": "O3Wallet",
+    "homepage": "https://o3.network",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://itunes.apple.com/app/id1528451572",
+      "android": "https://play.google.com/store/apps/details?id=com.o3.o3wallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "o3wallet:",
+      "universal": "https://o3.network"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "O3Wallet",
+      "colors": {
+        "primary": "rgb(255,255,255)",
+        "secondary": ""
+      }
+    }
   }
 }
