@@ -2,35 +2,33 @@
 
 App Registry for WalletConnect Protocol
 
-## How to submit
+## Submit new App
 
-Clone this repository to your computer and install the project dependencies with NPM.
+1. Go to the "Issues" tab above
+2. Press "New Issue"
+3. Select "App Submission"
+4. Fill in the template
+5. Submit new issue
 
-```sh
-npm install
+## API
+
+```js
+// Dapps
+https://registry.walletconnect.org/data/dapps.json
+
+// Wallets
+https://registry.walletconnect.org/data/wallets.json
+
+// Logos
+// [size] = "sm" | "md" | "lg"
+// [id] = present in app entry
+https://registry.walletconnect.org/logo/[size]/[id].jpeg
 ```
-
-Then you will find a directory called `template` which you should duplicate with a different name (eg. `my-app`) before filling the details.
-You will find the template has a reference to the logo location. For simplicity, you should copy the logo to the same directory as the JS file.
-
-After you can run the following script to submit it to the registry.
-
-```sh
-## For Wallets
-npm run submit -- wallet my-app
-
-## For Dapps
-npm run submit -- dapp my-app
-```
-
-If you received successful message after running the script, then you can make a pull request on Github with the update registry.
-
-**NOTE:** Don't forget to delete the directory you duplicated to allow us to merge the submission quicker.
 
 ## Schema
 
 ```typescript
-export interface AppEntry {
+interface AppEntry {
   id: string;
   name: string;
   homepage: string;
@@ -58,6 +56,10 @@ export interface AppEntry {
       secondary: string;
     };
   };
+}
+
+interface AppRegistry {
+  [id: string]: AppEntry;
 }
 ```
 
