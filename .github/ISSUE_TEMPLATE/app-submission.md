@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-_App Logo (Required)_
+## App Logo (Required)
 (Attach image here)
 
-_App Details (Required)_
+## App Details (Required)
 **Type:** Wallet or Dapp
 **Name:**
 **Homepage Url:**
 **Chains supported:**
 
 
-_App Url (Required - at least one)_
+## App Url (Required - at least one)
 **Browser Url:**
 **iOS Url:**
 **Android Url:**
@@ -25,15 +25,15 @@ _App Url (Required - at least one)_
 **Windows Url:**
 **Linux Url:**
 
-_Mobile Linking (Optional)_
+## Mobile Linking (Optional)
 **Deep Link:**
 **Universal Link:**
 
-_Desktop Linking (Optional)_
+## Desktop Linking (Optional)
 **Deep Link:**
 **Universal Link:**
 
-_Metadata (Optional)_
+## Metadata (Optional)
 **Short Name:**
 **Primary Color:**
 **Secondary Color:**
