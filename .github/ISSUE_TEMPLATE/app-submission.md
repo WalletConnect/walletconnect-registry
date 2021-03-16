@@ -11,29 +11,29 @@ assignees: ''
 (Attach image here)
 
 ## App Details (Required)
-**Type:** Wallet or Dapp
-**Name:**
-**Homepage Url:**
-**Chains supported:**
+Type: Wallet or Dapp
+Name:
+Homepage Url:
+Chains supported:
 
 
 ## App Url (Required - at least one)
-**Browser Url:**
-**iOS Url:**
-**Android Url:**
-**Mac Url:**
-**Windows Url:**
-**Linux Url:**
+Browser Url:
+iOS Url:
+Android Url:
+Mac Url:
+Windows Url:
+Linux Url:
 
 ## Mobile Linking (Optional)
-**Deep Link:**
-**Universal Link:**
+Deep Link:
+Universal Link:
 
 ## Desktop Linking (Optional)
-**Deep Link:**
-**Universal Link:**
+Deep Link:
+Universal Link:
 
 ## Metadata (Optional)
-**Short Name:**
-**Primary Color:**
-**Secondary Color:**
+Short Name:
+Primary Color:
+Secondary Color:
