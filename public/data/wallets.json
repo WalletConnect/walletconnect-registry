@@ -1825,5 +1825,34 @@
         "secondary": ""
       }
     }
+  },
+  "761d3d98fd77bdb06e6c90092ee7071c6001e93401d05dcf2b007c1a6c9c222c": {
+    "id": "761d3d98fd77bdb06e6c90092ee7071c6001e93401d05dcf2b007c1a6c9c222c",
+    "name": "HashKey Me",
+    "homepage": "https://me.hashkey.com/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/hashkey-me/id1547228803",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "hashme:",
+      "universal": "https://me.hashkey.com"
+    },
+    "metadata": {
+      "shortName": "HashKey Me",
+      "colors": {
+        "primary": "rgb(254, 142, 63)",
+        "secondary": ""
+      }
+    }
   }
 }
