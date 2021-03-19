@@ -10,6 +10,7 @@ const {
 
 const LOGO_SIZES = { lg: 400, md: 120, sm: 60 };
 const RESIZE_OPTIONS = { fit: "inside" };
+const FLATTEN_OPTIONS = { background: { r: 255, g: 255, b: 255 } };
 
 function getLogoFormat(logoPath) {
   return path.extname(logoPath).toLowerCase().replace(".", "");
@@ -21,7 +22,11 @@ async function readLogo(logoPath) {
 
 async function writeLogo(logo, size, directory, id) {
   const filePath = path.join(directory, `${id}.jpeg`);
-  await logo.resize(size, size, RESIZE_OPTIONS).jpeg().toFile(filePath);
+  await logo
+    .resize(size, size, RESIZE_OPTIONS)
+    .flatten(FLATTEN_OPTIONS)
+    .jpeg()
+    .toFile(filePath);
 }
 
 async function saveLogo(logoPath, id) {
