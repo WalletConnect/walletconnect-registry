@@ -1,33 +1,4 @@
 {
-  "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f": {
-    "id": "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f",
-    "name": "Gnosis Safe Multisig",
-    "homepage": "https://gnosis-safe.io/",
-    "chains": ["eip155:1"],
-    "app": {
-      "browser": "https://gnosis-safe.io/app/",
-      "ios": "",
-      "android": "",
-      "mac": "",
-      "windows": "",
-      "linux": ""
-    },
-    "mobile": {
-      "native": "",
-      "universal": ""
-    },
-    "desktop": {
-      "native": "",
-      "universal": ""
-    },
-    "metadata": {
-      "shortName": "Gnosis Safe",
-      "colors": {
-        "primary": "",
-        "secondary": ""
-      }
-    }
-  },
   "d2ae9c3c2782806fd6db704bf40ef0238af9470d7964ae566114a033f4a9a110": {
     "id": "d2ae9c3c2782806fd6db704bf40ef0238af9470d7964ae566114a033f4a9a110",
     "name": "Etherscan",
@@ -1124,6 +1095,35 @@
     },
     "metadata": {
       "shortName": "ENS",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
+  "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f": {
+    "id": "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f",
+    "name": "Gnosis Safe Multisig",
+    "homepage": "https://gnosis-safe.io/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "https://gnosis-safe.io/app/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Gnosis Safe",
       "colors": {
         "primary": "",
         "secondary": ""
