@@ -13,7 +13,8 @@ const LOGO_LG_DIR = path.join(LOGO_DIR, "lg");
 const LOGO_MD_DIR = path.join(LOGO_DIR, "md");
 const LOGO_SM_DIR = path.join(LOGO_DIR, "sm");
 
-const VALID_ARGS = ["type", "filePath"];
+const VALID_SUBMIT_ARGS = ["type", "filePath"];
+const VALID_REPLACE_ARGS = ["id", "filePath"];
 const VALID_TYPES = ["wallet", "dapp"];
 const VALID_FORMATS = ["jpeg", "jpg", "png"];
 
@@ -57,7 +58,8 @@ module.exports = {
   LOGO_LG_DIR,
   LOGO_MD_DIR,
   LOGO_SM_DIR,
-  VALID_ARGS,
+  VALID_SUBMIT_ARGS,
+  VALID_REPLACE_ARGS,
   VALID_TYPES,
   VALID_FORMATS,
   EMPTY_ENTRY,

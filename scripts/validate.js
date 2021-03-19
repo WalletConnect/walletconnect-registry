@@ -1,6 +1,10 @@
 const fs = require("fs");
 
-const { VALID_ARGS, VALID_TYPES } = require("./constants");
+const {
+  VALID_SUBMIT_ARGS,
+  VALID_REPLACE_ARGS,
+  VALID_TYPES,
+} = require("./constants");
 
 function fileExists(filePath) {
   try {
@@ -13,9 +17,15 @@ function fileExists(filePath) {
   }
 }
 
+function validateId(id) {
+  if (typeof id !== "string" || id.length !== 64) {
+    throw new Error("Invalid id submitted, must be 32 byte hex string");
+  }
+}
+
 function validateType(type) {
   if (VALID_TYPES.includes(type.toLowerCase())) {
-    return new Error(
+    throw new Error(
       `Invalid type submitted, must be either: ${VALID_TYPES.toString()}`
     );
   }
@@ -23,30 +33,30 @@ function validateType(type) {
 
 function validateFile(filePath) {
   if (!fileExists(filePath)) {
-    return new Error(`Invalid or missing file submission: ${filePath}`);
+    throw new Error(`Invalid or missing file submission: ${filePath}`);
   }
 }
 
 function validateEntry(entry) {
   if (typeof entry.logo === "undefined" || !entry.logo.trim()) {
-    return new Error("Missing logo image location");
+    throw new Error("Missing logo image location");
   }
   if (typeof entry.name === "undefined" || !entry.name.trim()) {
-    return new Error("Missing required field: name");
+    throw new Error("Missing required field: name");
   }
   if (typeof entry.homepage === "undefined" || !entry.homepage.trim()) {
-    return new Error("Missing required field: homepage");
+    throw new Error("Missing required field: homepage");
   }
   if (typeof entry.chains === "undefined" || !entry.chains.length) {
-    return new Error("Missing required field: chains");
+    throw new Error("Missing required field: chains");
   }
   if (typeof entry.app === "undefined" || !Object.values(entry.app).length) {
-    return new Error("Missing required field: app");
+    throw new Error("Missing required field: app");
   }
 }
 
-function validateArgs(args) {
-  if (args.length < VALID_ARGS.length) {
+function validateSubmitArgs(args) {
+  if (args.length < VALID_SUBMIT_ARGS.length) {
     throw new Error(
       "Invalid number of arguments. Check README for instructions!"
     );
@@ -56,4 +66,20 @@ function validateArgs(args) {
   validateFile(filePath);
 }
 
-module.exports = { validateType, validateEntry, validateArgs };
+function validateReplaceArgs(args) {
+  if (args.length < VALID_REPLACE_ARGS.length) {
+    throw new Error(
+      "Invalid number of arguments. Check README for instructions!"
+    );
+  }
+  const [id, filePath] = args;
+  validateId(id);
+  validateFile(filePath);
+}
+
+module.exports = {
+  validateType,
+  validateEntry,
+  validateSubmitArgs,
+  validateReplaceArgs,
+};

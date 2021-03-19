@@ -19,7 +19,8 @@
     "build": "next build",
     "start": "next start",
     "format": "prettier --write 'src/**/*.js'",
-    "submit": "node ./scripts/submit.js"
+    "submit": "node ./scripts/submit.js",
+    "replace": "node ./scripts/replace.js"
   },
   "repository": {
     "type": "git",
