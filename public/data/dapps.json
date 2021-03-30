@@ -2956,5 +2956,34 @@
         "secondary": ""
       }
     }
+  },
+  "fd147609a856c6793f2c01f80d1e60b6948490adf1dfcf18015e396510d6636c": {
+    "id": "fd147609a856c6793f2c01f80d1e60b6948490adf1dfcf18015e396510d6636c",
+    "name": "DeFiner",
+    "homepage": "https://definer.org/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "https://app.definer.org/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }

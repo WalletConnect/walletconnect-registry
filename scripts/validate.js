@@ -24,7 +24,7 @@ function validateId(id) {
 }
 
 function validateType(type) {
-  if (VALID_TYPES.includes(type.toLowerCase())) {
+  if (!VALID_TYPES.includes(type.toLowerCase())) {
     throw new Error(
       `Invalid type submitted, must be either: ${VALID_TYPES.toString()}`
     );
