@@ -1854,5 +1854,34 @@
         "secondary": ""
       }
     }
+  },
+  "0a00cbe128dddd6e096ebb78533a2c16ed409152a377c1f61a6a5ea643a2d950": {
+    "id": "0a00cbe128dddd6e096ebb78533a2c16ed409152a377c1f61a6a5ea643a2d950",
+    "name": "Jade Wallet",
+    "homepage": "https://jadewallet.io/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/jade-wallet-bitcoin-defi/id1544207492",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Jade",
+      "colors": {
+        "primary": "#212d66",
+        "secondary": ""
+      }
+    }
   }
 }
