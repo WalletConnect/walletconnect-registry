@@ -2,16 +2,16 @@ const path = require("path");
 
 module.exports = {
   // REQUIRED (location of the logo - png or jpg)
-  logo: path.join(__dirname, "logo.jpg"),
+  logo: path.join(__dirname, "poh.png"),
   // REQUIRED
-  name: "WalletConnect",
+  name: "Proof of Humanity",
   // REQUIRED
-  homepage: "https://walletconnect.org",
+  homepage: "https://proofofhumanity.id/",
   // REQUIRED
   chains: ["eip155:1"],
   // REQUIRED (at least one)
   app: {
-    browser: "https://example.walletconnect.org",
+    browser: "https://app.proofofhumanity.id/",
     ios: "",
     android: "",
     mac: "",
