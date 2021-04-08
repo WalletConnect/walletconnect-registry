@@ -3222,5 +3222,36 @@
         "secondary": ""
       }
     }
+  },
+  "dc5eae101caa47ce5580eb792799660bf2b8621cfadb7a4cbf69f8b647e71c51": {
+    "id": "dc5eae101caa47ce5580eb792799660bf2b8621cfadb7a4cbf69f8b647e71c51",
+    "name": "Livepeer Explorer",
+    "homepage": "https://livepeer.org",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "https://explorer.livepeer.org",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Livepeer",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
