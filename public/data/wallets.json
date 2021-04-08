@@ -2044,5 +2044,39 @@
         "secondary": ""
       }
     }
+  },
+  "ffa139f74d1c8ebbb748cf0166f92d886e8c81b521c2193aa940e00626f4e215": {
+    "id": "ffa139f74d1c8ebbb748cf0166f92d886e8c81b521c2193aa940e00626f4e215",
+    "name": "Defiant",
+    "homepage": "https://defiantapp.tech/",
+    "chains": [
+      "eip155:1",
+      "eip155:42",
+      "eip155:30",
+      "eip155:31"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=ar.com.andinasmart.defiant",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "defiantapp:",
+      "universal": "https://defiantapp.tech"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "#274A60",
+        "secondary": "#65ef9d"
+      }
+    }
   }
 }
