@@ -2078,5 +2078,36 @@
         "secondary": "#65ef9d"
       }
     }
+  },
+  "1ce6dae0fea7114846382391d946784d95d9032460a857bb23b55bd9807259d1": {
+    "id": "1ce6dae0fea7114846382391d946784d95d9032460a857bb23b55bd9807259d1",
+    "name": "Trustee Wallet",
+    "homepage": "https://trusteeglobal.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/trustee-wallet-bitcoin-wallet/id1462924276",
+      "android": "https://play.google.com/store/apps/details?id=com.trusteewallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Trustee",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
