@@ -2109,5 +2109,36 @@
         "secondary": ""
       }
     }
+  },
+  "38664ce5226fd8e9a087bf9295ba9190a35ec249dc7306b1973e40bb3bb273ac": {
+    "id": "38664ce5226fd8e9a087bf9295ba9190a35ec249dc7306b1973e40bb3bb273ac",
+    "name": "UvToken",
+    "homepage": "https://www.uvtoken.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/uvtoken/id1552556395",
+      "android": "https://wallet.uvtoken.com/static/download/android/uvtoken.apk",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "UvToken",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
