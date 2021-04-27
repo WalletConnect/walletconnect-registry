@@ -1968,8 +1968,8 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "hashme:",
+      "universal": "https://me.hashkey.com"
     },
     "desktop": {
       "native": "hashme:",
