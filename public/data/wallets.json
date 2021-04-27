@@ -2127,12 +2127,12 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
-    },
-    "desktop": {
       "native": "1inch:",
       "universal": "https://wallet.1inch.io"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
     },
     "metadata": {
       "shortName": "1inch",
