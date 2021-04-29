@@ -464,6 +464,38 @@
       }
     }
   },
+  "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890": {
+    "id": "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890",
+    "name": "1inch Wallet",
+    "homepage": "https://1inch.io/wallet/",
+    "chains": [
+      "eip155:1",
+      "eip155:56"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/1inch-defi-wallet/id1546049391",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "1inch:",
+      "universal": "https://wallet.1inch.io"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "1inch",
+      "colors": {
+        "primary": "rgb(31, 36, 46)",
+        "secondary": ""
+      }
+    }
+  },
   "bae74827272509a6d63ea25514d9c68ad235c14e45e183518c7ded4572a1b0c4": {
     "id": "bae74827272509a6d63ea25514d9c68ad235c14e45e183518c7ded4572a1b0c4",
     "name": "Huobi Wallet",
@@ -2110,36 +2142,4 @@
       }
     }
   },
-  "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890": {
-    "id": "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890",
-    "name": "1inch Wallet",
-    "homepage": "https://1inch.io/wallet/",
-    "chains": [
-      "eip155:1",
-      "eip155:56"
-    ],
-    "app": {
-      "browser": "",
-      "ios": "https://apps.apple.com/us/app/1inch-defi-wallet/id1546049391",
-      "android": "",
-      "mac": "",
-      "windows": "",
-      "linux": ""
-    },
-    "mobile": {
-      "native": "1inch:",
-      "universal": "https://wallet.1inch.io"
-    },
-    "desktop": {
-      "native": "",
-      "universal": ""
-    },
-    "metadata": {
-      "shortName": "1inch",
-      "colors": {
-        "primary": "rgb(31, 36, 46)",
-        "secondary": ""
-      }
-    }
-  }
 }
