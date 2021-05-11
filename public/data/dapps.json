@@ -3043,5 +3043,34 @@
         "secondary": ""
       }
     }
+  },
+  "5a329cffe7aa4afa662139c3e119e51683bba096b0b877c5f55ba56b250632ab": {
+    "id": "5a329cffe7aa4afa662139c3e119e51683bba096b0b877c5f55ba56b250632ab",
+    "name": "Swapzone",
+    "homepage": "https://swapzone.io/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "https://swapzone.io/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Swapzone",
+      "colors": {
+        "primary": "#F10286",
+        "secondary": "#25B7EB"
+      }
+    }
   }
 }
