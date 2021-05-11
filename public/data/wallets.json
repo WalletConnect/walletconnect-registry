@@ -1366,7 +1366,7 @@
     "id": "7e90b95230bc462869bbb59f952273d89841e1c76bcc5319898e08c9f34bd4cd",
     "name": "Unstoppable Wallet",
     "homepage": "https://unstoppable.money/",
-    "chains": ["eip155:1"],
+    "chains": ["eip155:1", "eip155:56"],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907?ls=1",
@@ -1376,8 +1376,8 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "money.unstoppable:",
+      "universal": "https://unstoppable.money/"
     },
     "desktop": {
       "native": "",
@@ -1386,7 +1386,7 @@
     "metadata": {
       "shortName": "Unstoppable",
       "colors": {
-        "primary": "",
+        "primary": "#FFBE43",
         "secondary": ""
       }
     }
