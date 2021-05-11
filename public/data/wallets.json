@@ -434,6 +434,35 @@
       }
     }
   },
+  "9dab7bd72148e2f796452630230666daf507935fae7bb9baf22b3c11960b034f": {
+    "id": "9dab7bd72148e2f796452630230666daf507935fae7bb9baf22b3c11960b034f",
+    "name": "Dharma",
+    "homepage": "https://www.dharma.io/",
+    "chains": ["eip155:1"],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/dharma-save-send-globally/id1495144415",
+      "android": "https://play.google.com/store/apps/details?id=io.dharma.Dharma",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Dharma",
+      "colors": {
+        "primary": "#0DD675",
+        "secondary": "#F5F5F5"
+      }
+    }
+  },
   "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890": {
     "id": "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890",
     "name": "1inch Wallet",
