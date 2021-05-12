@@ -448,7 +448,7 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
+      "native": "dharma:",
       "universal": ""
     },
     "desktop": {
