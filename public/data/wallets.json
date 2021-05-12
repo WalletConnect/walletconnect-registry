@@ -1405,7 +1405,7 @@
       "linux": ""
     },
     "mobile": {
-      "native": "money.unstoppable:",
+      "native": "moneyunstoppable:",
       "universal": "https://unstoppable.money/"
     },
     "desktop": {
