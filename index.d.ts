@@ -27,22 +27,29 @@ declare module "@walletconnect/registry" {
     homepage?: string;
     shortName?: string;
     customLogo?: string;
+    categories?: string[];
     colors?: AppMetadataColors;
   }
 
-  export type AppType = "non-signer" | "signer" | "hybrid";
+  export type AppType = "dapp" | "wallet" | "hybrid";
 
   export interface AppDescription {
     name: string;
     type: AppType;
-    homepage: string;
-    categories: string[];
+
     platforms: AppPlatforms;
     metadata?: AppMetadata;
   }
+
+  export type AppHostType = "dns" | "ens" | "ipns";
+
+  export interface AppHost {
+    type: AppHostType;
+    domain: string;
+  }
   export interface AppProvider {
     id: string;
-    host: string;
+    host: AppHost;
     apps: AppDescription[];
   }
 
