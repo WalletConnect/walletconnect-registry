@@ -1398,7 +1398,7 @@
     "chains": ["eip155:1", "eip155:56"],
     "app": {
       "browser": "",
-      "ios": "https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907?ls=1",
+      "ios": "https://apps.apple.com/app/apple-store/id1447619907",
       "android": "https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet",
       "mac": "",
       "windows": "",
@@ -1406,7 +1406,7 @@
     },
     "mobile": {
       "native": "moneyunstoppable:",
-      "universal": "https://unstoppable.money/"
+      "universal": "https://unstoppable.money"
     },
     "desktop": {
       "native": "",
