@@ -144,6 +144,35 @@
       }
     }
   },
+  "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168": {
+    "id": "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168",
+    "name": "WallETH",
+    "homepage": "https://walleth.org",
+    "chains": ["eip155:1","eip155:100","eip155:3","eip155:4","eip155:5","eip155:10","eip155:77"],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=org.walleth",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "WallETH",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
   "f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d": {
     "id": "f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d",
     "name": "Crypto.com | DeFi Wallet",
@@ -372,35 +401,6 @@
       "shortName": "Ledger",
       "colors": {
         "primary": "rgb(255, 255, 255)",
-        "secondary": ""
-      }
-    }
-  },
-  "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168": {
-    "id": "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168",
-    "name": "Walleth",
-    "homepage": "https://walleth.org/",
-    "chains": ["eip155:1"],
-    "app": {
-      "browser": "",
-      "ios": "",
-      "android": "https://play.google.com/store/apps/details?id=org.walleth",
-      "mac": "",
-      "windows": "",
-      "linux": ""
-    },
-    "mobile": {
-      "native": "",
-      "universal": ""
-    },
-    "desktop": {
-      "native": "",
-      "universal": ""
-    },
-    "metadata": {
-      "shortName": "Walleth",
-      "colors": {
-        "primary": "",
         "secondary": ""
       }
     }
