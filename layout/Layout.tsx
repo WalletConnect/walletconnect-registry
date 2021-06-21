@@ -1,7 +1,6 @@
 import Header from "./Header";
 import Footer from "./Footer";
 import Banner from "../components/Banner";
-import SubmitAppMsg from "../components/SubmitAppMsg";
 
 export type LayoutProps = {
   children: React.ReactNode;
@@ -15,7 +14,6 @@ const Layout = ({ children }: LayoutProps) => (
         Registry of all Apps and Wallets supporting WalletConnect Protocol
       </Banner>
       {children}
-      <SubmitAppMsg />
     </main>
     <Footer />
   </div>
