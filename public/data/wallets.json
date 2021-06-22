@@ -139,8 +139,8 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "gnosissafe:",
+      "universal": "https://gnosis-safe.io/"
     },
     "desktop": {
       "native": "",
@@ -149,8 +149,8 @@
     "metadata": {
       "shortName": "Gnosis Safe",
       "colors": {
-        "primary": "",
-        "secondary": ""
+        "primary": "#091828",
+        "secondary": "#fff"
       }
     }
   },
