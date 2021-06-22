@@ -3,7 +3,9 @@
     "id": "d2ae9c3c2782806fd6db704bf40ef0238af9470d7964ae566114a033f4a9a110",
     "name": "Etherscan",
     "homepage": "https://etherscan.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://etherscan.io/",
       "ios": "",
@@ -32,7 +34,9 @@
     "id": "be49f0a78d6ea1beed3804c3a6b62ea71f568d58d9df8097f3d61c7c9baf273d",
     "name": "Uniswap",
     "homepage": "https://uniswap.exchange/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://uniswap.exchange/",
       "ios": "",
@@ -61,7 +65,9 @@
     "id": "7ba1202d012a1402c8c56331471b183d2aaafb99a667dfdaf2ac4a123ea604ed",
     "name": "Binance DEX",
     "homepage": "https://binance.org/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://binance.org/",
       "ios": "",
@@ -90,7 +96,9 @@
     "id": "f759efd17edb158c361ffd793a741b3518fe85b9c15d36b9483fba033118aaf2",
     "name": "OpenSea",
     "homepage": "https://opensea.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://opensea.io/",
       "ios": "",
@@ -119,7 +127,9 @@
     "id": "d82213ea5c476a43d9ab48d2011e3a5329a07826bd8191b24815e5bfe8c207be",
     "name": "Compound",
     "homepage": "https://compound.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://compound.finance/",
       "ios": "",
@@ -148,7 +158,9 @@
     "id": "02563239502b03cef22f5e71059ce97bd48cf7ab0f856964d7e17c0e3631db9f",
     "name": "Zapper",
     "homepage": "https://zapper.fi/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://zapper.fi/",
       "ios": "",
@@ -177,7 +189,9 @@
     "id": "e6c38d65364335d550f629c44a1a86eb6befffa363e7de1cdba26462838226fd",
     "name": "Aave",
     "homepage": "https://app.aave.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.aave.com/",
       "ios": "",
@@ -206,7 +220,9 @@
     "id": "855679a1802326625d10fcaf45cf366aa529a58827d28d01edec0f5fd32330d4",
     "name": "Zerion",
     "homepage": "https://beta.zerion.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://beta.zerion.io/",
       "ios": "",
@@ -235,7 +251,9 @@
     "id": "9a70a431ed25a8872ef971e3b02c9a7dfff2ae6cf66ec9eb37612aadefbc4e9d",
     "name": "LocalCryptos",
     "homepage": "https://localcryptos.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://localcryptos.com/",
       "ios": "",
@@ -264,7 +282,9 @@
     "id": "fd0cae9917f44482aae80d4a3ef4d8a53e50d465cde783baf5d2eca5cc53cf61",
     "name": "DeBank",
     "homepage": "https://debank.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://debank.com/",
       "ios": "",
@@ -293,7 +313,9 @@
     "id": "8308656f4548bb81b3508afe355cfbb7f0cb6253d1cc7f998080601f838ecee3",
     "name": "Unstoppable Domains",
     "homepage": "https://unstoppabledomains.com/manager",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://unstoppabledomains.com/manager",
       "ios": "",
@@ -322,7 +344,9 @@
     "id": "a90d95ac84983ea0d5370b2584a3db4a1aee1975e0b86801e0ddd8159c80d5ff",
     "name": "Rarible",
     "homepage": "https://app.rarible.com/#/connect",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.rarible.com/#/connect",
       "ios": "",
@@ -351,7 +375,9 @@
     "id": "f98ce170f08376732dfddde7823a5f97d9039bcec4e5df02f3978858eb84d305",
     "name": "1inch Exchange",
     "homepage": "https://1inch.exchange/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://1inch.exchange/",
       "ios": "",
@@ -380,7 +406,9 @@
     "id": "7bc4da398540ed770b1d7608a62f253985f9850a2c28abb5c74f94cca37fadbd",
     "name": "yearn",
     "homepage": "https://yearn.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://yearn.finance/",
       "ios": "",
@@ -409,7 +437,9 @@
     "id": "8605171a052e85d629c5efe5db804c7a3fb6d0ecc759d6817f0a18cb3dacbb14",
     "name": "Nash",
     "homepage": "https://nash.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://nash.io/",
       "ios": "",
@@ -438,7 +468,9 @@
     "id": "c591664a9fc2dfee98992ce072d0354154b667ec2f0c9d937ceb84fa9ab843b4",
     "name": "Curve",
     "homepage": "https://curve.fi",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://curve.fi",
       "ios": "",
@@ -467,7 +499,9 @@
     "id": "8e96e3b538965f3bcac2836b6579df3a9de55ce69c49e5ac1a6889c8f0b8df7b",
     "name": "Adex Network",
     "homepage": "https://adex.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://staking.adex.network/",
       "ios": "",
@@ -496,7 +530,9 @@
     "id": "09c4e2ebc81a6a76c05d0c62f797151732fa9c0b84ef92654cd438849271e44b",
     "name": "dYdX",
     "homepage": "https://dydx.exchange/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://dydx.exchange/",
       "ios": "",
@@ -525,7 +561,9 @@
     "id": "2d0bda43d0c0703335ebc242e176182b5a50304b99984e01e86bebdd91238c7e",
     "name": "MyCrypto",
     "homepage": "https://mycrypto.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://mycrypto.com/",
       "ios": "",
@@ -554,7 +592,9 @@
     "id": "bf528087bc3d8ae759444e8246cd56d5a0ddea701274163294e533f20353832b",
     "name": "Oasis App",
     "homepage": "https://oasis.app",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://oasis.app/dashboard",
       "ios": "",
@@ -583,7 +623,9 @@
     "id": "132a564227f18d8c549bf4bebc617b5416be80fca9d321507685d96c8d84bcc5",
     "name": "TokenSets",
     "homepage": "https://tokensets.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://tokensets.com/",
       "ios": "",
@@ -612,7 +654,9 @@
     "id": "e15a799a9a997f09035d48444afae83b0f7dd74fe5eefc5ec47ad679df29ceaa",
     "name": "MANTRA DAO",
     "homepage": "https://mantradao.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.mantradao.com/",
       "ios": "",
@@ -641,7 +685,9 @@
     "id": "6d9f418c42768bc939bd83acd7f7db0507dcc3cd0dac209a65ed5ca34b360079",
     "name": "Matcha",
     "homepage": "https://matcha.xyz",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://matcha.xyz",
       "ios": "",
@@ -670,7 +716,9 @@
     "id": "55e5b479c9f49ddac5445c24725857f19888da1ef432ae5e4e01f8054d107670",
     "name": "KyberSwap",
     "homepage": "https://kyberswap.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://kyberswap.com/",
       "ios": "",
@@ -699,7 +747,9 @@
     "id": "b79d14dff50d405ebc7484f5316f999d8e0d9d130c3a4412aaf7e5c587b0d954",
     "name": "DeFi Prime",
     "homepage": "https://defiprime.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://portfolio.defiprime.com/",
       "ios": "",
@@ -728,7 +778,9 @@
     "id": "dcf291a025ead3e94ef694fa75617568daf76bf1e525bb240ecf5bf1add53756",
     "name": "Loopring",
     "homepage": "https://loopring.io",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://exchange.loopring.io",
       "ios": "",
@@ -757,7 +809,9 @@
     "id": "70cad09a92cb1c278dd876b3c46173dfd2ed394ecef1bd803ee001d7632e93a1",
     "name": "InstaDapp",
     "homepage": "https://instadapp.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://instadapp.io/dashboard/",
       "ios": "",
@@ -786,7 +840,9 @@
     "id": "44ff1e444b11207673bb2e832138afa0062e4618659189b9207990a7767dccdf",
     "name": "Matic Network",
     "homepage": "https://matic.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://wallet.matic.network/login",
       "ios": "",
@@ -815,7 +871,9 @@
     "id": "025ec6010962022ad58dc9467f888877d2fe16e0b4ec0ccd0c7388735f1e5641",
     "name": "3Box",
     "homepage": "https://3box.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://3box.io/login",
       "ios": "",
@@ -844,7 +902,9 @@
     "id": "ed6a16b330335e7b39a27f43ccc603043a02d03e66d3d185a8924fec42bb2d03",
     "name": "DDEX",
     "homepage": "https://ddex.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://ddex.io/",
       "ios": "",
@@ -873,7 +933,9 @@
     "id": "780f1069d765bf8d5c8d3c17728e0f0fac17708d07dfe840b7c0e61d3ab7ec61",
     "name": "Totle",
     "homepage": "https://totle.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://swap.totle.com/",
       "ios": "",
@@ -902,7 +964,9 @@
     "id": "21ab23fb856af690a4cd42ec6505a1398b571da2a772717ad3f0e047f34cced7",
     "name": "Bamboo Relay",
     "homepage": "https://bamboorelay.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://bamboorelay.com/",
       "ios": "",
@@ -931,7 +995,9 @@
     "id": "394ee2a85b0ed89e766fbb27c0aeb44d423dee7ec7189ba39c1ab9b5fe55f870",
     "name": "Synthetix",
     "homepage": "https://synthetix.exchange/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://synthetix.exchange/",
       "ios": "",
@@ -960,7 +1026,9 @@
     "id": "fb6cd1a045de3209931525fe421631d3bda00fd8f5d72226833b99f3966d4f0d",
     "name": "dex.blue",
     "homepage": "https://dex.blue/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://dex.blue/trading/",
       "ios": "",
@@ -989,7 +1057,9 @@
     "id": "6d296cc03b11b2b59c1e009f1854576be7ae1687951cf7f6283f993ac7b8b2e4",
     "name": "PoolTogether",
     "homepage": "https://pooltogether.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.pooltogether.com/",
       "ios": "",
@@ -1018,7 +1088,9 @@
     "id": "ddcd44ec977ae9e456f1ea930a46e67fa7537c0c89498deb17b1d29c4274ff31",
     "name": "Sablier",
     "homepage": "https://sablier.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://sablier.finance/",
       "ios": "",
@@ -1047,7 +1119,9 @@
     "id": "013e3e71441eaf78044b05f30544cac56ea91a5e5a8a39b62bd0b80808de00da",
     "name": "DEX.AG",
     "homepage": "https://dex.ag/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://dex.ag/",
       "ios": "",
@@ -1076,7 +1150,9 @@
     "id": "0cc13b1d63976ca5dd90dcbfb234e95f69d4edde6a24cbcd09683a5fd944040e",
     "name": "ENS Domains",
     "homepage": "https://ens.domains/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.ens.domains/",
       "ios": "",
@@ -1105,7 +1181,9 @@
     "id": "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f",
     "name": "Gnosis Safe Multisig",
     "homepage": "https://gnosis-safe.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://gnosis-safe.io/app/",
       "ios": "",
@@ -1134,7 +1212,9 @@
     "id": "2871556630e7ed3588218a4279561f71735b7567c3e48b2f80b2a7705c51e0c3",
     "name": "Idle Finance",
     "homepage": "https://idle.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://idle.finance/",
       "ios": "",
@@ -1163,7 +1243,9 @@
     "id": "ce64cd600d0ae877f47ba0148501bcd23ee1c08a2adeaaf69310679ec3fe7132",
     "name": "iearn.finance",
     "homepage": "https://iearn.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://iearn.finance/",
       "ios": "",
@@ -1192,7 +1274,9 @@
     "id": "98f22f6c710f0142d04591df1a1938d94b81450bba0f986757432b6719f6e641",
     "name": "RCN Finance",
     "homepage": "https://rcn.market/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://rcn.market/",
       "ios": "",
@@ -1221,7 +1305,9 @@
     "id": "7f88a77105e3960625af762a84863c0d2f80c74fe6d8a1f46b136edcefc1b3c3",
     "name": "Hegic",
     "homepage": "https://hegic.co/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://hegic.co/",
       "ios": "",
@@ -1250,7 +1336,9 @@
     "id": "6f9d21b4f537a5b82406ee97b1ed06311bf60500ac6e6fb822dd2de73dda0593",
     "name": "Kickback",
     "homepage": "https://kickback.events/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://kickback.events/",
       "ios": "",
@@ -1279,7 +1367,9 @@
     "id": "c2e7871837f2b6f99de43371629606f3b0ddf2d25ac49d92be419e682088919d",
     "name": "88mph",
     "homepage": "https://88mph.app/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://88mph.app/",
       "ios": "",
@@ -1308,7 +1398,9 @@
     "id": "d29a5c54fbd768185c643706ac8101a9bbe1c44225674379a57193503cf5ec69",
     "name": "Mooni",
     "homepage": "https://mooni.tech/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.mooni.tech",
       "ios": "",
@@ -1337,7 +1429,9 @@
     "id": "00af657f1f1a370adeadd306d772849698cd99e89ba53fe8e508a12511f9c22b",
     "name": "Clovers",
     "homepage": "https://clovers.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://clovers.network/",
       "ios": "",
@@ -1366,7 +1460,9 @@
     "id": "41b51f689a37ffb63d6663fc8ea0c86e0bc6a030f835bb3e5d5e53dc03b83b35",
     "name": "Mintbase",
     "homepage": "https://mintbase.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://mintbase.io/",
       "ios": "",
@@ -1395,7 +1491,9 @@
     "id": "7da158932208181d61b9e421e2a2088fb70d4adf64adc676e185fcea5396e4d0",
     "name": "DAOstack",
     "homepage": "https://daostack.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://alchemy.daostack.io/",
       "ios": "",
@@ -1424,7 +1522,9 @@
     "id": "30ce179f170230734d83ba26a6b381a7a3298fe014559fae51cc0a14daf8c92d",
     "name": "KnownOrigin",
     "homepage": "https://knownorigin.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://knownorigin.io/",
       "ios": "",
@@ -1453,7 +1553,9 @@
     "id": "fffd1ef5d2105b1b89252c0cf4596a400444d7d4d592268e5699d301eff08ae2",
     "name": "MyEtherWallet",
     "homepage": "https://myetherwallet.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://myetherwallet.com/",
       "ios": "",
@@ -1482,7 +1584,9 @@
     "id": "14e870c10e5e83f9590db63ae5d369e56cb8d88ed6aa27fa021b1ec37ca561cd",
     "name": "Affogato",
     "homepage": "https://affogato.co/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://affogato.co/",
       "ios": "",
@@ -1511,7 +1615,9 @@
     "id": "e4a14f67fb4fbfe240ec43efdca3c50e15ab7302446def657e47e86ec999e655",
     "name": "StablePay",
     "homepage": "https://stablepay.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://stablepay.io/dashboard",
       "ios": "",
@@ -1540,7 +1646,9 @@
     "id": "c1b96e441428dac9475c162de858d5c4e78c09a9948d0a2626cc37376fa99407",
     "name": "DeFi Saver",
     "homepage": "https://defisaver.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://defisaver.com/",
       "ios": "",
@@ -1569,7 +1677,9 @@
     "id": "5429480c60b48a6c93557ee57b56ec66bba892f4e90c84e54ba233a864de4124",
     "name": "ThorChain",
     "homepage": "https://thorchain.org/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://thorchain.org/",
       "ios": "",
@@ -1598,7 +1708,9 @@
     "id": "325f1b46b2d2e04c911089f8da507da38bb13ee3c95aa85fa4e327bd0c88ab12",
     "name": "BulkSender",
     "homepage": "https://bulksender.app/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://bulksender.app/",
       "ios": "",
@@ -1627,7 +1739,9 @@
     "id": "f6399af14c9bbe64672c4a5f5fd9fca42107b76f3bce1b33325d5ffd702c7f66",
     "name": "Betoken",
     "homepage": "https://betoken.fund/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://betoken.fund/",
       "ios": "",
@@ -1656,7 +1770,9 @@
     "id": "4a7c46897481ccee8c101b99a920b90727cf42bf0f99c8f4f50e6a6ebc802c4e",
     "name": "Linkdrop",
     "homepage": "https://linkdrop.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://linkdrop.io/",
       "ios": "",
@@ -1685,7 +1801,9 @@
     "id": "b0234ad23e4ab635e63a86f1b6adbda87edcad6ac426321e865daf991dc12ce8",
     "name": "HelioWallet",
     "homepage": "https://heliowallet.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://heliowallet.com/",
       "ios": "",
@@ -1714,7 +1832,9 @@
     "id": "0e680e620e7a8d15a8048aa6d9a825e07291a1da23a82ced661aa96ed2e81998",
     "name": "Escaroo",
     "homepage": "https://escaroo.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://escaroo.com/",
       "ios": "",
@@ -1743,7 +1863,9 @@
     "id": "5f46863e8fdeb98a98dea1ca9ecaef896c8f4382ba6778deeaf65a399bb7e679",
     "name": "TokenMarket",
     "homepage": "https://tokenmarket.net/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://tokenmarket.net/",
       "ios": "",
@@ -1772,7 +1894,9 @@
     "id": "d4835d7f70d198d1c9e03bebdd3c27bb68b4bb621de3797c08eb35d8ef2833da",
     "name": "Mesa",
     "homepage": "https://mesa.eth.link/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://mesa.eth.link/",
       "ios": "",
@@ -1801,7 +1925,9 @@
     "id": "bb92c98ab35248d1dac4f1abe46e13b49724ce42a7dbcc8ead183dba1b50e12a",
     "name": "MCDEX",
     "homepage": "https://mcdex.io",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://mcdex.io",
       "ios": "",
@@ -1830,7 +1956,9 @@
     "id": "ede2b38da1dddfffd32bbb84c3549b2c1585a14adb88a62b8c10f095253f2f54",
     "name": "Furucombo",
     "homepage": "https://furucombo.app/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://furucombo.app/",
       "ios": "",
@@ -1859,7 +1987,9 @@
     "id": "a66189f2de21e3674c3762ab93c1c14a666a5361d4d79df1f2d9409151cd5def",
     "name": "Melon",
     "homepage": "https://melon.avantgarde.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://melon.avantgarde.finance/",
       "ios": "",
@@ -1888,7 +2018,9 @@
     "id": "b971da97af8b126d704c9c19e324d3b44ea885c067da3631eb22fb5e8b9180e1",
     "name": "Chainsfr",
     "homepage": "https://chainsfr.com",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://chainsfr.com",
       "ios": "",
@@ -1917,7 +2049,9 @@
     "id": "32f5f734ca5e57cd5e448aa4fc0a720b802d67182a0b6494f46867241fae3b9e",
     "name": "AKA3 Email Alias",
     "homepage": "http://aka3.net",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "http://aka3.net",
       "ios": "",
@@ -1946,7 +2080,9 @@
     "id": "b37cbde29b86efa434b1eebda15f7598e4338f5307c6d766311558cebd548b33",
     "name": "2Key",
     "homepage": "https://2key.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://2key.network/",
       "ios": "",
@@ -1975,7 +2111,9 @@
     "id": "ef45e5cb8c86e3904c26f0105ae52ad5d79659c58e0922b18c0d61a6854afcc4",
     "name": "Pitch",
     "homepage": "https://pitchinvestorslive.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://pitchinvestorslive.com/",
       "ios": "",
@@ -2004,7 +2142,9 @@
     "id": "b6b9e0449871fbe29174da88d909c4eb127cdcaf545ac470daaed9b0d93d515c",
     "name": "SushiSwap",
     "homepage": "https://sushiswap.fi/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://sushiswap.fi/",
       "ios": "",
@@ -2033,7 +2173,9 @@
     "id": "d8663d3a49e8c0ace8ece983fc6fbdb47bdfcc3b1dacbafb99940c9e7ddc9429",
     "name": "Unagii",
     "homepage": "https://unagii.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://unagii.com/",
       "ios": "",
@@ -2062,7 +2204,9 @@
     "id": "0afb52d86941c9f09946295848506fe4bc5e35f0fef606ce2ade789f76a6fbea",
     "name": "Cream Finance",
     "homepage": "https://cream.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://cream.finance/",
       "ios": "",
@@ -2091,7 +2235,9 @@
     "id": "09728a04025a39f04c76c3ab3751f1d245fab60bc519489a0c0107f0861e950a",
     "name": "zkSync",
     "homepage": "https://zksync.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://zksync.io/",
       "ios": "",
@@ -2120,7 +2266,9 @@
     "id": "6e8bece35cfcfeed1aa4922e939c118ab26f51af5c7ab842a6a77a00694d4b9f",
     "name": "Shell Exchange",
     "homepage": "https://shells.exchange/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://shells.exchange/",
       "ios": "",
@@ -2149,7 +2297,9 @@
     "id": "66a152c24564b90c790dda221dc6064d8a916b8ee45f4fb3d6732da01d0bebaa",
     "name": "Index Coop",
     "homepage": "https://indexcoop.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://indexcoop.com/",
       "ios": "",
@@ -2178,7 +2328,9 @@
     "id": "6c5f0f23fb7158576a5f314585ad520a43d3afae1a6cad59dcff626709525c2b",
     "name": "SwapX",
     "homepage": "https://swapx.org/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.swapx.org/",
       "ios": "",
@@ -2207,7 +2359,9 @@
     "id": "8858da9365f7ab948c4f137ff93a5c8cbc311fe5321fcd31dccea6efdba538aa",
     "name": "Starname",
     "homepage": "https://starname.me/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.starname.me/",
       "ios": "",
@@ -2236,7 +2390,9 @@
     "id": "82f6a24e8c52f80c2ed28e718202cb12fdb22df34419c327e6846c1544e107f3",
     "name": "Space",
     "homepage": "https://space.storage/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://space.storage/",
       "ios": "",
@@ -2265,7 +2421,9 @@
     "id": "43055637bd8d3da2afa83b1650348c8ccafa67e0c201afe2c0f2a06a9aecae18",
     "name": "Maskbook",
     "homepage": "https://mask.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://mask.io/",
       "ios": "",
@@ -2294,7 +2452,9 @@
     "id": "2d7b5ef9ea6e5b856440ad38ac3e9ffc6e311f353aae4a90daadf4654e31ffb7",
     "name": "Snapshot",
     "homepage": "https://snapshot.page/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://snapshot.page/",
       "ios": "",
@@ -2323,7 +2483,9 @@
     "id": "bbe3172e59ba21541c5739f09031cd28ac3aed0ccd23280acfe19706fbf04820",
     "name": "Invoice.build",
     "homepage": "https://invoice.build/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://invoice.build/",
       "ios": "",
@@ -2352,7 +2514,9 @@
     "id": "cacf4ce4b9b170741b0dbdb8c008c61e88faae3eae5bd58db549925859940410",
     "name": "Ankr",
     "homepage": "https://ankr.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://ankr.com/",
       "ios": "",
@@ -2381,7 +2545,9 @@
     "id": "253aedf09361b7d0d90b33107079635554ad56807d9f0a6edd95891a45eca990",
     "name": "DODO",
     "homepage": "https://dodoex.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.dodoex.io/",
       "ios": "",
@@ -2410,7 +2576,9 @@
     "id": "3ed8d78a90e1ecefae998f6f3d7fe968d0ac6c2ee7a092fe29bae3e9621f9a8f",
     "name": "zLOT",
     "homepage": "https://zlot.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://zlot.finance/",
       "ios": "",
@@ -2439,7 +2607,9 @@
     "id": "492caa74c01551142885e2e5ecbe760f82e4c0206e8d3fe4d8c14477032b0412",
     "name": "Tokamak Network",
     "homepage": "https://tokamak.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://tokamak.network/",
       "ios": "",
@@ -2468,7 +2638,9 @@
     "id": "57361b007a69218b00842b78d7cb4f98afd3572cb52ef950c4fd05c0a47c21e1",
     "name": "Actus Protocol",
     "homepage": "https://actus-protocol.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://portal.actus-protocol.io/",
       "ios": "",
@@ -2497,7 +2669,9 @@
     "id": "1fe0c2ed2ddd10d7caf2db5d873a8fde1817dff12a29dff0e9c59e99ee8cd8a4",
     "name": "AstroTools.io",
     "homepage": "https://astrotools.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://astrotools.io/",
       "ios": "",
@@ -2526,7 +2700,9 @@
     "id": "45ad03d00056530b6a275ec4babe7b04f15cdcd4a5b14c8d6b9a26adcc84928a",
     "name": "Rubic Exchange",
     "homepage": "https://rubic.exchange/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://rubic.exchange/",
       "ios": "",
@@ -2555,7 +2731,9 @@
     "id": "3c930df62f0ac573c8d993debb4de3e32fc0159ca85543dcadf3eb7e06a57e54",
     "name": "Harvest Finance",
     "homepage": "https://harvest.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://harvest.finance/",
       "ios": "",
@@ -2584,7 +2762,9 @@
     "id": "3c8532a03fc2fc60876b145e9482c002edffd5403268710b9f5412a822a4be87",
     "name": "OctoFi",
     "homepage": "https://octo.fi/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://octo.fi/",
       "ios": "",
@@ -2613,7 +2793,9 @@
     "id": "9c2a672e60f354708a3e622d7cf3fd11a25d7f8265f811ede376f599cc077102",
     "name": "Mushroom Finance",
     "homepage": "https://mushrooms.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://mushrooms.finance/",
       "ios": "",
@@ -2642,7 +2824,9 @@
     "id": "d516cd697587ceacdeb96c302488b43daf4a08732c6cdc6533989fb0598715dd",
     "name": "Bitfrost Finance",
     "homepage": "https://bitfrost.finance/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://bitfrost.finance/",
       "ios": "",
@@ -2671,7 +2855,9 @@
     "id": "a3ad8e05bc84499afaf3612a0ac95ef5e9b65c587da1b5ed71a00b9ff0e5f4af",
     "name": "Orchid Protocol",
     "homepage": "https://orchid.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://account.orchid.com/",
       "ios": "",
@@ -2700,7 +2886,9 @@
     "id": "88fe080dcec093d8e358ab011f5384878ead9cb68ac0ac7dc690744811366597",
     "name": "Lido",
     "homepage": "https://lido.fi/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://stake.lido.fi/",
       "ios": "",
@@ -2729,7 +2917,9 @@
     "id": "0ace4cf765779f94e3f546dee7bf2852dee333c57999ca04ae80403df4a14cd7",
     "name": "Datamine Network",
     "homepage": "https://datamine.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://datamine.network/",
       "ios": "",
@@ -2758,7 +2948,9 @@
     "id": "f5dfce6586648970f967d75640ae074553deb3a93dda5ce109de894d61027b59",
     "name": "Streamr",
     "homepage": "https://streamr.network/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://streamr.network/",
       "ios": "",
@@ -2787,7 +2979,9 @@
     "id": "0fbcea2de72eee88bb00512395fb1e99388ffbb1746cdf01dffc6797d4f06bfd",
     "name": "DappRadar",
     "homepage": "https://dappradar.com/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://dappradar.com/hub/wallet",
       "ios": "",
@@ -2816,7 +3010,9 @@
     "id": "3175fb08702c0c5945b837a47d333fa4f323763557623200b1f52cd57de6fa7b",
     "name": "SuperRare",
     "homepage": "https://superrare.co/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://superrare.co/",
       "ios": "",
@@ -2845,7 +3041,9 @@
     "id": "34ecba237dabd32d823ecc328e125d503434609185c7bfb4ce8106618fdcfc10",
     "name": "Arbitrum",
     "homepage": "https://arbitrum.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://portal.arbitrum.io/",
       "ios": "",
@@ -2874,7 +3072,9 @@
     "id": "541b38c73c267bfacf2383cc6c4fb0b23fcd93c092b265bdf4e2c6f521c385da",
     "name": "ParaSwap",
     "homepage": "https://paraswap.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://paraswap.io/",
       "ios": "",
@@ -2903,7 +3103,9 @@
     "id": "7c207664419cd871fc76a8e6d4496800877bcd9592eb42b4b987608344663f8f",
     "name": "HoneySwap",
     "homepage": "https://howneyswap.org/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://howneyswap.org/",
       "ios": "",
@@ -2932,7 +3134,9 @@
     "id": "7657bb2b332c4ad3ef648a7f67ce6f1def58027be3c36efa098a4ab031e6031d",
     "name": "Fleek",
     "homepage": "https://fleek.co/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://fleek.co/",
       "ios": "",
@@ -2961,7 +3165,9 @@
     "id": "fd147609a856c6793f2c01f80d1e60b6948490adf1dfcf18015e396510d6636c",
     "name": "DeFiner",
     "homepage": "https://definer.org/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.definer.org/",
       "ios": "",
@@ -2990,7 +3196,9 @@
     "id": "b127136d3fae5d392cc34eba50d6788a248345a797e696ad5f6ee88aabe1eaa6",
     "name": "Proof of Humanity",
     "homepage": "https://proofofhumanity.id/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://app.proofofhumanity.id/",
       "ios": "",
@@ -3019,7 +3227,9 @@
     "id": "dc5eae101caa47ce5580eb792799660bf2b8621cfadb7a4cbf69f8b647e71c51",
     "name": "Livepeer Explorer",
     "homepage": "https://livepeer.org",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://explorer.livepeer.org",
       "ios": "",
@@ -3048,7 +3258,9 @@
     "id": "5a329cffe7aa4afa662139c3e119e51683bba096b0b877c5f55ba56b250632ab",
     "name": "Swapzone",
     "homepage": "https://swapzone.io/",
-    "chains": ["eip155:1"],
+    "chains": [
+      "eip155:1"
+    ],
     "app": {
       "browser": "https://swapzone.io/",
       "ios": "",
@@ -3070,6 +3282,37 @@
       "colors": {
         "primary": "#F10286",
         "secondary": "#25B7EB"
+      }
+    }
+  },
+  "25a0ea266e011f80bc9952b1cc6f1328d3bbe69d9aa0283e6b70d9d1367a9ed7": {
+    "id": "25a0ea266e011f80bc9952b1cc6f1328d3bbe69d9aa0283e6b70d9d1367a9ed7",
+    "name": "Axion",
+    "homepage": "https://axion.network",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "https://stake.axion.network",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
       }
     }
   }
