@@ -2300,5 +2300,36 @@
         "secondary": ""
       }
     }
+  },
+  "36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b": {
+    "id": "36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b",
+    "name": "Celo Wallet",
+    "homepage": "https://celowallet.app/",
+    "chains": [
+      "eip155:42220"
+    ],
+    "app": {
+      "browser": "https://celowallet.app/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "celowallet:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Celo Wallet",
+      "colors": {
+        "primary": "#35D07F",
+        "secondary": "#FBCC5C"
+      }
+    }
   }
 }
