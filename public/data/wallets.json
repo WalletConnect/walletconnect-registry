@@ -2204,5 +2204,36 @@
         "secondary": ""
       }
     }
+  },
+  "ca151c4caeec5f9cc02ef03e498cb38c02ee5e498a8db13e853315077a5b45dc": {
+    "id": "ca151c4caeec5f9cc02ef03e498cb38c02ee5e498a8db13e853315077a5b45dc",
+    "name": "cmorq",
+    "homepage": "https://cmorq.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/cmorq/id1530022030",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
