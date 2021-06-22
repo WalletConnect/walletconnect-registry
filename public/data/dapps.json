@@ -3315,5 +3315,36 @@
         "secondary": ""
       }
     }
+  },
+  "6b9ac5790debc6264e9581215724b782a23543cba6df5da693c334a90e83855e": {
+    "id": "6b9ac5790debc6264e9581215724b782a23543cba6df5da693c334a90e83855e",
+    "name": "PlotX",
+    "homepage": "https://plotx.io",
+    "chains": [
+      "eip155:137"
+    ],
+    "app": {
+      "browser": "https://app.plotx.io",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
