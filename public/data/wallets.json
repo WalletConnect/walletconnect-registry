@@ -2269,5 +2269,36 @@
         "secondary": "#FBCC5C"
       }
     }
+  },
+  "e05615ed22df39c8d9b99ea38b45d4accb103fcef9cfa5d5edd38f5839b5182e": {
+    "id": "e05615ed22df39c8d9b99ea38b45d4accb103fcef9cfa5d5edd38f5839b5182e",
+    "name": "QuiverX",
+    "homepage": "https://quiverx.io",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/quiverx/id1558993212",
+      "android": "https://play.google.com/store/apps/details?id=com.quiverx.app",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
