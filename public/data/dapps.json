@@ -3346,5 +3346,37 @@
         "secondary": ""
       }
     }
+  },
+  "9405762be07f986472fd249c0aa49dc5de325afe880d1c39df0d5cb5a9458706": {
+    "id": "9405762be07f986472fd249c0aa49dc5de325afe880d1c39df0d5cb5a9458706",
+    "name": "DAOLaunch",
+    "homepage": "https://daolaunch.net",
+    "chains": [
+      "eip155:1",
+      "eip155:56"
+    ],
+    "app": {
+      "browser": "https://app.daolaunch.net",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
