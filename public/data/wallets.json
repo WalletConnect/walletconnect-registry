@@ -840,21 +840,24 @@
   "468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63": {
     "id": "468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63",
     "name": "D'CENT Wallet",
-    "homepage": "https://dcentwallet.com/",
+    "homepage": "https://dcentwallet.com",
     "chains": [
-      "eip155:1"
+      "eip155:1",
+      "eip155:56",
+      "eip155:137",
+      "eip155:30"
     ],
     "app": {
       "browser": "",
-      "ios": "https://apps.apple.com/kr/app/dcent-hardware-wallet/id1447206611",
+      "ios": "https://apps.apple.com/app/dcent-hardware-wallet/id1447206611",
       "android": "https://play.google.com/store/apps/details?id=com.kr.iotrust.dcent.wallet",
       "mac": "",
       "windows": "",
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "dcent:",
+      "universal": "https://link.dcentwallet.com/"
     },
     "desktop": {
       "native": "",
@@ -863,8 +866,8 @@
     "metadata": {
       "shortName": "D'CENT",
       "colors": {
-        "primary": "",
-        "secondary": ""
+        "primary": "#fff",
+        "secondary": "#fff"
       }
     }
   },
