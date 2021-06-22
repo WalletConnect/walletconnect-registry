@@ -2235,5 +2235,36 @@
         "secondary": ""
       }
     }
+  },
+  "d01c7758d741b363e637a817a09bcf579feae4db9f5bb16f599fdd1f66e2f974": {
+    "id": "d01c7758d741b363e637a817a09bcf579feae4db9f5bb16f599fdd1f66e2f974",
+    "name": "Valora",
+    "homepage": "https://valoraapp.com",
+    "chains": [
+      "eip155:42220"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/id1520414263",
+      "android": "https://play.google.com/store/apps/details?id=co.clabs.valora",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "celo:",
+      "universal": "https://valoraapp.com"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Valora",
+      "colors": {
+        "primary": "#42D689",
+        "secondary": "#FBCC5C"
+      }
+    }
   }
 }
