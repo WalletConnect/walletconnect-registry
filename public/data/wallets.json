@@ -2331,5 +2331,36 @@
         "secondary": "#FBCC5C"
       }
     }
+  },
+  "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1": {
+    "id": "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1",
+    "name": "Encrypted Ink",
+    "homepage": "https://encrypted.ink",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "",
+      "mac": "https://apps.apple.com/us/app/encrypted-ink/id1572522563",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "encryptedink:",
+      "universal": "https://encrypted.ink"
+    },
+    "metadata": {
+      "shortName": "Encrypted Ink",
+      "colors": {
+        "primary": "#fff",
+        "secondary": "#fff"
+      }
+    }
   }
 }
