@@ -143,8 +143,8 @@
       "universal": "https://gnosis-safe.io/"
     },
     "desktop": {
-      "native": "",
-      "universal": ""
+      "native": "gnosissafe:",
+      "universal": "https://gnosis-safe.io/"
     },
     "metadata": {
       "shortName": "Gnosis Safe",
@@ -391,7 +391,7 @@
       "universal": ""
     },
     "desktop": {
-      "native": "",
+      "native": "ledgerlive:",
       "universal": ""
     },
     "metadata": {
