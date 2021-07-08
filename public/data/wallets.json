@@ -2039,8 +2039,8 @@
       "universal": "https://me.hashkey.com"
     },
     "desktop": {
-      "native": "hashme:",
-      "universal": "https://me.hashkey.com"
+      "native": "",
+      "universal": ""
     },
     "metadata": {
       "shortName": "HashKey Me",
