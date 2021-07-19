@@ -3378,5 +3378,36 @@
         "secondary": ""
       }
     }
+  },
+  "a46b30fc7a7c662e75825225f2eae09b07412199d09771d821a5a0853e906906": {
+    "id": "a46b30fc7a7c662e75825225f2eae09b07412199d09771d821a5a0853e906906",
+    "name": "MoonCat World",
+    "homepage": "https://mooncatworld.com",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/mooncat-world/id1565672505",
+      "android": "https://play.google.com/store/apps/details?id=com.jackpottechnologies.mooncatworld",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
