@@ -3102,12 +3102,12 @@
   "7c207664419cd871fc76a8e6d4496800877bcd9592eb42b4b987608344663f8f": {
     "id": "7c207664419cd871fc76a8e6d4496800877bcd9592eb42b4b987608344663f8f",
     "name": "HoneySwap",
-    "homepage": "https://howneyswap.org/",
+    "homepage": "https://honeyswap.org/",
     "chains": [
       "eip155:1"
     ],
     "app": {
-      "browser": "https://howneyswap.org/",
+      "browser": "https://honeyswap.org/",
       "ios": "",
       "android": "",
       "mac": "",
