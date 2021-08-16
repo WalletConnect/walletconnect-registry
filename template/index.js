@@ -2,35 +2,35 @@ const path = require("path");
 
 module.exports = {
   // REQUIRED (location of the logo - png or jpg)
-  logo: path.join(__dirname, "logo.jpg"),
+  logo: path.join(__dirname, "fuse.png"),
   // REQUIRED
-  name: "WalletConnect",
+  name: "fuse.cash",
   // REQUIRED
-  homepage: "https://walletconnect.org",
+  homepage: "https://fuse.cash/",
   // REQUIRED
-  chains: ["eip155:1"],
+  chains: ["eip155:122"],
   // REQUIRED (at least one)
   app: {
-    browser: "https://example.walletconnect.org",
-    ios: "",
-    android: "",
+    browser: "",
+    ios: "https://apps.apple.com/us/app/fuse-cash/id1559937899",
+    android: "https://play.google.com/store/apps/details?id=io.fuse.cash",
     mac: "",
     windows: "",
     linux: "",
   },
   mobile: {
-    native: "",
-    universal: "",
+    native: "fuse.cash:",
+    universal: "https://app.fuse.cash/",
   },
   desktop: {
     native: "",
     universal: "",
   },
   metadata: {
-    shortName: "",
+    shortName: "fuse.cash",
     colors: {
-      primary: "",
-      secondary: "",
+      primary: "#37D888",
+      secondary: "#37D888",
     },
   },
 };
