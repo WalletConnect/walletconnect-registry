@@ -404,16 +404,10 @@
   },
   "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168": {
     "id": "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168",
-    "name": "WallETH",
+    "name": "Walleth",
     "homepage": "https://walleth.org/",
     "chains": [
-      "eip155:1",
-      "eip155:100",
-      "eip155:3",
-      "eip155:4",
-      "eip155:5",
-      "eip155:10",
-      "eip155:77"
+      "eip155:1"
     ],
     "app": {
       "browser": "",
@@ -432,7 +426,7 @@
       "universal": ""
     },
     "metadata": {
-      "shortName": "WallETH",
+      "shortName": "Walleth",
       "colors": {
         "primary": "",
         "secondary": ""
