@@ -863,7 +863,7 @@
     },
     "mobile": {
       "native": "dcent:",
-      "universal": "https://link.dcentwallet.com/"
+      "universal": "https://link.dcentwallet.com"
     },
     "desktop": {
       "native": "",
