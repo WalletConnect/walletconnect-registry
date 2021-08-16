@@ -2362,5 +2362,37 @@
         "secondary": "#fff"
       }
     }
+  },
+  "717911f4db0c5eda0e02e76ed179b7940ba1eefffdfb3c9e6540696226860da0": {
+    "id": "717911f4db0c5eda0e02e76ed179b7940ba1eefffdfb3c9e6540696226860da0",
+    "name": "Elastos Essentials",
+    "homepage": "https://elastos.org",
+    "chains": [
+      "eip155:20",
+      "eip155:21"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/elastos-essentials/id1568931743",
+      "android": "https://play.google.com/store/apps/details?id=org.elastos.essentials.app",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "essentials:",
+      "universal": "https://essentials.elastos.net"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Essentials",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#fff"
+      }
+    }
   }
 }
