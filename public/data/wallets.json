@@ -2431,5 +2431,36 @@
         "secondary": "#37D888"
       }
     }
+  },
+  "9e3f6d07815cfaf1ef7afb089e5c6895b254fced0b84a9ff2b449a631605b5db": {
+    "id": "9e3f6d07815cfaf1ef7afb089e5c6895b254fced0b84a9ff2b449a631605b5db",
+    "name": "Bitpie",
+    "homepage": "https://bitpie.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/bitpie-wallet/id1481314229",
+      "android": "https://play.google.com/store/apps/details?id=com.bitpie",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "bitpie:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Bitpie",
+      "colors": {
+        "primary": "#ffffff",
+        "secondary": "#1a24ff"
+      }
+    }
   }
 }
