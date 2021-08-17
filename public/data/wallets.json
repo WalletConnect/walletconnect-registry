@@ -2340,10 +2340,14 @@
   },
   "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1": {
     "id": "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1",
-    "name": "Encrypted Ink",
+    "name": "Encrypted Ink 🐺",
     "homepage": "https://encrypted.ink",
     "chains": [
-      "eip155:1"
+      "eip155:1",
+      "eip155:10",
+      "eip155:56",
+      "eip155:137",
+      "eip155:42161"
     ],
     "app": {
       "browser": "",
