@@ -357,7 +357,7 @@
     },
     "mobile": {
       "native": "bitpay:",
-      "universal": "https://bitpay.com/wallet"
+      "universal": "https://link.bitpay.com/wallet"
     },
     "desktop": {
       "native": "",
