@@ -2343,8 +2343,12 @@
     "name": "Encrypted Ink",
     "homepage": "https://encrypted.ink",
     "chains": [
-      "eip155:1"
-    ],
+      "eip155:1",
+      "eip155:10",
+      "eip155:56",
+      "eip155:137",
+      "eip155:42161"
+     ],
     "app": {
       "browser": "",
       "ios": "",
