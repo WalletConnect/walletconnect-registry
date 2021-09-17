@@ -2,47 +2,35 @@ const path = require("path");
 
 module.exports = {
   // REQUIRED (location of the logo - png or jpg)
-  logo: path.join(__dirname, "julwallet.png"),
+  logo: path.join(__dirname, "logo.jpg"),
   // REQUIRED
-  name: "JulWallet",
+  name: "WalletConnect",
   // REQUIRED
-  homepage: "https://justliquidity.org/",
+  homepage: "https://walletconnect.org",
   // REQUIRED
-  chains: [
-    "eip155:1",
-    "eip155:3",
-    "eip155:4",
-    "eip155:5",
-    "eip155:42",
-    "eip155:56",
-    "eip155:88",
-    "eip155:128",
-    "eip155:137",
-    "eip155:250",
-  ],
+  chains: ["eip155:1"],
   // REQUIRED (at least one)
   app: {
-    browser:
-      "https://chrome.google.com/webstore/detail/julwallet/fgkldlaelopgncepgpncndebgdddikii?hl=en-US",
-    ios: "https://apps.apple.com/app/julwallet/id1555914591",
-    android: "https://play.google.com/store/apps/details?id=julwallet.com",
+    browser: "https://example.walletconnect.org",
+    ios: "",
+    android: "",
     mac: "",
     windows: "",
     linux: "",
   },
   mobile: {
-    native: "julwallet:",
-    universal: "https://justliquidity.org/",
+    native: "",
+    universal: "",
   },
   desktop: {
     native: "",
     universal: "",
   },
   metadata: {
-    shortName: "JulWallet",
+    shortName: "",
     colors: {
-      primary: "#c84ce4",
-      secondary: "#3f00ff",
+      primary: "",
+      secondary: "",
     },
   },
 };
