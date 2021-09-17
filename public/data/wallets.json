@@ -2499,5 +2499,36 @@
         "secondary": ""
       }
     }
+  },
+  "9d6c614d1995741d5313f1f3dbf1f66dcba694de782087d13b8721822502692f": {
+    "id": "9d6c614d1995741d5313f1f3dbf1f66dcba694de782087d13b8721822502692f",
+    "name": "Stasis",
+    "homepage": "https://stasis.net/",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/stasis-wallet/id1371949230",
+      "android": "https://play.google.com/store/apps/details?id=com.stasis.stasiswallet&hl=ru&gl=US",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "stasis:",
+      "universal": "https://app.stasis.net"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Stasis",
+      "colors": {
+        "primary": "#2468E4",
+        "secondary": "#FFFFFF"
+      }
+    }
   }
 }
