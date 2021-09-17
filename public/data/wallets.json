@@ -2348,7 +2348,7 @@
       "eip155:56",
       "eip155:137",
       "eip155:42161"
-     ],
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -2464,6 +2464,37 @@
       "colors": {
         "primary": "#ffffff",
         "secondary": "#1a24ff"
+      }
+    }
+  },
+  "fbc8d86ad914ebd733fec4812b4b7af5ca709fdd9e75a930115e5baa02c4ef4c": {
+    "id": "fbc8d86ad914ebd733fec4812b4b7af5ca709fdd9e75a930115e5baa02c4ef4c",
+    "name": "Rabby",
+    "homepage": "https://rabby.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "app": {
+      "browser": "https://chrome.google.com/webstore/detail/empty-title/acmacodkjbdgmoleebolmdjonilkdbch",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
       }
     }
   }
