@@ -2530,5 +2530,45 @@
         "secondary": "#FFFFFF"
       }
     }
+  },
+  "a6ffb821a3c32d36fc9d29e29c2ff79a0cd1db0bca453714777846ddf3fdff76": {
+    "id": "a6ffb821a3c32d36fc9d29e29c2ff79a0cd1db0bca453714777846ddf3fdff76",
+    "name": "JulWallet",
+    "homepage": "https://justliquidity.org/",
+    "chains": [
+      "eip155:1",
+      "eip155:3",
+      "eip155:4",
+      "eip155:5",
+      "eip155:42",
+      "eip155:56",
+      "eip155:88",
+      "eip155:128",
+      "eip155:137",
+      "eip155:250"
+    ],
+    "app": {
+      "browser": "https://chrome.google.com/webstore/detail/julwallet/fgkldlaelopgncepgpncndebgdddikii?hl=en-US",
+      "ios": "https://apps.apple.com/app/julwallet/id1555914591",
+      "android": "https://play.google.com/store/apps/details?id=julwallet.com",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "julwallet:",
+      "universal": "https://justliquidity.org/"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "JulWallet",
+      "colors": {
+        "primary": "#c84ce4",
+        "secondary": "#3f00ff"
+      }
+    }
   }
 }
