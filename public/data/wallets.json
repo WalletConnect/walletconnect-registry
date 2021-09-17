@@ -357,7 +357,7 @@
     },
     "mobile": {
       "native": "bitpay:",
-      "universal": "https://bitpay.com/wallet"
+      "universal": "https://link.bitpay.com/wallet"
     },
     "desktop": {
       "native": "",
@@ -1223,7 +1223,9 @@
     "name": "Infinity Wallet",
     "homepage": "https://infinitywallet.io/",
     "chains": [
-      "eip155:1"
+      "eip155:1",
+      "eip155:56",
+      "eip155:137"
     ],
     "app": {
       "browser": "",
@@ -1238,14 +1240,14 @@
       "universal": ""
     },
     "desktop": {
-      "native": "",
-      "universal": ""
+      "native": "infinity:",
+      "universal": "https://infinitywallet.io/"
     },
     "metadata": {
       "shortName": "Infinity",
       "colors": {
-        "primary": "",
-        "secondary": ""
+        "primary": "#197fe1",
+        "secondary": "#fff"
       }
     }
   },
