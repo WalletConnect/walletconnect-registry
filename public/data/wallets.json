@@ -722,13 +722,13 @@
   "b021913ba555948a1c81eb3d89b372be46f8354e926679de648e4fa2938bed3e": {
     "id": "b021913ba555948a1c81eb3d89b372be46f8354e926679de648e4fa2938bed3e",
     "name": "Coin98",
-    "homepage": "https://coin98.app/",
+    "homepage": "https://coin98.com/",
     "chains": [
       "eip155:1"
     ],
     "app": {
       "browser": "",
-      "ios": "https://ios.coin98.app/",
+      "ios": "https://ios.coin98.com/",
       "android": "https://play.google.com/store/apps/details?id=coin98.crypto.finance.media",
       "mac": "",
       "windows": "",
@@ -736,7 +736,7 @@
     },
     "mobile": {
       "native": "coin98:",
-      "universal": "https://coin98.app"
+      "universal": "https://coin98.com"
     },
     "desktop": {
       "native": "",
