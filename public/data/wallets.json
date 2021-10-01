@@ -391,7 +391,7 @@
       "universal": ""
     },
     "desktop": {
-      "native": "",
+      "native": "ledgerlive:",
       "universal": ""
     },
     "metadata": {
