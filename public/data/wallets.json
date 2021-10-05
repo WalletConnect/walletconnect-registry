@@ -2424,7 +2424,7 @@
     },
     "mobile": {
       "native": "fuse.cash:",
-      "universal": "https://app.fuse.cash/"
+      "universal": "https://get.fuse.cash/"
     },
     "desktop": {
       "native": "",
