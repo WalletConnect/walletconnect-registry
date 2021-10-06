@@ -2570,5 +2570,42 @@
         "secondary": "#3f00ff"
       }
     }
+  },
+  "08f7ae754384518280c4b5a04077d17ff18dd33c738bff10cb6c703cec54b941": {
+    "id": "08f7ae754384518280c4b5a04077d17ff18dd33c738bff10cb6c703cec54b941",
+    "name": "Chainge Finance",
+    "homepage": "https://www.chainge.finance/",
+    "chains": [
+      "eip155:1",
+      "eip155:56",
+      "eip155:66",
+      "eip155:128",
+      "eip155:137",
+      "eip155:250",
+      "eip155:32659"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/cn/app/id1578987516",
+      "android": "https://play.google.com/store/apps/details?id=com.fusion.chainge.android",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Chainge",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
