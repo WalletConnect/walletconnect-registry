@@ -2141,12 +2141,12 @@
   "b6b9e0449871fbe29174da88d909c4eb127cdcaf545ac470daaed9b0d93d515c": {
     "id": "b6b9e0449871fbe29174da88d909c4eb127cdcaf545ac470daaed9b0d93d515c",
     "name": "SushiSwap",
-    "homepage": "https://sushiswap.fi/",
+    "homepage": "https://sushi.com/",
     "chains": [
       "eip155:1"
     ],
     "app": {
-      "browser": "https://sushiswap.fi/",
+      "browser": "https://app.sushi.com/",
       "ios": "",
       "android": "",
       "mac": "",
