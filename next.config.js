@@ -29,19 +29,20 @@ module.exports = {
     return [
       {
         source: "/",
-        destination: "https://walletconnect.com/registry",
-        permanent: true
-      },
-      {
-        source: "/wallets",
-        destination: "https://walletconnect.com/registry",
+        destination: "https://walletconnect.com/registry/apps",
         permanent: true
       },
       {
         source: "/apps",
-        destination: "https://walletconnect.com/registry",
+        destination: "https://walletconnect.com/registry/apps",
         permanent: true
       }
+      {
+        source: "/wallets",
+        destination: "https://walletconnect.com/registry/wallets",
+        permanent: true
+      },
+     
     ]
   },
   images: {
