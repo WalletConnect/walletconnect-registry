@@ -30,23 +30,21 @@ module.exports = {
       {
         source: "/",
         destination: "https://walletconnect.com/registry/apps",
-        permanent: true
+        permanent: true,
       },
       {
         source: "/apps",
         destination: "https://walletconnect.com/registry/apps",
-        permanent: true
-      }
+        permanent: true,
+      },
       {
         source: "/wallets",
         destination: "https://walletconnect.com/registry/wallets",
-        permanent: true
+        permanent: true,
       },
-     
-    ]
+    ];
   },
   images: {
     domains: ["walletconnect.org", "github.com"],
   },
-
 };
