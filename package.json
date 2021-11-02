@@ -25,7 +25,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-query": "^3.12.2",
-    "sharp": "0.27.2"
+    "sharp": "^0.29.2"
   },
   "devDependencies": {
     "@tailwindcss/ui": "^0.7.2",

@@ -44,7 +44,7 @@ function validateEntry(entry) {
   if (typeof entry.name === "undefined" || !entry.name.trim()) {
     throw new Error("Missing required field: name");
   }
-  if (typeof entry.description === "undefined" || !entry.description.trim()) {
+  if (typeof entry.description === "undefined") {
     throw new Error("Missing required field: description");
   }
   if (typeof entry.homepage === "undefined" || !entry.homepage.trim()) {
