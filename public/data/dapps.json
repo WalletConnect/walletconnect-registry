@@ -4129,5 +4129,40 @@
         "secondary": ""
       }
     }
+  },
+  "5726877b12fe2b16b4491624a920d481d4e31ddd39663c456ee195342e2f694c": {
+    "id": "5726877b12fe2b16b4491624a920d481d4e31ddd39663c456ee195342e2f694c",
+    "name": "Punk Finance",
+    "description": "",
+    "homepage": "https://punk.finance",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.punk.finance",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
