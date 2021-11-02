@@ -2968,5 +2968,40 @@
         "secondary": ""
       }
     }
+  },
+  "fc65284c7e407387d732fbfe5d57ed378a89db28c3559ada079f9097d43d2575": {
+    "id": "fc65284c7e407387d732fbfe5d57ed378a89db28c3559ada079f9097d43d2575",
+    "name": "Anybit",
+    "description": "",
+    "homepage": "https://anybit.io",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://www.anybit.io/#/download_ios",
+      "android": "https://anybit-1254113200.cos.ap-shanghai.myqcloud.com/release/anybit-3.0.2.apk",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
