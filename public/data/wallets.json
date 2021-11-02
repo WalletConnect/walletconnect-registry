@@ -2933,5 +2933,40 @@
         "secondary": ""
       }
     }
+  },
+  "96bf9b7141215037f4a9f567ce536b1eb2836fb71cc67c07ba73f3c3eadc53d6": {
+    "id": "96bf9b7141215037f4a9f567ce536b1eb2836fb71cc67c07ba73f3c3eadc53d6",
+    "name": "Bull App",
+    "description": "",
+    "homepage": "https://getbull.app/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/id1558608737",
+      "android": "https://play.google.com/store/apps/details?id=crypto.wallet.chainapp",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
