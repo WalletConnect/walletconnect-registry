@@ -3884,5 +3884,40 @@
         "secondary": ""
       }
     }
+  },
+  "aeaad5749e22fd5c7fdb29251af22a04b3d23b6770769e5e8d81a77a4b666287": {
+    "id": "aeaad5749e22fd5c7fdb29251af22a04b3d23b6770769e5e8d81a77a4b666287",
+    "name": "B.Protocol",
+    "description": "",
+    "homepage": "https://bprotocol.org",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.bprotocol.org",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
