@@ -3003,5 +3003,40 @@
         "secondary": ""
       }
     }
+  },
+  "ddc09197f1b87a19f5f40e842a6a502cc64bde8a1d7c03073182f2f23f021398": {
+    "id": "ddc09197f1b87a19f5f40e842a6a502cc64bde8a1d7c03073182f2f23f021398",
+    "name": "Bitpie",
+    "description": "",
+    "homepage": "https://bitpiehk.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://bitpiehk.com/ios",
+      "android": "https://bitpiehk.com/android",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
