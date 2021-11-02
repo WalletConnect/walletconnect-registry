@@ -7,7 +7,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://etherscan.io/",
       "ios": "",
@@ -40,7 +42,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://uniswap.exchange/",
       "ios": "",
@@ -73,7 +77,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://binance.org/",
       "ios": "",
@@ -106,7 +112,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://opensea.io/",
       "ios": "",
@@ -139,7 +147,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://compound.finance/",
       "ios": "",
@@ -172,7 +182,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://zapper.fi/",
       "ios": "",
@@ -205,7 +217,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.aave.com/",
       "ios": "",
@@ -238,7 +252,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://beta.zerion.io/",
       "ios": "",
@@ -271,7 +287,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://localcryptos.com/",
       "ios": "",
@@ -304,7 +322,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://debank.com/",
       "ios": "",
@@ -337,7 +357,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://unstoppabledomains.com/manager",
       "ios": "",
@@ -370,7 +392,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.rarible.com/#/connect",
       "ios": "",
@@ -403,7 +427,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://1inch.exchange/",
       "ios": "",
@@ -436,7 +462,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://yearn.finance/",
       "ios": "",
@@ -469,7 +497,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://nash.io/",
       "ios": "",
@@ -502,7 +532,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://curve.fi",
       "ios": "",
@@ -535,7 +567,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://staking.adex.network/",
       "ios": "",
@@ -568,7 +602,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://dydx.exchange/",
       "ios": "",
@@ -601,7 +637,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://mycrypto.com/",
       "ios": "",
@@ -634,7 +672,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://oasis.app/dashboard",
       "ios": "",
@@ -667,7 +707,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://tokensets.com/",
       "ios": "",
@@ -700,7 +742,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.mantradao.com/",
       "ios": "",
@@ -733,7 +777,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://matcha.xyz",
       "ios": "",
@@ -766,7 +812,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://kyberswap.com/",
       "ios": "",
@@ -799,7 +847,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://portfolio.defiprime.com/",
       "ios": "",
@@ -832,7 +882,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://exchange.loopring.io",
       "ios": "",
@@ -865,7 +917,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://instadapp.io/dashboard/",
       "ios": "",
@@ -898,7 +952,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://wallet.matic.network/login",
       "ios": "",
@@ -931,7 +987,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://3box.io/login",
       "ios": "",
@@ -964,7 +1022,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://ddex.io/",
       "ios": "",
@@ -997,7 +1057,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://swap.totle.com/",
       "ios": "",
@@ -1030,7 +1092,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://bamboorelay.com/",
       "ios": "",
@@ -1063,7 +1127,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://synthetix.exchange/",
       "ios": "",
@@ -1096,7 +1162,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://dex.blue/trading/",
       "ios": "",
@@ -1129,7 +1197,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.pooltogether.com/",
       "ios": "",
@@ -1162,7 +1232,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://sablier.finance/",
       "ios": "",
@@ -1195,7 +1267,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://dex.ag/",
       "ios": "",
@@ -1228,7 +1302,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.ens.domains/",
       "ios": "",
@@ -1261,7 +1337,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://gnosis-safe.io/app/",
       "ios": "",
@@ -1294,7 +1372,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://idle.finance/",
       "ios": "",
@@ -1327,7 +1407,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://iearn.finance/",
       "ios": "",
@@ -1360,7 +1442,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://rcn.market/",
       "ios": "",
@@ -1393,7 +1477,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://hegic.co/",
       "ios": "",
@@ -1426,7 +1512,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://kickback.events/",
       "ios": "",
@@ -1459,7 +1547,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://88mph.app/",
       "ios": "",
@@ -1492,7 +1582,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.mooni.tech",
       "ios": "",
@@ -1525,7 +1617,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://clovers.network/",
       "ios": "",
@@ -1558,7 +1652,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://mintbase.io/",
       "ios": "",
@@ -1591,7 +1687,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://alchemy.daostack.io/",
       "ios": "",
@@ -1624,7 +1722,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://knownorigin.io/",
       "ios": "",
@@ -1657,7 +1757,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://myetherwallet.com/",
       "ios": "",
@@ -1690,7 +1792,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://affogato.co/",
       "ios": "",
@@ -1723,7 +1827,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://stablepay.io/dashboard",
       "ios": "",
@@ -1756,7 +1862,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://defisaver.com/",
       "ios": "",
@@ -1789,7 +1897,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://thorchain.org/",
       "ios": "",
@@ -1822,7 +1932,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://bulksender.app/",
       "ios": "",
@@ -1855,7 +1967,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://betoken.fund/",
       "ios": "",
@@ -1888,7 +2002,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://linkdrop.io/",
       "ios": "",
@@ -1921,7 +2037,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://heliowallet.com/",
       "ios": "",
@@ -1954,7 +2072,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://escaroo.com/",
       "ios": "",
@@ -1987,7 +2107,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://tokenmarket.net/",
       "ios": "",
@@ -2020,7 +2142,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://mesa.eth.link/",
       "ios": "",
@@ -2053,7 +2177,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://mcdex.io",
       "ios": "",
@@ -2086,7 +2212,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://furucombo.app/",
       "ios": "",
@@ -2119,7 +2247,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://melon.avantgarde.finance/",
       "ios": "",
@@ -2152,7 +2282,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://chainsfr.com",
       "ios": "",
@@ -2185,7 +2317,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "http://aka3.net",
       "ios": "",
@@ -2218,7 +2352,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://2key.network/",
       "ios": "",
@@ -2251,7 +2387,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://pitchinvestorslive.com/",
       "ios": "",
@@ -2284,7 +2422,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://sushiswap.fi/",
       "ios": "",
@@ -2317,7 +2457,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://unagii.com/",
       "ios": "",
@@ -2350,7 +2492,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://cream.finance/",
       "ios": "",
@@ -2383,7 +2527,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://zksync.io/",
       "ios": "",
@@ -2416,7 +2562,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://shells.exchange/",
       "ios": "",
@@ -2449,7 +2597,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://indexcoop.com/",
       "ios": "",
@@ -2482,7 +2632,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.swapx.org/",
       "ios": "",
@@ -2515,7 +2667,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.starname.me/",
       "ios": "",
@@ -2548,7 +2702,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://space.storage/",
       "ios": "",
@@ -2581,7 +2737,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://mask.io/",
       "ios": "",
@@ -2614,7 +2772,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://snapshot.page/",
       "ios": "",
@@ -2647,7 +2807,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://invoice.build/",
       "ios": "",
@@ -2680,7 +2842,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://ankr.com/",
       "ios": "",
@@ -2713,7 +2877,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.dodoex.io/",
       "ios": "",
@@ -2746,7 +2912,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://zlot.finance/",
       "ios": "",
@@ -2779,7 +2947,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://tokamak.network/",
       "ios": "",
@@ -2812,7 +2982,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://portal.actus-protocol.io/",
       "ios": "",
@@ -2845,7 +3017,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://astrotools.io/",
       "ios": "",
@@ -2878,7 +3052,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://rubic.exchange/",
       "ios": "",
@@ -2911,7 +3087,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://harvest.finance/",
       "ios": "",
@@ -2944,7 +3122,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://octo.fi/",
       "ios": "",
@@ -2977,7 +3157,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://mushrooms.finance/",
       "ios": "",
@@ -3010,7 +3192,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://bitfrost.finance/",
       "ios": "",
@@ -3043,7 +3227,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://account.orchid.com/",
       "ios": "",
@@ -3076,7 +3262,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://stake.lido.fi/",
       "ios": "",
@@ -3109,7 +3297,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://datamine.network/",
       "ios": "",
@@ -3142,7 +3332,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://streamr.network/",
       "ios": "",
@@ -3175,7 +3367,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://dappradar.com/hub/wallet",
       "ios": "",
@@ -3208,7 +3402,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://superrare.co/",
       "ios": "",
@@ -3241,7 +3437,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://portal.arbitrum.io/",
       "ios": "",
@@ -3274,7 +3472,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://paraswap.io/",
       "ios": "",
@@ -3307,7 +3507,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://honeyswap.org/",
       "ios": "",
@@ -3340,7 +3542,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://fleek.co/",
       "ios": "",
@@ -3373,7 +3577,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.definer.org/",
       "ios": "",
@@ -3406,7 +3612,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.proofofhumanity.id/",
       "ios": "",
@@ -3439,7 +3647,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://explorer.livepeer.org",
       "ios": "",
@@ -3472,7 +3682,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://swapzone.io/",
       "ios": "",
@@ -3505,7 +3717,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://stake.axion.network",
       "ios": "",
@@ -3538,7 +3752,9 @@
     "chains": [
       "eip155:137"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.plotx.io",
       "ios": "",
@@ -3572,7 +3788,9 @@
       "eip155:1",
       "eip155:56"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.daolaunch.net",
       "ios": "",
@@ -3605,11 +3823,48 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/mooncat-world/id1565672505",
       "android": "https://play.google.com/store/apps/details?id=com.jackpottechnologies.mooncatworld",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
+  "4408aab9112b401fabc0605be6fec8ade8519680fa40ed8b6e13f7a32d31cdba": {
+    "id": "4408aab9112b401fabc0605be6fec8ade8519680fa40ed8b6e13f7a32d31cdba",
+    "name": "Mulan Finance",
+    "description": "",
+    "homepage": "https://mulandefi.finance/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://mulandefi.finance/",
+      "ios": "",
+      "android": "",
       "mac": "",
       "windows": "",
       "linux": ""
