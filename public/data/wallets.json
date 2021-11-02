@@ -3108,5 +3108,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "76745388a50e6fea982c4dee2a3ad61a8aa417668be870754689caa8a7506c93": {
+    "id": "76745388a50e6fea982c4dee2a3ad61a8aa417668be870754689caa8a7506c93",
+    "name": "Tangem",
+    "description": "",
+    "homepage": "https://tangem.com",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/uz/app/tangem/id1354868448",
+      "android": "https://play.google.com/store/apps/details?id=com.tangem.wallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "tangem:",
+      "universal": "https://app.tangem.com"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Tangem",
+      "colors": {
+        "primary": "#FFF",
+        "secondary": "#000"
+      }
+    }
   }
 }
