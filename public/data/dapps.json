@@ -4024,5 +4024,40 @@
         "secondary": ""
       }
     }
+  },
+  "417d83b614dd10de664107873ca2c2a65c62f2e699113dc005790f6a84c42cae": {
+    "id": "417d83b614dd10de664107873ca2c2a65c62f2e699113dc005790f6a84c42cae",
+    "name": "Twinci",
+    "description": "",
+    "homepage": "https://twinci.io",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.twinci.io",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
