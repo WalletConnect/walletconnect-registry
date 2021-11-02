@@ -3094,11 +3094,11 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
+      "native": "archipage:",
       "universal": ""
     },
     "desktop": {
-      "native": "archipage:",
+      "native": "",
       "universal": ""
     },
     "metadata": {
