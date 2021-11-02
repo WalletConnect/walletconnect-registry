@@ -3038,5 +3038,40 @@
         "secondary": ""
       }
     }
+  },
+  "dea4ab675289353a508956c4f821bc4e9141d9f99a5d244ae7af92b4d575db6d": {
+    "id": "dea4ab675289353a508956c4f821bc4e9141d9f99a5d244ae7af92b4d575db6d",
+    "name": "Minerva Wallet",
+    "description": "",
+    "homepage": "https://minerva.digital/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=digital.minerva",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Minerva",
+      "colors": {
+        "primary": "#443ad2",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
