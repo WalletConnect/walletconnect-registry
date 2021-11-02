@@ -4059,5 +4059,40 @@
         "secondary": ""
       }
     }
+  },
+  "e428e92b4f14f7bf5929881f8d4bf92f5dc29a41553a5c4016db32d52b0ae150": {
+    "id": "e428e92b4f14f7bf5929881f8d4bf92f5dc29a41553a5c4016db32d52b0ae150",
+    "name": "Moonkat",
+    "description": "",
+    "homepage": "https://moonkat.net/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://moonkat.net/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
