@@ -6,9 +6,13 @@ module.exports = {
   // REQUIRED
   name: "WalletConnect",
   // REQUIRED
+  description: "Open protocol to connect wallets to dapps",
+  // REQUIRED
   homepage: "https://walletconnect.org",
   // REQUIRED
   chains: ["eip155:1"],
+  // REQUIRED
+  versions: ["1"],
   // REQUIRED (at least one)
   app: {
     browser: "https://example.walletconnect.org",

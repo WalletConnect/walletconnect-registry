@@ -44,11 +44,17 @@ function validateEntry(entry) {
   if (typeof entry.name === "undefined" || !entry.name.trim()) {
     throw new Error("Missing required field: name");
   }
+  if (typeof entry.description === "undefined" || !entry.description.trim()) {
+    throw new Error("Missing required field: description");
+  }
   if (typeof entry.homepage === "undefined" || !entry.homepage.trim()) {
     throw new Error("Missing required field: homepage");
   }
   if (typeof entry.chains === "undefined" || !entry.chains.length) {
     throw new Error("Missing required field: chains");
+  }
+  if (typeof entry.versions === "undefined" || !entry.versions.length) {
+    throw new Error("Missing required field: versions");
   }
   if (typeof entry.app === "undefined" || !Object.values(entry.app).length) {
     throw new Error("Missing required field: app");

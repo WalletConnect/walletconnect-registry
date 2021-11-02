@@ -21,8 +21,10 @@ const VALID_FORMATS = ["jpeg", "jpg", "png"];
 const EMPTY_ENTRY = {
   id: "",
   name: "",
+  description: "",
   homepage: "",
   chains: [],
+  versions: [],
   app: {
     browser: "",
     ios: "",
