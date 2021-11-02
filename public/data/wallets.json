@@ -3073,5 +3073,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "8db861466b91fbfe382fbbc55eb5209d38d2c91fcb3fe03ab622bf6dcb5885bc": {
+    "id": "8db861466b91fbfe382fbbc55eb5209d38d2c91fcb3fe03ab622bf6dcb5885bc",
+    "name": "ArchiPage",
+    "description": "",
+    "homepage": "https://criptoarchi.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=com.archipage",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "archipage:",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "ArchiPage",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
