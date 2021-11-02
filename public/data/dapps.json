@@ -4164,5 +4164,40 @@
         "secondary": ""
       }
     }
+  },
+  "d73c705f5aef95a1914afce5310faf4660f0354e8a5a7e3cc420ae4a0daa89eb": {
+    "id": "d73c705f5aef95a1914afce5310faf4660f0354e8a5a7e3cc420ae4a0daa89eb",
+    "name": "GhostMarket",
+    "description": "",
+    "homepage": "https://ghostmarket.io",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://ghostmarket.io",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
