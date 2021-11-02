@@ -3919,5 +3919,40 @@
         "secondary": ""
       }
     }
+  },
+  "7b5ccbe00139bb41c0a087716420b68354db3daf4b6a58bcffd64baf38e5bd87": {
+    "id": "7b5ccbe00139bb41c0a087716420b68354db3daf4b6a58bcffd64baf38e5bd87",
+    "name": "Flexa",
+    "description": "",
+    "homepage": "https://flexa.network/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.flexa.network/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
