@@ -3954,5 +3954,40 @@
         "secondary": ""
       }
     }
+  },
+  "a7fd043435006b030302ed050bf85a793e575930f3faa7a6130f1be369bfe206": {
+    "id": "a7fd043435006b030302ed050bf85a793e575930f3faa7a6130f1be369bfe206",
+    "name": "PancakeSwap",
+    "description": "",
+    "homepage": "https://pancakeswap.finance/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://pancakeswap.finance/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
