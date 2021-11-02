@@ -3989,5 +3989,40 @@
         "secondary": ""
       }
     }
+  },
+  "8db861466b91fbfe382fbbc55eb5209d38d2c91fcb3fe03ab622bf6dcb5885bc": {
+    "id": "8db861466b91fbfe382fbbc55eb5209d38d2c91fcb3fe03ab622bf6dcb5885bc",
+    "name": "Cripto Archi Finance",
+    "description": "",
+    "homepage": "https://criptoarchi.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://criptoarchi.finance/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
