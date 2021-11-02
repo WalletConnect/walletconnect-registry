@@ -4094,5 +4094,40 @@
         "secondary": ""
       }
     }
+  },
+  "0e595419de85c18fb413dd06196d0119513e1c4907ca4dc8240af35002cac8bf": {
+    "id": "0e595419de85c18fb413dd06196d0119513e1c4907ca4dc8240af35002cac8bf",
+    "name": "Himegami Protocol",
+    "description": "",
+    "homepage": "https://himegamiprotocol.org/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://himegamiprotocol.org/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
