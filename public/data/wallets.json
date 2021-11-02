@@ -7,7 +7,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/rainbow-ethereum-wallet/id1457119021",
@@ -40,7 +42,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/apple-store/id1288339409",
@@ -73,7 +77,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/argent/id1358741926",
@@ -106,7 +112,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/metamask/id1438144202",
@@ -139,7 +147,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://gnosis-safe.io/app/",
       "ios": "https://apps.apple.com/app/id1515759131",
@@ -172,7 +182,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/id1262148500",
@@ -205,7 +217,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/apple-store/id1346582238",
@@ -238,7 +252,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/us/app/imtoken2/id1384798940",
@@ -271,7 +287,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/onto-an-ontology-dapp/id1436009823",
@@ -304,7 +322,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/tokenpocket-trusted-wallet/id1436028697",
@@ -337,7 +357,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/math-wallet-blockchain-wallet/id1383637331",
@@ -370,7 +392,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/bitpay-buy-crypto/id1149581638",
@@ -403,7 +427,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/app/id1361671700",
@@ -442,7 +468,9 @@
       "eip155:10",
       "eip155:77"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -475,7 +503,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://authereum.com/i/account",
       "ios": "",
@@ -508,7 +538,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/dharma-save-send-globally/id1495144415",
@@ -542,7 +574,9 @@
       "eip155:1",
       "eip155:56"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/1inch-defi-wallet/id1546049391",
@@ -575,7 +609,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/id1433883012",
@@ -608,7 +644,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/app/apple-store/id1279896253",
@@ -641,7 +679,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/app/id1458318224",
@@ -674,7 +714,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/loopring-smart-wallet/id1550921126",
@@ -707,7 +749,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/apple-store/id1455959680",
@@ -740,7 +784,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/atomic-wallet/id1478257827",
@@ -773,7 +819,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://ios.coin98.app/",
@@ -806,7 +854,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/us/app/coolwallet-s-2018/id1328764142",
@@ -839,7 +889,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/au/app/alice-browser/id1472818028",
@@ -872,7 +924,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/alphawallet-eth-wallet/id1358230430",
@@ -908,7 +962,9 @@
       "eip155:137",
       "eip155:30"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/dcent-hardware-wallet/id1447206611",
@@ -941,7 +997,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/zelcore/id1436296839",
@@ -974,7 +1032,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/nash-app/id1475759236",
@@ -1007,7 +1067,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/app/coinomi-wallet/id1333588809",
@@ -1040,7 +1102,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -1073,7 +1137,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/tw/app/cybavo-wallet/id1510697681",
@@ -1106,7 +1172,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/tokenary-ethereum-wallet/id1372886601",
@@ -1139,7 +1207,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://app.tor.us/",
       "ios": "",
@@ -1172,7 +1242,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/spatium/id1404844195",
@@ -1205,7 +1277,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/safepal-wallet/id1548297139",
@@ -1238,7 +1312,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/infinito-wallet/id1315572736",
@@ -1271,7 +1347,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/vn/app/wallet-io/id1459857368",
@@ -1306,7 +1384,9 @@
       "eip155:56",
       "eip155:137"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -1339,7 +1419,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/es/app/ownbit-btc-eth-cold-wallet/id1321798216",
@@ -1372,7 +1454,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/id1517338927",
@@ -1405,7 +1489,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/bridge-wallet/id1481859680",
@@ -1438,7 +1524,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -1471,7 +1559,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/us/app/viawallet/id1462031389",
@@ -1504,7 +1594,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/app/bitkeep/id1395301115",
@@ -1537,7 +1629,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/id1500186931",
@@ -1570,7 +1664,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/peakdefi-wallet/id1526193527",
@@ -1604,7 +1700,9 @@
       "eip155:1",
       "eip155:56"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/apple-store/id1447619907",
@@ -1637,7 +1735,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -1670,7 +1770,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/il/app/dokwallet-crypto-wallet/id1533065700",
@@ -1703,7 +1805,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/at-wallet/id1479171310",
@@ -1736,7 +1840,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/us/app/midas-protocol-crypto-wallet/id1436698193",
@@ -1769,7 +1875,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/ellipal/id1426179665",
@@ -1802,7 +1910,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/keyring-pro-wallet-management/id1546824976",
@@ -1835,7 +1945,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/ch/app/aktionariat/id1518326813",
@@ -1868,7 +1980,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/talken/id1459475831",
@@ -1901,7 +2015,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://xinfin.network/",
       "ios": "",
@@ -1934,7 +2050,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/flare-wallet/id1496651406",
@@ -1967,7 +2085,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://kyberswap.com/",
       "ios": "",
@@ -2000,7 +2120,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/atoken-app/id1395835245",
@@ -2033,7 +2155,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/fr/app/tongue-wallet-for-defi-degens/id1534705854",
@@ -2066,7 +2190,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/rwallet/id1489241342",
@@ -2099,7 +2225,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/id1461735396",
@@ -2132,7 +2260,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://itunes.apple.com/app/id1528451572",
@@ -2165,7 +2295,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/hashkey-me/id1547228803",
@@ -2198,7 +2330,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/jade-wallet-bitcoin-defi/id1544207492",
@@ -2231,7 +2365,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/apple-store/id1442083982?mt=8",
@@ -2267,7 +2403,9 @@
       "eip155:30",
       "eip155:31"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -2300,7 +2438,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/trustee-wallet-bitcoin-wallet/id1462924276",
@@ -2333,7 +2473,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/apple-store/id1367339746",
@@ -2366,7 +2508,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/cmorq/id1530022030",
@@ -2399,7 +2543,9 @@
     "chains": [
       "eip155:42220"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/id1520414263",
@@ -2432,7 +2578,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/quiverx/id1558993212",
@@ -2465,7 +2613,9 @@
     "chains": [
       "eip155:42220"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://celowallet.app/",
       "ios": "",
@@ -2502,7 +2652,9 @@
       "eip155:137",
       "eip155:42161"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "",
@@ -2536,7 +2688,9 @@
       "eip155:20",
       "eip155:21"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/elastos-essentials/id1568931743",
@@ -2569,7 +2723,9 @@
     "chains": [
       "eip155:122"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/fuse-cash/id1559937899",
@@ -2602,7 +2758,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/bitpie-wallet/id1481314229",
@@ -2635,7 +2793,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://chrome.google.com/webstore/detail/empty-title/acmacodkjbdgmoleebolmdjonilkdbch",
       "ios": "",
@@ -2668,7 +2828,9 @@
     "chains": [
       "eip155:1"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/app/stasis-wallet/id1371949230",
@@ -2710,7 +2872,9 @@
       "eip155:137",
       "eip155:250"
     ],
-    "versions": ["1"],
+    "versions": [
+      "1"
+    ],
     "app": {
       "browser": "https://chrome.google.com/webstore/detail/julwallet/fgkldlaelopgncepgpncndebgdddikii?hl=en-US",
       "ios": "https://apps.apple.com/app/julwallet/id1555914591",
@@ -2732,6 +2896,41 @@
       "colors": {
         "primary": "#c84ce4",
         "secondary": "#3f00ff"
+      }
+    }
+  },
+  "2f010ad2b0777998e950b5d72969e3b6a7090f0dde59b509ce9a41a5d1b2f9f4": {
+    "id": "2f010ad2b0777998e950b5d72969e3b6a7090f0dde59b509ce9a41a5d1b2f9f4",
+    "name": "f(x) Wallet",
+    "description": "",
+    "homepage": "https://functionx.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/f-x-wallet-by-pundi-x-labs/id1504798360",
+      "android": "https://play.google.com/store/apps/details?id=com.pundix.functionx",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
       }
     }
   }
