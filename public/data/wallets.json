@@ -3479,5 +3479,40 @@
         "secondary": ""
       }
     }
+  },
+  "0c72ae93696df557d174b7a9616fb4f9128e4476cbaa7afc7788d5c7c935de40": {
+    "id": "0c72ae93696df557d174b7a9616fb4f9128e4476cbaa7afc7788d5c7c935de40",
+    "name": "Steakwallet",
+    "description": "",
+    "homepage": "https://steakwallet.fi",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/steakwallet/id1569375204",
+      "android": "https://play.google.com/store/apps/details?id=fi.steakwallet.app",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "steakwallet:",
+      "universal": "https://steakwallet.fi"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Steakwallet",
+      "colors": {
+        "primary": "#EF8784",
+        "secondary": "#8AFC6E"
+      }
+    }
   }
 }
