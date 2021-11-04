@@ -3304,5 +3304,40 @@
         "secondary": ""
       }
     }
+  },
+  "addb6cfece8fe6d2e7039baf5b2ba3249da48957b08bcc877a2e32eaffa6e7aa": {
+    "id": "addb6cfece8fe6d2e7039baf5b2ba3249da48957b08bcc877a2e32eaffa6e7aa",
+    "name": "Wallet 3",
+    "description": "",
+    "homepage": "https://wallet3.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "",
+      "mac": "https://wallet3.io/",
+      "windows": "https://wallet3.io/",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "wallet3:",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Wallet 3",
+      "colors": {
+        "primary": "#6186ff",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
