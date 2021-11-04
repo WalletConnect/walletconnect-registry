@@ -25,6 +25,25 @@ module.exports = {
       },
     ];
   },
+  async redirects() {
+    return [
+      {
+        source: "/",
+        destination: "https://walletconnect.com/registry/apps",
+        permanent: true,
+      },
+      {
+        source: "/apps",
+        destination: "https://walletconnect.com/registry/apps",
+        permanent: true,
+      },
+      {
+        source: "/wallets",
+        destination: "https://walletconnect.com/registry/wallets",
+        permanent: true,
+      },
+    ];
+  },
   images: {
     domains: ["walletconnect.org", "github.com"],
   },

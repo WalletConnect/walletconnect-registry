@@ -2,8 +2,10 @@ declare module "@walletconnect/registry" {
   export interface AppEntry {
     id: string;
     name: string;
+    description: string;
     homepage: string;
     chains: string[];
+    versions: string[];
     app: {
       browser: string;
       ios: string;

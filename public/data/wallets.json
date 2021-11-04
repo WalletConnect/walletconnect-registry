@@ -2,9 +2,13 @@
   "1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369": {
     "id": "1ae92b26df02f0abca6304df07debccd18262fdf5fe82daa81593582dac9a369",
     "name": "Rainbow",
+    "description": "",
     "homepage": "https://rainbow.me/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -33,9 +37,13 @@
   "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0": {
     "id": "4622a2b2d6af1c9844944291e5e7351a6aa24cd7b23099efac1b2fd875da31a0",
     "name": "Trust Wallet",
+    "description": "",
     "homepage": "https://trustwallet.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -64,9 +72,13 @@
   "cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46": {
     "id": "cf21952a9bc8108bf13b12c92443751e2cc388d27008be4201b92bbc6d83dd46",
     "name": "Argent",
+    "description": "",
     "homepage": "https://argent.xyz/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -95,9 +107,13 @@
   "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96": {
     "id": "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96",
     "name": "MetaMask",
+    "description": "",
     "homepage": "https://metamask.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -126,9 +142,13 @@
   "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f": {
     "id": "a5cfbd9a263c9dcfb59d6e9dc00933c46f00277ed78a6a0a1e38b0c17e09671f",
     "name": "Gnosis Safe Multisig",
+    "description": "",
     "homepage": "https://gnosis-safe.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://gnosis-safe.io/app/",
@@ -157,9 +177,13 @@
   "f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d": {
     "id": "f2436c67184f158d1beda5df53298ee84abfc367581e4505134b5bcf5f46697d",
     "name": "Crypto.com | DeFi Wallet",
+    "description": "",
     "homepage": "https://crypto.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -188,9 +212,13 @@
   "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c": {
     "id": "0b58bf037bf943e934706796fb017d59eace1dadcbc1d9fe24d9b46629e5985c",
     "name": "Pillar",
+    "description": "",
     "homepage": "https://pillarproject.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -219,9 +247,13 @@
   "9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2": {
     "id": "9d373b43ad4d2cf190fb1a774ec964a1addf406d6fd24af94ab7596e58c291b2",
     "name": "imToken",
+    "description": "",
     "homepage": "https://token.im/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -250,9 +282,13 @@
   "dceb063851b1833cbb209e3717a0a0b06bf3fb500fe9db8cd3a553e4b1d02137": {
     "id": "dceb063851b1833cbb209e3717a0a0b06bf3fb500fe9db8cd3a553e4b1d02137",
     "name": "ONTO",
+    "description": "",
     "homepage": "https://onto.app/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -281,9 +317,13 @@
   "20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66": {
     "id": "20459438007b75f4f4acb98bf29aa3b800550309646d375da5fd4aac6c2a2c66",
     "name": "TokenPocket",
+    "description": "",
     "homepage": "https://tokenpocket.pro/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -312,9 +352,13 @@
   "7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26": {
     "id": "7674bb4e353bf52886768a3ddc2a4562ce2f4191c80831291218ebd90f5f5e26",
     "name": "MathWallet",
+    "description": "",
     "homepage": "https://mathwallet.org/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -343,9 +387,13 @@
   "ccb714920401f7d008dbe11281ae70e3a4bfb621763b187b9e4a3ce1ab8faa3b": {
     "id": "ccb714920401f7d008dbe11281ae70e3a4bfb621763b187b9e4a3ce1ab8faa3b",
     "name": "BitPay",
+    "description": "",
     "homepage": "https://bitpay.com",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -374,9 +422,13 @@
   "4ab2542c2799c825a8465ba5ab8aa7def52b7904f38b74484af917ed9c0fc4e5": {
     "id": "4ab2542c2799c825a8465ba5ab8aa7def52b7904f38b74484af917ed9c0fc4e5",
     "name": "Ledger Live",
+    "description": "",
     "homepage": "https://www.ledger.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -405,6 +457,7 @@
   "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168": {
     "id": "83f26999937cbc2e2014655796da4b05f77c1de9413a0ee6d0c6178ebcfc3168",
     "name": "WallETH",
+    "description": "",
     "homepage": "https://walleth.org/",
     "chains": [
       "eip155:1",
@@ -414,6 +467,9 @@
       "eip155:5",
       "eip155:10",
       "eip155:77"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -442,9 +498,13 @@
   "71dad538ba02a9b321041d388f9c1efe14e0d1915a2ea80a90405d2f6b67a33d": {
     "id": "71dad538ba02a9b321041d388f9c1efe14e0d1915a2ea80a90405d2f6b67a33d",
     "name": "Authereum",
+    "description": "",
     "homepage": "https://authereum.org",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://authereum.com/i/account",
@@ -473,9 +533,13 @@
   "9dab7bd72148e2f796452630230666daf507935fae7bb9baf22b3c11960b034f": {
     "id": "9dab7bd72148e2f796452630230666daf507935fae7bb9baf22b3c11960b034f",
     "name": "Dharma",
+    "description": "",
     "homepage": "https://www.dharma.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -504,10 +568,14 @@
   "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890": {
     "id": "09102e7bbbd3f92001eda104abe23803181629f695e8f1b95af96d88ff7d5890",
     "name": "1inch Wallet",
+    "description": "",
     "homepage": "https://1inch.io/wallet/",
     "chains": [
       "eip155:1",
       "eip155:56"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -536,9 +604,13 @@
   "bae74827272509a6d63ea25514d9c68ad235c14e45e183518c7ded4572a1b0c4": {
     "id": "bae74827272509a6d63ea25514d9c68ad235c14e45e183518c7ded4572a1b0c4",
     "name": "Huobi Wallet",
+    "description": "",
     "homepage": "https://huobiwallet.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -567,9 +639,13 @@
   "efba9ae0a9e0fdd9e3e055ddf3c8e75f294babb8aea3499456eff27f771fda61": {
     "id": "efba9ae0a9e0fdd9e3e055ddf3c8e75f294babb8aea3499456eff27f771fda61",
     "name": "Eidoo",
+    "description": "",
     "homepage": "https://eidoo.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -598,9 +674,13 @@
   "61f6e716826ae8455ad16abc5ec31e4fd5d6d2675f0ce2dee3336335431f720e": {
     "id": "61f6e716826ae8455ad16abc5ec31e4fd5d6d2675f0ce2dee3336335431f720e",
     "name": "MYKEY",
+    "description": "",
     "homepage": "https://mykey.org",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -629,9 +709,13 @@
   "dcf291a025ead3e94ef694fa75617568daf76bf1e525bb240ecf5bf1add53756": {
     "id": "dcf291a025ead3e94ef694fa75617568daf76bf1e525bb240ecf5bf1add53756",
     "name": "Loopring Wallet",
+    "description": "",
     "homepage": "https://loopring.io",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -660,9 +744,13 @@
   "6bb4596640ce9f8c02fbaa83e3685425455a0917d025608b4abc53bfe55887c6": {
     "id": "6bb4596640ce9f8c02fbaa83e3685425455a0917d025608b4abc53bfe55887c6",
     "name": "TrustVault",
+    "description": "",
     "homepage": "https://trustology.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -691,9 +779,13 @@
   "185850e869e40f4e6c59b5b3f60b7e63a72e88b09e2a43a40b1fd0f237e49e9a": {
     "id": "185850e869e40f4e6c59b5b3f60b7e63a72e88b09e2a43a40b1fd0f237e49e9a",
     "name": "Atomic",
+    "description": "",
     "homepage": "https://atomicwallet.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -722,9 +814,13 @@
   "b021913ba555948a1c81eb3d89b372be46f8354e926679de648e4fa2938bed3e": {
     "id": "b021913ba555948a1c81eb3d89b372be46f8354e926679de648e4fa2938bed3e",
     "name": "Coin98",
+    "description": "",
     "homepage": "https://coin98.app/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -753,9 +849,13 @@
   "1f69170bf7a9bdcf89403ec012659b7124e158f925cdd4a2be49274c24cf5e5d": {
     "id": "1f69170bf7a9bdcf89403ec012659b7124e158f925cdd4a2be49274c24cf5e5d",
     "name": "CoolWallet S",
+    "description": "",
     "homepage": "https://coolwallet.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -784,9 +884,13 @@
   "beea4e71c2ffbb48b59b21e33fb0049ef6522585aa9c8a33a97d3e1c81f16693": {
     "id": "beea4e71c2ffbb48b59b21e33fb0049ef6522585aa9c8a33a97d3e1c81f16693",
     "name": "Alice",
+    "description": "",
     "homepage": "https://alicedapp.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -815,9 +919,13 @@
   "138f51c8d00ac7b9ac9d8dc75344d096a7dfe370a568aa167eabc0a21830ed98": {
     "id": "138f51c8d00ac7b9ac9d8dc75344d096a7dfe370a568aa167eabc0a21830ed98",
     "name": "AlphaWallet",
+    "description": "",
     "homepage": "https://alphawallet.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -846,12 +954,16 @@
   "468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63": {
     "id": "468b4ab3582757233017ec10735863489104515ab160c053074905a1eecb7e63",
     "name": "D'CENT Wallet",
+    "description": "",
     "homepage": "https://dcentwallet.com",
     "chains": [
       "eip155:1",
       "eip155:56",
       "eip155:137",
       "eip155:30"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -880,9 +992,13 @@
   "29f4a70ad5993f3f73ae8119f0e78ecbae51deec2a021a770225c644935c0f09": {
     "id": "29f4a70ad5993f3f73ae8119f0e78ecbae51deec2a021a770225c644935c0f09",
     "name": "ZelCore",
+    "description": "",
     "homepage": "https://zel.network",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -911,9 +1027,13 @@
   "8605171a052e85d629c5efe5db804c7a3fb6d0ecc759d6817f0a18cb3dacbb14": {
     "id": "8605171a052e85d629c5efe5db804c7a3fb6d0ecc759d6817f0a18cb3dacbb14",
     "name": "Nash",
+    "description": "",
     "homepage": "https://nash.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -942,9 +1062,13 @@
   "9277bc510b6d95f29be38e7c0e402ae8438262f0f4c6dbb40dfc22f5043e8814": {
     "id": "9277bc510b6d95f29be38e7c0e402ae8438262f0f4c6dbb40dfc22f5043e8814",
     "name": "Coinomi",
+    "description": "",
     "homepage": "https://coinomi.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -973,9 +1097,13 @@
   "6ec1ffc9627c3b9f87676da3f7b5796828a6c016d3253e51e771e6f951cb5702": {
     "id": "6ec1ffc9627c3b9f87676da3f7b5796828a6c016d3253e51e771e6f951cb5702",
     "name": "GridPlus",
+    "description": "",
     "homepage": "https://gridplus.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1004,9 +1132,13 @@
   "a395dbfc92b5519cbd1cc6937a4e79830187daaeb2c6fcdf9b9cce4255f2dcd5": {
     "id": "a395dbfc92b5519cbd1cc6937a4e79830187daaeb2c6fcdf9b9cce4255f2dcd5",
     "name": "CYBAVO Wallet",
+    "description": "",
     "homepage": "https://cybavo.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1035,9 +1167,13 @@
   "c889f5add667a8c69d147d613c7f18a4bd97c2e47c946cabfdd13ec1d596e4a0": {
     "id": "c889f5add667a8c69d147d613c7f18a4bd97c2e47c946cabfdd13ec1d596e4a0",
     "name": "Tokenary",
+    "description": "",
     "homepage": "https://tokenary.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1066,9 +1202,13 @@
   "3f1bc4a8fd72b3665459ec5c99ee51b424f6beeebe46b45f4a70cf08a84cbc50": {
     "id": "3f1bc4a8fd72b3665459ec5c99ee51b424f6beeebe46b45f4a70cf08a84cbc50",
     "name": "Torus",
+    "description": "",
     "homepage": "https://toruswallet.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://app.tor.us/",
@@ -1097,9 +1237,13 @@
   "7b83869f03dc3848866e0299bc630aaf3213bea95cd6cecfbe149389cf457a09": {
     "id": "7b83869f03dc3848866e0299bc630aaf3213bea95cd6cecfbe149389cf457a09",
     "name": "Spatium",
+    "description": "",
     "homepage": "https://spatium.net/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1128,9 +1272,13 @@
   "0b415a746fb9ee99cce155c2ceca0c6f6061b1dbca2d722b3ba16381d0562150": {
     "id": "0b415a746fb9ee99cce155c2ceca0c6f6061b1dbca2d722b3ba16381d0562150",
     "name": "SafePal",
+    "description": "",
     "homepage": "https://safepal.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1159,9 +1307,13 @@
   "d0387325e894a1c4244820260ad7c78bb20d79eeec2fd59ffe3529223f3f84c6": {
     "id": "d0387325e894a1c4244820260ad7c78bb20d79eeec2fd59ffe3529223f3f84c6",
     "name": "Infinito",
+    "description": "",
     "homepage": "https://infinitowallet.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1190,9 +1342,13 @@
   "176b83d9268d77438e32aa44770fb37b40d6448740b6a05a97b175323356bd1b": {
     "id": "176b83d9268d77438e32aa44770fb37b40d6448740b6a05a97b175323356bd1b",
     "name": "wallet.io",
+    "description": "",
     "homepage": "https://wallet.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1221,11 +1377,15 @@
   "802a2041afdaf4c7e41a2903e98df333c8835897532699ad370f829390c6900f": {
     "id": "802a2041afdaf4c7e41a2903e98df333c8835897532699ad370f829390c6900f",
     "name": "Infinity Wallet",
+    "description": "",
     "homepage": "https://infinitywallet.io/",
     "chains": [
       "eip155:1",
       "eip155:56",
       "eip155:137"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1254,9 +1414,13 @@
   "8fb830a15679a8537d84c3852e026a4bdb39d0ee3b387411a91e8f6abafdc1ad": {
     "id": "8fb830a15679a8537d84c3852e026a4bdb39d0ee3b387411a91e8f6abafdc1ad",
     "name": "Ownbit",
+    "description": "",
     "homepage": "https://ownbit.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1285,9 +1449,13 @@
   "244a0d93a45df0d0501a9cb9cdfb4e91aa750cfd4fc88f6e97a54d8455a76f5c": {
     "id": "244a0d93a45df0d0501a9cb9cdfb4e91aa750cfd4fc88f6e97a54d8455a76f5c",
     "name": "EasyPocket",
+    "description": "",
     "homepage": "https://easypocket.app/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1316,9 +1484,13 @@
   "881946407ff22a32ec0e42b2cd31ea5dab52242dc3648d777b511a0440d59efb": {
     "id": "881946407ff22a32ec0e42b2cd31ea5dab52242dc3648d777b511a0440d59efb",
     "name": "Bridge Wallet",
+    "description": "",
     "homepage": "https://mtpelerin.com/bridge-wallet",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1329,8 +1501,8 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "bridgewallet:",
+      "universal": "https://bridge.mtpelerin.com"
     },
     "desktop": {
       "native": "",
@@ -1347,9 +1519,13 @@
   "3b0e861b3a57e98325b82ab687fe0a712c81366d521ceec49eebc35591f1b5d1": {
     "id": "3b0e861b3a57e98325b82ab687fe0a712c81366d521ceec49eebc35591f1b5d1",
     "name": "SparkPoint",
+    "description": "",
     "homepage": "https://sparkpoint.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1378,9 +1554,13 @@
   "ca86f48760bf5f84dcd6b1daca0fd55e2aa073ecf46453ba8a1db0b2e8e85ac1": {
     "id": "ca86f48760bf5f84dcd6b1daca0fd55e2aa073ecf46453ba8a1db0b2e8e85ac1",
     "name": "ViaWallet",
+    "description": "",
     "homepage": "https://viawallet.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1409,9 +1589,13 @@
   "42d72b6b34411dfacdf5364c027979908f971fc60251a817622b7bdb44a03106": {
     "id": "42d72b6b34411dfacdf5364c027979908f971fc60251a817622b7bdb44a03106",
     "name": "BitKeep",
+    "description": "",
     "homepage": "https://bitkeep.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1440,9 +1624,13 @@
   "b642ab6de0fe5c7d1e4a2b2821c9c807a81d0f6fd42ee3a75e513ea16e91151c": {
     "id": "b642ab6de0fe5c7d1e4a2b2821c9c807a81d0f6fd42ee3a75e513ea16e91151c",
     "name": "Vision",
+    "description": "",
     "homepage": "https://vision-crypto.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1471,9 +1659,13 @@
   "38ee551a01e3c5af9d8a9715768861e4d642e2381a62245083f96672b5646c6b": {
     "id": "38ee551a01e3c5af9d8a9715768861e4d642e2381a62245083f96672b5646c6b",
     "name": "PEAKDEFI Wallet",
+    "description": "",
     "homepage": "https://peakdefi.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1502,10 +1694,14 @@
   "7e90b95230bc462869bbb59f952273d89841e1c76bcc5319898e08c9f34bd4cd": {
     "id": "7e90b95230bc462869bbb59f952273d89841e1c76bcc5319898e08c9f34bd4cd",
     "name": "Unstoppable Wallet",
+    "description": "",
     "homepage": "https://unstoppable.money/",
     "chains": [
       "eip155:1",
       "eip155:56"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1534,9 +1730,13 @@
   "025247d02e1972362982f04c96c78e7c02c4b68a9ac2107c26fe2ebb85c317c0": {
     "id": "025247d02e1972362982f04c96c78e7c02c4b68a9ac2107c26fe2ebb85c317c0",
     "name": "HaloDeFi Wallet",
+    "description": "",
     "homepage": "https://halodefi.org/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1565,9 +1765,13 @@
   "d12b6e114af8c47a6eec19a576f1022032a5ee4f8cafee612049f4796c803c7e": {
     "id": "d12b6e114af8c47a6eec19a576f1022032a5ee4f8cafee612049f4796c803c7e",
     "name": "Dok Wallet",
+    "description": "",
     "homepage": "https://dokwallet.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1596,9 +1800,13 @@
   "3d56ed42374504f1bb2ba368094269eaea461c075ab796d504f354baac213dc5": {
     "id": "3d56ed42374504f1bb2ba368094269eaea461c075ab796d504f354baac213dc5",
     "name": "AT.Wallet",
+    "description": "",
     "homepage": "https://authentrend.com/at-wallet/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1627,9 +1835,13 @@
   "1e04cf5cddcd84edb1370b12eae1fcecedf125b77209fff80e7ef2a6d3c74719": {
     "id": "1e04cf5cddcd84edb1370b12eae1fcecedf125b77209fff80e7ef2a6d3c74719",
     "name": "Midas Wallet",
+    "description": "",
     "homepage": "https://midasprotocol.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1658,9 +1870,13 @@
   "15d1d97de89526a3c259a235304a7c510c40cda3331f0f8433da860ecc528bef": {
     "id": "15d1d97de89526a3c259a235304a7c510c40cda3331f0f8433da860ecc528bef",
     "name": "Ellipal",
+    "description": "",
     "homepage": "https://ellipal.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1689,9 +1905,13 @@
   "0fa0f603076de79bbac9a4d47770186de8913da63c8a4070c500a783cddbd1e3": {
     "id": "0fa0f603076de79bbac9a4d47770186de8913da63c8a4070c500a783cddbd1e3",
     "name": "KEYRING PRO",
+    "description": "",
     "homepage": "https://keyring.app/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1720,9 +1940,13 @@
   "19ad8334f0f034f4176a95722b5746b539b47b37ce17a5abde4755956d05d44c": {
     "id": "19ad8334f0f034f4176a95722b5746b539b47b37ce17a5abde4755956d05d44c",
     "name": "Aktionariat",
+    "description": "",
     "homepage": "https://aktionariat.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1751,9 +1975,13 @@
   "95501c1a07c8eb575cb28c753ab9044259546ebcefcd3645461086e49b671f5c": {
     "id": "95501c1a07c8eb575cb28c753ab9044259546ebcefcd3645461086e49b671f5c",
     "name": "Talken Wallet",
+    "description": "",
     "homepage": "https://talken.io",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1782,9 +2010,13 @@
   "78640a74036794a5b7f8ea501887c168232723696db4231f54abd3fe524037b4": {
     "id": "78640a74036794a5b7f8ea501887c168232723696db4231f54abd3fe524037b4",
     "name": "XinFin XDC Network",
+    "description": "",
     "homepage": "https://www.xinfin.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://xinfin.network/",
@@ -1813,9 +2045,13 @@
   "d612ddb7326d7d64428d035971b82247322a4ffcf126027560502eff4c02bd1c": {
     "id": "d612ddb7326d7d64428d035971b82247322a4ffcf126027560502eff4c02bd1c",
     "name": "Flare Wallet",
+    "description": "",
     "homepage": "https://flarewallet.io",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1844,9 +2080,13 @@
   "55e5b479c9f49ddac5445c24725857f19888da1ef432ae5e4e01f8054d107670": {
     "id": "55e5b479c9f49ddac5445c24725857f19888da1ef432ae5e4e01f8054d107670",
     "name": "KyberSwap",
+    "description": "",
     "homepage": "https://kyberswap.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://kyberswap.com/",
@@ -1875,9 +2115,13 @@
   "6193353e17504afc4bb982ee743ab970cd5cf842a35ecc9b7de61c150cf291e0": {
     "id": "6193353e17504afc4bb982ee743ab970cd5cf842a35ecc9b7de61c150cf291e0",
     "name": "AToken Wallet",
+    "description": "",
     "homepage": "https://atoken.com",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1906,9 +2150,13 @@
   "4e6af4201658b52daad51a279bb363a08b3927e74c0f27abeca3b0110bddf0a9": {
     "id": "4e6af4201658b52daad51a279bb363a08b3927e74c0f27abeca3b0110bddf0a9",
     "name": "Tongue Wallet",
+    "description": "",
     "homepage": "https://www.tongue.fi",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1937,9 +2185,13 @@
   "b13fcc7e3500a4580c9a5341ed64c49c17d7f864497881048eb160c089be5346": {
     "id": "b13fcc7e3500a4580c9a5341ed64c49c17d7f864497881048eb160c089be5346",
     "name": "RWallet",
+    "description": "",
     "homepage": "https://rsk.co/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1968,9 +2220,13 @@
   "13c6a06b733edf51784f669f508826b2ab0dc80122a8b5d25d84b17d94bbdf70": {
     "id": "13c6a06b733edf51784f669f508826b2ab0dc80122a8b5d25d84b17d94bbdf70",
     "name": "PlasmaPay",
+    "description": "",
     "homepage": "https://plasmapay.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -1999,9 +2255,13 @@
   "0aafbedfb8eb56dae59ecc37c9a5388509cf9c082635e3f752581cc7128a17c0": {
     "id": "0aafbedfb8eb56dae59ecc37c9a5388509cf9c082635e3f752581cc7128a17c0",
     "name": "O3Wallet",
+    "description": "",
     "homepage": "https://o3.network",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2030,9 +2290,13 @@
   "761d3d98fd77bdb06e6c90092ee7071c6001e93401d05dcf2b007c1a6c9c222c": {
     "id": "761d3d98fd77bdb06e6c90092ee7071c6001e93401d05dcf2b007c1a6c9c222c",
     "name": "HashKey Me",
+    "description": "",
     "homepage": "https://me.hashkey.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2061,9 +2325,13 @@
   "0a00cbe128dddd6e096ebb78533a2c16ed409152a377c1f61a6a5ea643a2d950": {
     "id": "0a00cbe128dddd6e096ebb78533a2c16ed409152a377c1f61a6a5ea643a2d950",
     "name": "Jade Wallet",
+    "description": "",
     "homepage": "https://jadewallet.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2092,9 +2360,13 @@
   "c04ae532094873c054a6c9339746c39c9ba5839c4d5bb2a1d9db51f9e5e77266": {
     "id": "c04ae532094873c054a6c9339746c39c9ba5839c4d5bb2a1d9db51f9e5e77266",
     "name": "Guarda Wallet",
+    "description": "",
     "homepage": "https://guarda.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2123,12 +2395,16 @@
   "ffa139f74d1c8ebbb748cf0166f92d886e8c81b521c2193aa940e00626f4e215": {
     "id": "ffa139f74d1c8ebbb748cf0166f92d886e8c81b521c2193aa940e00626f4e215",
     "name": "Defiant",
+    "description": "",
     "homepage": "https://defiantapp.tech/",
     "chains": [
       "eip155:1",
       "eip155:42",
       "eip155:30",
       "eip155:31"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2157,9 +2433,13 @@
   "1ce6dae0fea7114846382391d946784d95d9032460a857bb23b55bd9807259d1": {
     "id": "1ce6dae0fea7114846382391d946784d95d9032460a857bb23b55bd9807259d1",
     "name": "Trustee Wallet",
+    "description": "",
     "homepage": "https://trusteeglobal.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2188,9 +2468,13 @@
   "be6607b0a4093c0443bfe9c19ab30c99c91d2638866c99a6a16a71d3c1df78f8": {
     "id": "be6607b0a4093c0443bfe9c19ab30c99c91d2638866c99a6a16a71d3c1df78f8",
     "name": "CoinUs",
+    "description": "",
     "homepage": "https://coinus.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2219,9 +2503,13 @@
   "ca151c4caeec5f9cc02ef03e498cb38c02ee5e498a8db13e853315077a5b45dc": {
     "id": "ca151c4caeec5f9cc02ef03e498cb38c02ee5e498a8db13e853315077a5b45dc",
     "name": "cmorq",
+    "description": "",
     "homepage": "https://cmorq.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2250,9 +2538,13 @@
   "d01c7758d741b363e637a817a09bcf579feae4db9f5bb16f599fdd1f66e2f974": {
     "id": "d01c7758d741b363e637a817a09bcf579feae4db9f5bb16f599fdd1f66e2f974",
     "name": "Valora",
+    "description": "",
     "homepage": "https://valoraapp.com",
     "chains": [
       "eip155:42220"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2281,9 +2573,13 @@
   "e05615ed22df39c8d9b99ea38b45d4accb103fcef9cfa5d5edd38f5839b5182e": {
     "id": "e05615ed22df39c8d9b99ea38b45d4accb103fcef9cfa5d5edd38f5839b5182e",
     "name": "QuiverX",
+    "description": "",
     "homepage": "https://quiverx.io",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2312,9 +2608,13 @@
   "36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b": {
     "id": "36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b",
     "name": "Celo Wallet",
+    "description": "",
     "homepage": "https://celowallet.app/",
     "chains": [
       "eip155:42220"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://celowallet.app/",
@@ -2343,6 +2643,7 @@
   "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1": {
     "id": "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1",
     "name": "Encrypted Ink",
+    "description": "",
     "homepage": "https://encrypted.ink",
     "chains": [
       "eip155:1",
@@ -2350,6 +2651,9 @@
       "eip155:56",
       "eip155:137",
       "eip155:42161"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2378,10 +2682,14 @@
   "717911f4db0c5eda0e02e76ed179b7940ba1eefffdfb3c9e6540696226860da0": {
     "id": "717911f4db0c5eda0e02e76ed179b7940ba1eefffdfb3c9e6540696226860da0",
     "name": "Elastos Essentials",
+    "description": "",
     "homepage": "https://elastos.org",
     "chains": [
       "eip155:20",
       "eip155:21"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2410,9 +2718,13 @@
   "c20b97dd1679625f4eb0bccd727c80746cb13bd97208b0c8e62c89cfd1d4b9cc": {
     "id": "c20b97dd1679625f4eb0bccd727c80746cb13bd97208b0c8e62c89cfd1d4b9cc",
     "name": "fuse.cash",
+    "description": "",
     "homepage": "https://fuse.cash/",
     "chains": [
       "eip155:122"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2441,9 +2753,13 @@
   "9e3f6d07815cfaf1ef7afb089e5c6895b254fced0b84a9ff2b449a631605b5db": {
     "id": "9e3f6d07815cfaf1ef7afb089e5c6895b254fced0b84a9ff2b449a631605b5db",
     "name": "Bitpie",
+    "description": "",
     "homepage": "https://bitpie.com/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2472,9 +2788,13 @@
   "fbc8d86ad914ebd733fec4812b4b7af5ca709fdd9e75a930115e5baa02c4ef4c": {
     "id": "fbc8d86ad914ebd733fec4812b4b7af5ca709fdd9e75a930115e5baa02c4ef4c",
     "name": "Rabby",
+    "description": "",
     "homepage": "https://rabby.io/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://chrome.google.com/webstore/detail/empty-title/acmacodkjbdgmoleebolmdjonilkdbch",
@@ -2503,9 +2823,13 @@
   "9d6c614d1995741d5313f1f3dbf1f66dcba694de782087d13b8721822502692f": {
     "id": "9d6c614d1995741d5313f1f3dbf1f66dcba694de782087d13b8721822502692f",
     "name": "Stasis",
+    "description": "",
     "homepage": "https://stasis.net/",
     "chains": [
       "eip155:1"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "",
@@ -2534,6 +2858,7 @@
   "a6ffb821a3c32d36fc9d29e29c2ff79a0cd1db0bca453714777846ddf3fdff76": {
     "id": "a6ffb821a3c32d36fc9d29e29c2ff79a0cd1db0bca453714777846ddf3fdff76",
     "name": "JulWallet",
+    "description": "",
     "homepage": "https://justliquidity.org/",
     "chains": [
       "eip155:1",
@@ -2546,6 +2871,9 @@
       "eip155:128",
       "eip155:137",
       "eip155:250"
+    ],
+    "versions": [
+      "1"
     ],
     "app": {
       "browser": "https://chrome.google.com/webstore/detail/julwallet/fgkldlaelopgncepgpncndebgdddikii?hl=en-US",
@@ -2568,6 +2896,265 @@
       "colors": {
         "primary": "#c84ce4",
         "secondary": "#3f00ff"
+      }
+    }
+  },
+  "2f010ad2b0777998e950b5d72969e3b6a7090f0dde59b509ce9a41a5d1b2f9f4": {
+    "id": "2f010ad2b0777998e950b5d72969e3b6a7090f0dde59b509ce9a41a5d1b2f9f4",
+    "name": "f(x) Wallet",
+    "description": "",
+    "homepage": "https://functionx.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/f-x-wallet-by-pundi-x-labs/id1504798360",
+      "android": "https://play.google.com/store/apps/details?id=com.pundix.functionx",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
+  "96bf9b7141215037f4a9f567ce536b1eb2836fb71cc67c07ba73f3c3eadc53d6": {
+    "id": "96bf9b7141215037f4a9f567ce536b1eb2836fb71cc67c07ba73f3c3eadc53d6",
+    "name": "Bull App",
+    "description": "",
+    "homepage": "https://getbull.app/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/id1558608737",
+      "android": "https://play.google.com/store/apps/details?id=crypto.wallet.chainapp",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
+  "fc65284c7e407387d732fbfe5d57ed378a89db28c3559ada079f9097d43d2575": {
+    "id": "fc65284c7e407387d732fbfe5d57ed378a89db28c3559ada079f9097d43d2575",
+    "name": "Anybit",
+    "description": "",
+    "homepage": "https://anybit.io",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://www.anybit.io/#/download_ios",
+      "android": "https://anybit-1254113200.cos.ap-shanghai.myqcloud.com/release/anybit-3.0.2.apk",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
+  "ddc09197f1b87a19f5f40e842a6a502cc64bde8a1d7c03073182f2f23f021398": {
+    "id": "ddc09197f1b87a19f5f40e842a6a502cc64bde8a1d7c03073182f2f23f021398",
+    "name": "Bitpie",
+    "description": "",
+    "homepage": "https://bitpiehk.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://bitpiehk.com/ios",
+      "android": "https://bitpiehk.com/android",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
+  },
+  "dea4ab675289353a508956c4f821bc4e9141d9f99a5d244ae7af92b4d575db6d": {
+    "id": "dea4ab675289353a508956c4f821bc4e9141d9f99a5d244ae7af92b4d575db6d",
+    "name": "Minerva Wallet",
+    "description": "Minerva Wallet is a user friendly app for sovereign identities, data and money.",
+    "homepage": "https://minerva.digital/",
+    "chains": [
+      "eip155:1",
+      "eip155:3",
+      "eip155:4",
+      "eip155:5",
+      "eip155:22",
+      "eip155:42",
+      "eip155:56",
+      "eip155:77",
+      "eip155:97",
+      "eip155:99",
+      "eip155:100",
+      "eip155:137",
+      "eip155:80001",
+      "eip155:246529",
+      "eip155:246785"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=digital.minerva",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Minerva",
+      "colors": {
+        "primary": "#443ad2",
+        "secondary": "#FFF"
+      }
+    }
+  },
+  "8db861466b91fbfe382fbbc55eb5209d38d2c91fcb3fe03ab622bf6dcb5885bc": {
+    "id": "8db861466b91fbfe382fbbc55eb5209d38d2c91fcb3fe03ab622bf6dcb5885bc",
+    "name": "ArchiPage",
+    "description": "",
+    "homepage": "https://criptoarchi.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=com.archipage",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "archipage:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "ArchiPage",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#FFF"
+      }
+    }
+  },
+  "76745388a50e6fea982c4dee2a3ad61a8aa417668be870754689caa8a7506c93": {
+    "id": "76745388a50e6fea982c4dee2a3ad61a8aa417668be870754689caa8a7506c93",
+    "name": "Tangem",
+    "description": "",
+    "homepage": "https://tangem.com",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/uz/app/tangem/id1354868448",
+      "android": "https://play.google.com/store/apps/details?id=com.tangem.wallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "tangem:",
+      "universal": "https://app.tangem.com"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Tangem",
+      "colors": {
+        "primary": "#FFF",
+        "secondary": "#000"
       }
     }
   }

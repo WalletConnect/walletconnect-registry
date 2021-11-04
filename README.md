@@ -31,8 +31,10 @@ https://registry.walletconnect.org/logo/[size]/[id].jpeg
 interface AppEntry {
   id: string;
   name: string;
+  description: string;
   homepage: string;
   chains: string[];
+  versions: string[];
   app: {
     browser: string;
     ios: string;
