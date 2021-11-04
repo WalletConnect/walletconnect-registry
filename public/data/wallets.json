@@ -3198,5 +3198,41 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "9d93c497dc5c835abd1ddd3c5d388eaf54b995b49573340d9580b366259b7972": {
+    "id": "9d93c497dc5c835abd1ddd3c5d388eaf54b995b49573340d9580b366259b7972",
+    "name": "ioPay",
+    "description": "",
+    "homepage": "https://iotex.io/",
+    "chains": [
+      "eip155:4689",
+      "eip155:4690"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://iopay-wallet.iotex.io/",
+      "ios": "https://apps.apple.com/app/apple-store/id1478086371",
+      "android": "https://play.google.com/store/apps/details?id=io.iotex.iopay.gp",
+      "mac": "https://github.com/iotexproject/iotex-explorer/releases",
+      "windows": "https://github.com/iotexproject/iotex-explorer/releases",
+      "linux": "https://github.com/iotexproject/iotex-explorer/releases"
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "ioPay",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
