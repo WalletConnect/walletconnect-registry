@@ -4304,5 +4304,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "dd3cf12012061040d30a7ccda1527fc8996062899c89a521ee4060a998e49cdb": {
+    "id": "dd3cf12012061040d30a7ccda1527fc8996062899c89a521ee4060a998e49cdb",
+    "name": "Vesper Finance",
+    "description": "",
+    "homepage": "https://vesper.finance/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.vesper.finance/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Vesper",
+      "colors": {
+        "primary": "#4137ac",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
