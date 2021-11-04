@@ -3444,5 +3444,40 @@
         "secondary": ""
       }
     }
+  },
+  "29449bf9d53ae02dd64a6719915c65882d7d634cca2d2de19586c772e6cbe759": {
+    "id": "29449bf9d53ae02dd64a6719915c65882d7d634cca2d2de19586c772e6cbe759",
+    "name": "Shinobi Wallet",
+    "description": "",
+    "homepage": "https://shinobi-wallet.net/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/fgraph/id1572609905",
+      "android": "https://play.google.com/store/apps/details?id=io.fgraph.shinobiwallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
