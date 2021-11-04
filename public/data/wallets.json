@@ -3339,5 +3339,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "1bc1d561a2a38a2ff0c4dfb21c2236f7335084f822cd5de016bd4725fed389df": {
+    "id": "1bc1d561a2a38a2ff0c4dfb21c2236f7335084f822cd5de016bd4725fed389df",
+    "name": "yiToken",
+    "description": "",
+    "homepage": "https://yitoken.im",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://testflight.apple.com/join/vwyDi2pn",
+      "android": "https://app.iwishbest.com/apps/yiToken.apk",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "yitoken:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "yiToken",
+      "colors": {
+        "primary": "#2c4cfc",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
