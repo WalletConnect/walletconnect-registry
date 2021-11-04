@@ -3374,5 +3374,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "416a17a68726c10896a46e9ecbb25eaa0e342611b2387d4787902bf1984b68e9": {
+    "id": "416a17a68726c10896a46e9ecbb25eaa0e342611b2387d4787902bf1984b68e9",
+    "name": "DID Wallet",
+    "description": "",
+    "homepage": "https://abtwallet.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://itunes.apple.com/app/id1460083542",
+      "android": "https://play.google.com/store/apps/details?id=com.arcblock.wallet.app.product",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "abt:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "DID",
+      "colors": {
+        "primary": "#4598FA",
+        "secondary": "#53A8F4"
+      }
+    }
   }
 }
