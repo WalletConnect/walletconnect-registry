@@ -4234,5 +4234,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "a1fb7359e8d89469a4004b809c8470216a7c049c4b27ad6f3cabc3ac9d79adf9": {
+    "id": "a1fb7359e8d89469a4004b809c8470216a7c049c4b27ad6f3cabc3ac9d79adf9",
+    "name": "YFX",
+    "description": "Your Future Exchange",
+    "homepage": "https://yfx.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://yfx.com/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
