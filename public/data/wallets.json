@@ -3269,5 +3269,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "b397a6d7fc2eb4895579d0fa043d66bbb0396e40237876d6d9f294f41cf755ac": {
+    "id": "b397a6d7fc2eb4895579d0fa043d66bbb0396e40237876d6d9f294f41cf755ac",
+    "name": "Go Pocket",
+    "description": "",
+    "homepage": "https://gopocket.finance/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/go-pocket/id1576488287?l=en",
+      "android": "https://play.google.com/store/apps/details?id=io.gopocket",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
