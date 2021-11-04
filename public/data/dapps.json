@@ -4339,5 +4339,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "79021a292ca1cec3d4e8d879a3c88942119478fbf7db3ea2459160d0dbb82356": {
+    "id": "79021a292ca1cec3d4e8d879a3c88942119478fbf7db3ea2459160d0dbb82356",
+    "name": " NFTBank.ai",
+    "description": "",
+    "homepage": "https://nftbank.ai/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://nftbank.ai/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
