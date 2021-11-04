@@ -3234,5 +3234,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "0105fbfd71efd3b19dde8060d6c9d959f555c078515a47b1a29cc9b67e6a4531": {
+    "id": "0105fbfd71efd3b19dde8060d6c9d959f555c078515a47b1a29cc9b67e6a4531",
+    "name": "Coinhub",
+    "description": "",
+    "homepage": "https://coinhub.org/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/tn/app/coinhub/id1567786851",
+      "android": "https://static.coinhub.org/package/Coinhub_v1.2.0.apk",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Coinhub",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
