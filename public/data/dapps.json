@@ -4409,5 +4409,40 @@
         "secondary": "#a067ff"
       }
     }
+  },
+  "c38c37b8bdf6117fe09e1db3a13240bb1029c4a9ad88ea97cd1f3e30f48e0ab7": {
+    "id": "c38c37b8bdf6117fe09e1db3a13240bb1029c4a9ad88ea97cd1f3e30f48e0ab7",
+    "name": "BITPIF",
+    "description": "",
+    "homepage": "https://bitpif.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://bitpif.com/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
