@@ -4199,5 +4199,40 @@
         "secondary": ""
       }
     }
+  },
+  "9fadd1908c3a55a10ec42c66c192bcfb34e055d8b1f523233dccdeeebb3e73c2": {
+    "id": "9fadd1908c3a55a10ec42c66c192bcfb34e055d8b1f523233dccdeeebb3e73c2",
+    "name": "Alkemi",
+    "description": "",
+    "homepage": "https://alkemi.network",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://earn.alkemi.network",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Alkemi",
+      "colors": {
+        "primary": "#4948f6",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
