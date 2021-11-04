@@ -4374,5 +4374,40 @@
         "secondary": ""
       }
     }
+  },
+  "c9688b7e5331a9cdeebb973201263f470fdcbca9151e02752523c7ff89ddecf3": {
+    "id": "c9688b7e5331a9cdeebb973201263f470fdcbca9151e02752523c7ff89ddecf3",
+    "name": "Trinity Feeds",
+    "description": "",
+    "homepage": "https://www.trinity-feeds.app/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/trinity-feeds/id1546436333",
+      "android": "https://play.google.com/store/apps/details?id=io.trinitytech.dapp.feeds",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Feeds",
+      "colors": {
+        "primary": "#368bff",
+        "secondary": "#a067ff"
+      }
+    }
   }
 }

@@ -2,22 +2,23 @@ const path = require("path");
 
 module.exports = {
   // REQUIRED (location of the logo - png or jpg)
-  logo: path.join(__dirname, "logo.jpg"),
+  logo: path.join(__dirname, "trinity.png"),
   // REQUIRED
-  name: "WalletConnect",
+  name: "Trinity Feeds",
   // REQUIRED
-  description: "Open protocol to connect wallets to dapps",
+  description: "",
   // REQUIRED
-  homepage: "https://walletconnect.org",
+  homepage: "https://www.trinity-feeds.app/",
   // REQUIRED
   chains: ["eip155:1"],
   // REQUIRED
   versions: ["1"],
   // REQUIRED (at least one)
   app: {
-    browser: "https://example.walletconnect.org",
-    ios: "",
-    android: "",
+    browser: "",
+    ios: "https://apps.apple.com/us/app/trinity-feeds/id1546436333",
+    android:
+      "https://play.google.com/store/apps/details?id=io.trinitytech.dapp.feeds",
     mac: "",
     windows: "",
     linux: "",
@@ -31,10 +32,10 @@ module.exports = {
     universal: "",
   },
   metadata: {
-    shortName: "",
+    shortName: "Feeds",
     colors: {
-      primary: "",
-      secondary: "",
+      primary: "#368bff",
+      secondary: "#a067ff",
     },
   },
 };
