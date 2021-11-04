@@ -3409,5 +3409,40 @@
         "secondary": "#53A8F4"
       }
     }
+  },
+  "c1abb33fa718be77d96c56a3f9720400e9c5de2f79ef50ad6a2c19b1c28659f3": {
+    "id": "c1abb33fa718be77d96c56a3f9720400e9c5de2f79ef50ad6a2c19b1c28659f3",
+    "name": "StarBase",
+    "description": "",
+    "homepage": "https://deploystarship.com",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=com.starbase.wallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
