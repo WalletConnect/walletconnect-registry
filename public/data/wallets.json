@@ -3042,10 +3042,24 @@
   "dea4ab675289353a508956c4f821bc4e9141d9f99a5d244ae7af92b4d575db6d": {
     "id": "dea4ab675289353a508956c4f821bc4e9141d9f99a5d244ae7af92b4d575db6d",
     "name": "Minerva Wallet",
-    "description": "",
+    "description": "Minerva Wallet is a user friendly app for sovereign identities, data and money.",
     "homepage": "https://minerva.digital/",
     "chains": [
-      "eip155:1"
+      "eip155:1",
+      "eip155:3",
+      "eip155:4",
+      "eip155:5",
+      "eip155:22",
+      "eip155:42",
+      "eip155:56",
+      "eip155:77",
+      "eip155:97",
+      "eip155:99",
+      "eip155:100",
+      "eip155:137",
+      "eip155:80001",
+      "eip155:246529",
+      "eip155:246785"
     ],
     "versions": [
       "1"
