@@ -2885,7 +2885,7 @@
     },
     "mobile": {
       "native": "julwallet:",
-      "universal": "https://justliquidity.org/"
+      "universal": "https://justliquidity.org"
     },
     "desktop": {
       "native": "",
