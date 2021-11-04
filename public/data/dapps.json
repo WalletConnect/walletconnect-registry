@@ -4269,5 +4269,40 @@
         "secondary": ""
       }
     }
+  },
+  "d67b8e1ee1bd30f68af1203f07a5081aed629a859e6e1fbb3e6a424dc9e1592d": {
+    "id": "d67b8e1ee1bd30f68af1203f07a5081aed629a859e6e1fbb3e6a424dc9e1592d",
+    "name": "NFTY Connect",
+    "description": "",
+    "homepage": "https://nftyconnect.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://nftyconnect.com/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "NFTY",
+      "colors": {
+        "primary": "#79088E",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
