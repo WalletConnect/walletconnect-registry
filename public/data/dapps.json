@@ -4514,5 +4514,40 @@
         "secondary": "#000"
       }
     }
+  },
+  "8fcea8ada5b01e501ef11014c6658e6e39a6e0dcca4a12a131170c4d5c631425": {
+    "id": "8fcea8ada5b01e501ef11014c6658e6e39a6e0dcca4a12a131170c4d5c631425",
+    "name": "ChangeNow",
+    "description": "",
+    "homepage": "https://changenow.io",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/id1518003605",
+      "android": "https://play.google.com/store/apps/details?id=io.changenow.changenow",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "changenow:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "ChangeNow",
+      "colors": {
+        "primary": "#fff",
+        "secondary": "#000"
+      }
+    }
   }
 }
