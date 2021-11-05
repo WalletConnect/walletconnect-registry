@@ -4549,5 +4549,40 @@
         "secondary": "#000"
       }
     }
+  },
+  "8fcad00e3d10c0361c6b778796ca421c0ced7dbaa91d98a707a3af3c0024b0ca": {
+    "id": "8fcad00e3d10c0361c6b778796ca421c0ced7dbaa91d98a707a3af3c0024b0ca",
+    "name": "eyesfi",
+    "description": "",
+    "homepage": "https://eyesfi.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://eyesfi.com/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
