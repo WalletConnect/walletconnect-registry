@@ -3514,5 +3514,40 @@
         "secondary": "#8AFC6E"
       }
     }
+  },
+  "403308a7b7d5da26558cb3658d963d9a87648940a38cc04143f223815d631aa5": {
+    "id": "403308a7b7d5da26558cb3658d963d9a87648940a38cc04143f223815d631aa5",
+    "name": "GD Wallet",
+    "description": "",
+    "homepage": "https://open.seaio.cc/",
+    "chains": [
+      "eip155:56"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://dapp-h5.seaio.cc/newsDetail/#/downLoad?lang=ZH",
+      "android": "https://dapp-h5.seaio.cc/newsDetail/#/downLoad?lang=ZH",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "GDWalletWC:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "GD Wallet",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
