@@ -2,23 +2,22 @@ const path = require("path");
 
 module.exports = {
   // REQUIRED (location of the logo - png or jpg)
-  logo: path.join(__dirname, "trinity.png"),
+  logo: path.join(__dirname, "tyrell.png"),
   // REQUIRED
-  name: "Trinity Feeds",
+  name: "Tyrell-Yutani HUB",
   // REQUIRED
   description: "",
   // REQUIRED
-  homepage: "https://www.trinity-feeds.app/",
+  homepage: "https://tyrell-yutani.app",
   // REQUIRED
   chains: ["eip155:1"],
   // REQUIRED
   versions: ["1"],
   // REQUIRED (at least one)
   app: {
-    browser: "",
-    ios: "https://apps.apple.com/us/app/trinity-feeds/id1546436333",
-    android:
-      "https://play.google.com/store/apps/details?id=io.trinitytech.dapp.feeds",
+    browser: "https://tyrell-yutani.app",
+    ios: "",
+    android: "",
     mac: "",
     windows: "",
     linux: "",
@@ -32,10 +31,10 @@ module.exports = {
     universal: "",
   },
   metadata: {
-    shortName: "Feeds",
+    shortName: "TY_HUB",
     colors: {
-      primary: "#368bff",
-      secondary: "#a067ff",
+      primary: "#fff",
+      secondary: "#000",
     },
   },
 };

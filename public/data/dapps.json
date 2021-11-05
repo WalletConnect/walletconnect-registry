@@ -4479,5 +4479,40 @@
         "secondary": "#f8ff00"
       }
     }
+  },
+  "e2612e4e0e482b16836c475a94586bbdf8952edf57f13d2965bd824816260cc1": {
+    "id": "e2612e4e0e482b16836c475a94586bbdf8952edf57f13d2965bd824816260cc1",
+    "name": "Tyrell-Yutani HUB",
+    "description": "",
+    "homepage": "https://tyrell-yutani.app",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://tyrell-yutani.app",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "TY_HUB",
+      "colors": {
+        "primary": "#fff",
+        "secondary": "#000"
+      }
+    }
   }
 }
