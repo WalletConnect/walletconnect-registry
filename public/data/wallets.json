@@ -3619,5 +3619,40 @@
         "secondary": "#00e8d0"
       }
     }
+  },
+  "76428179ce9213ab6f8f49923310efcf5eea089764196c7a2018bea8afcd6603": {
+    "id": "76428179ce9213ab6f8f49923310efcf5eea089764196c7a2018bea8afcd6603",
+    "name": "PayTube",
+    "description": "",
+    "homepage": "https://paytube.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/paytube/id1574456998",
+      "android": "https://play.google.com/store/apps/details?id=com.paytube.wallet.zkwallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
