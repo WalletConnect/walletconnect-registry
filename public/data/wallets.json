@@ -3654,5 +3654,40 @@
         "secondary": ""
       }
     }
+  },
+  "6464873279d46030c0b6b005b33da6be5ed57a752be3ef1f857dc10eaf8028aa": {
+    "id": "6464873279d46030c0b6b005b33da6be5ed57a752be3ef1f857dc10eaf8028aa",
+    "name": "SecuX",
+    "description": "",
+    "homepage": "https://secuxtech.com/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://wallet.secuxtech.com/secuxess/#/",
+      "ios": "https://apps.apple.com/tw/app/secux-mobile/id1477437607",
+      "android": "https://play.google.com/store/apps/details?id=com.secux.mobile&hl=zh_TW&gl=US",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
