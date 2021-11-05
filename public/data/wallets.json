@@ -3867,5 +3867,43 @@
         "secondary": "#000"
       }
     }
+  },
+  "dd8ee41915d967e547c80266e883d77ee808427405f4e8026a85ac1308104221": {
+    "id": "dd8ee41915d967e547c80266e883d77ee808427405f4e8026a85ac1308104221",
+    "name": "Linen",
+    "description": "",
+    "homepage": "https://linen.app/",
+    "chains": [
+      "eip155:1",
+      "eip155:42",
+      "eip155:137",
+      "eip155:80001"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/app/linen-app-investing-in-defi/id1480509067",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": "https://linen.app/"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Linen",
+      "colors": {
+        "primary": "#009fbe",
+        "secondary": "#fff"
+      }
+    }
   }
 }
