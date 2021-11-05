@@ -3584,5 +3584,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "a0718f5fb1493e4aaac72cff62d162cb85db40ed68fd8700298f36f1d5c4b73d": {
+    "id": "a0718f5fb1493e4aaac72cff62d162cb85db40ed68fd8700298f36f1d5c4b73d",
+    "name": "AirGap",
+    "description": "",
+    "homepage": "https://airgap.it",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://wallet.airgap.it",
+      "ios": "https://itunes.apple.com/us/app/airgap-wallet/id1420996542?l=de&ls=1&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=it.airgap.wallet",
+      "mac": "https://github.com/airgap-it/airgap-wallet/releases",
+      "windows": "https://github.com/airgap-it/airgap-wallet/releases",
+      "linux": "https://github.com/airgap-it/airgap-wallet/releases"
+    },
+    "mobile": {
+      "native": "airgap-wallet:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "AirGap",
+      "colors": {
+        "primary": "#50249f",
+        "secondary": "#00e8d0"
+      }
+    }
   }
 }
