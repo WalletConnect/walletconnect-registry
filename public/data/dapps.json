@@ -4584,5 +4584,40 @@
         "secondary": ""
       }
     }
+  },
+  "b3e7f913050524a55819c22056b5d60a58e0773c14a91d0d1309e436ba762bcf": {
+    "id": "b3e7f913050524a55819c22056b5d60a58e0773c14a91d0d1309e436ba762bcf",
+    "name": "Raven Protocol",
+    "description": "",
+    "homepage": "https://ravenprotocol.com/",
+    "chains": [
+      "eip155:56"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://steak.ravenprotocol.com/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
