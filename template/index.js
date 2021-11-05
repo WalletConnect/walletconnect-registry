@@ -2,20 +2,20 @@ const path = require("path");
 
 module.exports = {
   // REQUIRED (location of the logo - png or jpg)
-  logo: path.join(__dirname, "tyrell.png"),
+  logo: path.join(__dirname, "logo.jpg"),
   // REQUIRED
-  name: "Tyrell-Yutani HUB",
+  name: "WalletConnect",
   // REQUIRED
-  description: "",
+  description: "Open protocol connecting wallets to dapps",
   // REQUIRED
-  homepage: "https://tyrell-yutani.app",
+  homepage: "https://walletconnect.com",
   // REQUIRED
   chains: ["eip155:1"],
   // REQUIRED
   versions: ["1"],
   // REQUIRED (at least one)
   app: {
-    browser: "https://tyrell-yutani.app",
+    browser: "https://react-app.walletconnect.com",
     ios: "",
     android: "",
     mac: "",
@@ -31,10 +31,10 @@ module.exports = {
     universal: "",
   },
   metadata: {
-    shortName: "TY_HUB",
+    shortName: "",
     colors: {
-      primary: "#fff",
-      secondary: "#000",
+      primary: "",
+      secondary: "",
     },
   },
 };
