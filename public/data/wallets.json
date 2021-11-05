@@ -3689,5 +3689,40 @@
         "secondary": ""
       }
     }
+  },
+  "42049d5de7c9e88664bb4e13db614decb08a4ba4f0e6eefd5617f25d3cb2983b": {
+    "id": "42049d5de7c9e88664bb4e13db614decb08a4ba4f0e6eefd5617f25d3cb2983b",
+    "name": "BlockBank",
+    "description": "",
+    "homepage": "https://blockbank.ai",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/blockbank/id1460965460",
+      "android": "https://play.google.com/store/apps/details?id=com.aibb.wallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "BBank",
+      "colors": {
+        "primary": "#f26422",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
