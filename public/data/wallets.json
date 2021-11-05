@@ -3724,5 +3724,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "d864d048f82084fac88d386c32b3261513ed7b5d1d4b52f96f91022059e984f9": {
+    "id": "d864d048f82084fac88d386c32b3261513ed7b5d1d4b52f96f91022059e984f9",
+    "name": "Orange",
+    "description": "",
+    "homepage": "https://orangewallet.app/",
+    "chains": [
+      "eip155:137"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "",
+      "android": "https://play.google.com/store/apps/details?id=org.orange.wallet",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "orangewallet:",
+      "universal": "https://link.orangewallet.app"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Orange",
+      "colors": {
+        "primary": "#EB5B56",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
