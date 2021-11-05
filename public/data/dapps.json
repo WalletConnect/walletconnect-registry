@@ -4444,5 +4444,40 @@
         "secondary": ""
       }
     }
+  },
+  "7c9754f94b305167ccc5770f9b9878d2a9f0150fc98dbdb6fa900553abf15f7c": {
+    "id": "7c9754f94b305167ccc5770f9b9878d2a9f0150fc98dbdb6fa900553abf15f7c",
+    "name": "Fuse Staking",
+    "description": "",
+    "homepage": "https://fuse.io",
+    "chains": [
+      "eip155:122"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://staking.fuse.io/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Fuse",
+      "colors": {
+        "primary": "#31928",
+        "secondary": "#f8ff00"
+      }
+    }
   }
 }
