@@ -4654,5 +4654,40 @@
         "secondary": ""
       }
     }
+  },
+  "c56663507f4a19ce710f784f84c3e45ec73fda6dd3abb36ef381400cb3604abf": {
+    "id": "c56663507f4a19ce710f784f84c3e45ec73fda6dd3abb36ef381400cb3604abf",
+    "name": "U-Swap",
+    "description": "How Useless at Crypto are you?",
+    "homepage": "https://uselesscrypto.com",
+    "chains": [
+      "eip155:56"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.uselesscrypto.com/swap/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
