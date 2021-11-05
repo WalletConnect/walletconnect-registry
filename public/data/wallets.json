@@ -3549,5 +3549,40 @@
         "secondary": "#FFF"
       }
     }
+  },
+  "2235b648bdf382bc1a6960f1db8eda5c71f65a1996e6cb549d24783ca58a2903": {
+    "id": "2235b648bdf382bc1a6960f1db8eda5c71f65a1996e6cb549d24783ca58a2903",
+    "name": "Binana",
+    "description": "",
+    "homepage": "https://binana.vip/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://binana.vip/",
+      "android": "https://binana.vip/",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": "https://master.tokenone.app"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Binana",
+      "colors": {
+        "primary": "#000",
+        "secondary": "#FFF"
+      }
+    }
   }
 }
