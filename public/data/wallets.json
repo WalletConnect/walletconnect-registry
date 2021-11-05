@@ -3794,5 +3794,40 @@
         "secondary": ""
       }
     }
+  },
+  "2969649937a2a6c587e1391446d60e2e06b9c5196162a6aa70a0002292aa8d22": {
+    "id": "2969649937a2a6c587e1391446d60e2e06b9c5196162a6aa70a0002292aa8d22",
+    "name": "Avacus",
+    "description": "",
+    "homepage": "https://avacus.cc/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/id1339638445",
+      "android": "https://play.google.com/store/apps/details?id=com.floortracks.avacus",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "avacus:",
+      "universal": "https://avacus.app.link"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Avacus",
+      "colors": {
+        "primary": "#f7a026",
+        "secondary": "#fff"
+      }
+    }
   }
 }
