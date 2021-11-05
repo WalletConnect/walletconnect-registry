@@ -3829,5 +3829,43 @@
         "secondary": "#fff"
       }
     }
+  },
+  "e70cbcfd76d90f45de86fc1d1548ecd7cbc700c999d26feac0b2badfd05090b3": {
+    "id": "e70cbcfd76d90f45de86fc1d1548ecd7cbc700c999d26feac0b2badfd05090b3",
+    "name": "Krystal",
+    "description": "Krystal is a secure and simple way to access the best DeFi services on a single platform",
+    "homepage": "https://krystal.app/",
+    "chains": [
+      "eip155:1",
+      "eip155:56",
+      "eip155:137",
+      "eip155:43114"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/vn/app/krystal-one-platform-all-defi/id1558105691",
+      "android": "https://play.google.com/store/apps/details?id=com.kyrd.krystal",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "krystalWallet:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Krystal",
+      "colors": {
+        "primary": "#1de9b6",
+        "secondary": "#000"
+      }
+    }
   }
 }
