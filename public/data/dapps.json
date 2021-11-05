@@ -4619,5 +4619,40 @@
         "secondary": ""
       }
     }
+  },
+  "8f8506b7f191a8ab95a8295fc8ca147aa152b1358bee4283d6ad2468d97e0ca4": {
+    "id": "8f8506b7f191a8ab95a8295fc8ca147aa152b1358bee4283d6ad2468d97e0ca4",
+    "name": "CeloTerminal",
+    "description": "The one-stop shop for everything Celo",
+    "homepage": "https://celoterminal.com",
+    "chains": [
+      "eip155:42220"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://celoterminal.com",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
