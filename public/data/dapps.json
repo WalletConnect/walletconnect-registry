@@ -4727,5 +4727,40 @@
         "secondary": "#000"
       }
     }
+  },
+  "0c6ccafe44a3fe7b2c48eb627d01af7477946c5880461b20459c28c1faaf395e": {
+    "id": "0c6ccafe44a3fe7b2c48eb627d01af7477946c5880461b20459c28c1faaf395e",
+    "name": "Decentraland",
+    "description": "Create, explore and trade in the first-ever virtual world owned by its users.",
+    "homepage": "https://decentraland.org",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://play.decentraland.org",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
