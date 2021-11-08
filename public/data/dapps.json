@@ -4832,5 +4832,40 @@
         "secondary": ""
       }
     }
+  },
+  "a6c7662de52db7c8088f1e32dcf04c122675c834c839c2eb40e495aed207d4e2": {
+    "id": "a6c7662de52db7c8088f1e32dcf04c122675c834c839c2eb40e495aed207d4e2",
+    "name": "Dogs of Elon",
+    "description": "",
+    "homepage": "https://dogsofelon.io/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://dogsofelon.io/",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
