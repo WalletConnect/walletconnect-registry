@@ -4797,5 +4797,40 @@
         "secondary": ""
       }
     }
+  },
+  "56f7370aafccaed767ac969e79fc0359063daead3a34dfe3991638cc105c5e6a": {
+    "id": "56f7370aafccaed767ac969e79fc0359063daead3a34dfe3991638cc105c5e6a",
+    "name": "SpookySwap",
+    "description": "",
+    "homepage": "https://spookyswap.finance/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://spookyswap.finance",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
