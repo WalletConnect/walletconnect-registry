@@ -4762,5 +4762,40 @@
         "secondary": ""
       }
     }
+  },
+  "f1a34d93e2545075fca526562cd59b6b21b8c344f76787594b5ec120a4babce8": {
+    "id": "f1a34d93e2545075fca526562cd59b6b21b8c344f76787594b5ec120a4babce8",
+    "name": "SpiritSwap",
+    "description": "",
+    "homepage": "https://spiritswap.finance/",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://app.spiritswap.finance",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "",
+      "colors": {
+        "primary": "",
+        "secondary": ""
+      }
+    }
   }
 }
