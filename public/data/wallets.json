@@ -2608,13 +2608,13 @@
   "36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b": {
     "id": "36d854b702817e228d5c853c528d7bdb46f4bb041d255f67b82eb47111e5676b",
     "name": "Celo Wallet",
-    "description": "",
+    "description": "A simple wallet for the Celo network. Manage your funds in a browser or on your desktop",
     "homepage": "https://celowallet.app/",
     "chains": [
       "eip155:42220"
     ],
     "versions": [
-      "1"
+      "2"
     ],
     "app": {
       "browser": "https://celowallet.app/",
