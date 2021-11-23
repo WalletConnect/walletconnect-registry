@@ -848,7 +848,7 @@
   },
   "1f69170bf7a9bdcf89403ec012659b7124e158f925cdd4a2be49274c24cf5e5d": {
     "id": "1f69170bf7a9bdcf89403ec012659b7124e158f925cdd4a2be49274c24cf5e5d",
-    "name": "CoolWallet S",
+    "name": "CoolWallet",
     "description": "",
     "homepage": "https://coolwallet.io/",
     "chains": [
@@ -866,7 +866,7 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
+      "native": "coolwallet:",
       "universal": ""
     },
     "desktop": {
@@ -874,7 +874,7 @@
       "universal": ""
     },
     "metadata": {
-      "shortName": "CoolWallet S",
+      "shortName": "CoolWallet",
       "colors": {
         "primary": "",
         "secondary": ""
