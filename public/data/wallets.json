@@ -2272,7 +2272,7 @@
       "linux": ""
     },
     "mobile": {
-      "native": "o3wallet:",
+      "native": "O3Wallet:",
       "universal": "https://o3.network"
     },
     "desktop": {
