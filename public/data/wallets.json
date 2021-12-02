@@ -3870,5 +3870,43 @@
         "secondary": "#fff"
       }
     }
+  },
+  "2c81da3add65899baeac53758a07e652eea46dbb5195b8074772c62a77bbf568": {
+    "id": "2c81da3add65899baeac53758a07e652eea46dbb5195b8074772c62a77bbf568",
+    "name": "Ambire Wallet",
+    "description": "Ambire Wallet is a full featured non-custodial open-source wallet that focuses on DeFi and unifies the best earning opportunities, while solving common pain points of DeFi and Ethereum. It combines power, security and ease of use: you can pay gas in stablecoins, send batch transactions, there are no ERC20 approvals, and you can secure your account using Ledger/Trezor.",
+    "homepage": "https://ambire.com",
+    "chains": [
+      "eip155:1",
+      "eip155:56",
+      "eip155:137",
+      "eip155:43114"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "https://wallet.walletconnect.com",
+      "ios": "",
+      "android": "",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": "https://wallet.ambire.com"
+    },
+    "metadata": {
+      "shortName": "Ambire",
+      "colors": {
+        "primary": "#aa6aff",
+        "secondary": "#80ffdb"
+      }
+    }
   }
 }
