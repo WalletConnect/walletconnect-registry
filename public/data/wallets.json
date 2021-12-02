@@ -1170,7 +1170,11 @@
     "description": "",
     "homepage": "https://tokenary.io/",
     "chains": [
-      "eip155:1"
+      "eip155:1",
+      "eip155:10",
+      "eip155:56",
+      "eip155:137",
+      "eip155:42161"
     ],
     "versions": [
       "1"
@@ -1178,8 +1182,8 @@
     "app": {
       "browser": "",
       "ios": "https://apps.apple.com/us/app/tokenary-ethereum-wallet/id1372886601",
-      "android": "https://play.google.com/store/apps/details?id=com.jufy.tokenary",
-      "mac": "",
+      "android": "",
+      "mac": "https://apps.apple.com/us/app/encrypted-ink/id1572522563",
       "windows": "",
       "linux": ""
     },
@@ -1188,14 +1192,14 @@
       "universal": ""
     },
     "desktop": {
-      "native": "",
-      "universal": ""
+      "native": "tokenary:",
+      "universal": "https://tokenary.io"
     },
     "metadata": {
       "shortName": "Tokenary",
       "colors": {
-        "primary": "",
-        "secondary": ""
+        "primary": "#fff",
+        "secondary": "#fff"
       }
     }
   },
@@ -2637,45 +2641,6 @@
       "colors": {
         "primary": "#35D07F",
         "secondary": "#FBCC5C"
-      }
-    }
-  },
-  "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1": {
-    "id": "fae2dad4aa2f53339397bb30088bf35a47af16dcaae4a32c0a00b29f843d9da1",
-    "name": "Encrypted Ink",
-    "description": "",
-    "homepage": "https://encrypted.ink",
-    "chains": [
-      "eip155:1",
-      "eip155:10",
-      "eip155:56",
-      "eip155:137",
-      "eip155:42161"
-    ],
-    "versions": [
-      "1"
-    ],
-    "app": {
-      "browser": "",
-      "ios": "",
-      "android": "",
-      "mac": "https://apps.apple.com/us/app/encrypted-ink/id1572522563",
-      "windows": "",
-      "linux": ""
-    },
-    "mobile": {
-      "native": "",
-      "universal": ""
-    },
-    "desktop": {
-      "native": "encryptedink:",
-      "universal": "https://encrypted.ink"
-    },
-    "metadata": {
-      "shortName": "Encrypted Ink",
-      "colors": {
-        "primary": "#fff",
-        "secondary": "#fff"
       }
     }
   },
