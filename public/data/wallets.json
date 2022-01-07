@@ -3994,5 +3994,40 @@
         "secondary": "#29C0FF"
       }
     }
+  },
+  "dc60a1e5de0012be6f899b2d069837360a874f88e1a453a018a2284d9822dfb6": {
+    "id": "dc60a1e5de0012be6f899b2d069837360a874f88e1a453a018a2284d9822dfb6",
+    "name": "Frontier",
+    "description": "Your Front Seat to Crypto and DeFi",
+    "homepage": "https://frontier.xyz",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/frontier-defi-wallet/id1482380988",
+      "android": "https://play.google.com/store/apps/details?id=com.frontierwallet&hl=en_IN&gl=US",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "frontier:",
+      "universal": ""
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Frontier",
+      "colors": {
+        "primary": "#CC703C",
+        "secondary": "#FFFFFF"
+      }
+    }
   }
 }
