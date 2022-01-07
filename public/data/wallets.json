@@ -3469,7 +3469,7 @@
       "eip155:1666600000"
     ],
     "versions": [
-      "1", 
+      "1",
       "2"
     ],
     "app": {
@@ -3957,6 +3957,41 @@
       "colors": {
         "primary": "#aa6aff",
         "secondary": "#80ffdb"
+      }
+    }
+  },
+  "cf53e18ace65b6304a34f9842cf2781c47d4ef3591c8003fda5e2e8ff341efaa": {
+    "id": "cf53e18ace65b6304a34f9842cf2781c47d4ef3591c8003fda5e2e8ff341efaa",
+    "name": "Spot",
+    "description": "Spot is a mobile non-custodial wallet available on iOS and Android. It currently natively supports the following blockchains: Bitcoin, Ethereum, Solana, Tezos and more.",
+    "homepage": "https://spot-wallet.com",
+    "chains": [
+      "eip155:1"
+    ],
+    "versions": [
+      "1"
+    ],
+    "app": {
+      "browser": "",
+      "ios": "https://apps.apple.com/us/app/buy-bitcoin-spot-wallet-app/id1390560448",
+      "android": "https://play.google.com/store/apps/details?id=com.spot.spot",
+      "mac": "",
+      "windows": "",
+      "linux": ""
+    },
+    "mobile": {
+      "native": "spot:",
+      "universal": "https://spot.so/"
+    },
+    "desktop": {
+      "native": "",
+      "universal": ""
+    },
+    "metadata": {
+      "shortName": "Spot",
+      "colors": {
+        "primary": "#29C0FF",
+        "secondary": "#29C0FF"
       }
     }
   }
