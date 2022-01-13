@@ -936,7 +936,7 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
+      "native": "awallet:",
       "universal": "https://aw.app"
     },
     "desktop": {
