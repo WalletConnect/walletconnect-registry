@@ -1062,7 +1062,7 @@
   "9277bc510b6d95f29be38e7c0e402ae8438262f0f4c6dbb40dfc22f5043e8814": {
     "id": "9277bc510b6d95f29be38e7c0e402ae8438262f0f4c6dbb40dfc22f5043e8814",
     "name": "Coinomi",
-    "description": "",
+    "description": "The blockchain wallet trusted by millions. Securely store, manage, and exchange Bitcoin, Ethereum, and more than 1,770 Tokens and Altcoins.",
     "homepage": "https://coinomi.com/",
     "chains": [
       "eip155:1"
@@ -1079,8 +1079,8 @@
       "linux": ""
     },
     "mobile": {
-      "native": "",
-      "universal": ""
+      "native": "coinomi",
+      "universal": "https://coinomi.page.link"
     },
     "desktop": {
       "native": "",
